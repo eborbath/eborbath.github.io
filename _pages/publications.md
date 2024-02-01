@@ -6,7 +6,7 @@ description:
 article_years: [2023, 2022, 2021, 2020, 2019, 2012, 2011]
 review_years: [2022, 2017, 2016]
 chapter_years: [2022, 2021, 2020, 2019, 2018]
-working_paper_year: [2023, 2024]
+working_paper_year: [2024, 2023]
 in_list: 3
 nav: true
 nav_order: 3

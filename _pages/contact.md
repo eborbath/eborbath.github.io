@@ -4,6 +4,7 @@ permalink: /contact/
 title: contact
 nav: true
 nav_order: 6
+social: true # includes social icons at the bottom of the page
 ---
 
 If you would like to contact me, send me an email to: [borbath.endre+website[at]gmail.com](mailto:borbath.endre+website@gmail.com). \\
@@ -26,8 +27,3 @@ Garystr. 55,  Room 309, \\
 14195 Berlin \\
 Tel: +49 30 83866 433 (Mo/Tu)
 
-<div class="social">
-	<div class="contact-icons">
-   {% include social.html %}
-    </div>
-</div>
