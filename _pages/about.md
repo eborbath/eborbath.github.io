@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a junior professor for Empirical-Analytical Participation Research, working at the [Institute for Political Science](https://www.uni-heidelberg.de/politikwissenschaften/){:target="_blank"} at the Heidelberg University. I am also a guest researcher at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research){:target="_blank"} at the WZB Berlin Social Science Center.
+I am a junior professor for Empirical-Analytical Participation Research, working at the [Institute of Political Science](https://www.uni-heidelberg.de/politikwissenschaften/){:target="_blank"} at the Heidelberg University. I am also a guest researcher at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research){:target="_blank"} at the WZB Berlin Social Science Center.
 
 __Research interests__: political participation, party competition, social movements, civil society, cleavages, comparative politics, Western Europe, Central and Eastern Europe, research methods.
 

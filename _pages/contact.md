@@ -12,18 +12,17 @@ If you would like to book a slot during office hours, at the moment __only onlin
 
 For everything else:
 
-WZB Berlin Social Science Center, \\
-Center for Civil Society Research, \\
-Reichpietschufer 50, Room D 025, \\
-10785 Berlin \\
-Tel: +49 30 25491 245 (We/Th/Fr)
+Ruprecht-Karls-Universität Heidelberg \\
+Institute of Political Science \\
+Bergheimer Str. 58, Room 03.033, \\
+69115 Heidelberg, Germany \\
+Tel: +49 62 21542 871
 
 or
 
-Freie Universität Berlin, \\
-Department of Political and Social Sciences, \\
-Institute of Sociology,  \\
-Garystr. 55,  Room 309, \\
-14195 Berlin \\
-Tel: +49 30 83866 433 (Mo/Tu)
+WZB Berlin Social Science Center \\
+Center for Civil Society Research \\
+Reichpietschufer 50, Room D 025, \\
+10785 Berlin \\
+Tel: +49 30 25491 245 
 
