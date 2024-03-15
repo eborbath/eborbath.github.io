@@ -20,6 +20,7 @@ nav: true
 </ul>
 <h2>German</h2>
 <ul>
+<li><a href="https://www.fr.de/politik/rechtsruck-europa-wahl-analyse-afd-fpoe-orban-populisten-extremisten-umfrage-hoehenflug-92852846.html"  target="_blank"> Rechtsruck in Europa? Analyse zeigt Ausmaß – Politologe warnt vor Trugschluss</a>, Frankfurter Rundschau, February 25, 2024</li>
 <li><a href="https://bibliothek.wzb.eu/fulltext/journal-vt/wzb-mitteilungen/wm2023_179.pdf"  target="_blank">  Das politische Klima Krieg und Energiekrise verlangen europäische Antworten auf die Klimakrise</a>, WZB Mitteilungen, Nr. 179: Europa, pp. 54-57, March 2023</li>
 <li>Wahlen in Italien, TAFF, Pro Sieben, September 26, 2022</li>	
 <li><a href="https://www.stern.de/amp/politik/deutschland/experte-erklaert-was-rechte-parteien-in-europa-verbindet---und-was-sie-trennt-32737888.html" target="_blank"> 
@@ -35,8 +36,8 @@ Putin-Freund Orban droht der Sturz</a>, Blick.ch, March 30, 2022</li>
 </ul>
 <h2>Hungarian</h2>
 <ul>
-<li><a href="https://transtelex.ro/kozelet/2022/04/05/borbath-endre-valasztasok-fidesz-rmdsz-viszony" targe="_blank">Az erdélyi identitás egyre inkább kiszorul, és betagozódik egy nagy magyar tömbidentitásba
-</a>, Transtelex, April 05, 2022</li>
+<li><a href="https://open.spotify.com/episode/7JJYSjGLIr19guJLY8WKuM?si=mFZBZDEFQnuYbAOVeKvtlg&nd=1&dlsi=bd3eff2a227f4b11" targe="_blank">Naprakész | Hogyan alakul át a világunk 2024-ben?</a>, Marosvásárhelyi Rádió, January 15, 2024</li>
+<li><a href="https://transtelex.ro/kozelet/2022/04/05/borbath-endre-valasztasok-fidesz-rmdsz-viszony" targe="_blank">Az erdélyi identitás egyre inkább kiszorul, és betagozódik egy nagy magyar tömbidentitásba, </a> Transtelex, April 05, 2022</li>
 <li><a href="https://itthon.transindex.ro/?cikk=29307&egymas_legnagyobb_rivalisai_voltak_most_ketharmaddal_kezdtek_a_kormanyzast" targe="_blank">Egymás legnagyobb riválisai voltak, most kétharmaddal kezdték a kormányzást</a>, Transindex, December 06, 2021</li>
 <li><a href="https://telex.hu/kulfold/2021/12/05/romania-nagykoalicio-kormany-ketharmad-liberalis-szocialdemokrata-part" targe="_blank">Egymás legnagyobb riválisai voltak, most kétharmaddal kezdték a kormányzást</a>, Telex, December 06, 2021</li>
 <li><a href="https://www.marosvasarhelyiradio.ro/musorok/borbath-endre-angela-merkel-hagyatekarol-es-a-kompromisszumgepezet-utani-nemetorszagrol/?fbclid=IwAR18zFHR4mEhWqnHBhSWLBrK72K6DFKQ_QQLVuk_GAoiduvWIGqBXi0Hwr8" targe="_blank">Borbáth Endre Angela Merkel hagyatékáról és a „kompromisszumgépezet” utáni Németországról</a>, Marosvásárhelyi Rádió, November 26, 2021</li>
