@@ -20,6 +20,7 @@ nav: true
 </ul>
 <h2>German</h2>
 <ul>
+<li><a href="https://allnewspress.com/deutsch/lokal-gegrundete-scherzparteien-sind-bereit-die-eu-wahlen-aufzumischen-euractiv/"  target="_blank"> Lokal gegründete Scherzparteien sind bereit, die EU-Wahlen aufzumischen</a>, Euractiv, March 28, 2024</li>
 <li><a href="https://www.fr.de/politik/rechtsruck-europa-wahl-analyse-afd-fpoe-orban-populisten-extremisten-umfrage-hoehenflug-92852846.html"  target="_blank"> Rechtsruck in Europa? Analyse zeigt Ausmaß – Politologe warnt vor Trugschluss</a>, Frankfurter Rundschau, February 25, 2024</li>
 <li><a href="https://bibliothek.wzb.eu/fulltext/journal-vt/wzb-mitteilungen/wm2023_179.pdf"  target="_blank">  Das politische Klima Krieg und Energiekrise verlangen europäische Antworten auf die Klimakrise</a>, WZB Mitteilungen, Nr. 179: Europa, pp. 54-57, March 2023</li>
 <li>Wahlen in Italien, TAFF, Pro Sieben, September 26, 2022</li>	

@@ -7,6 +7,29 @@ nav: true
 ---
 
 <div class="publications">
+  <h2 class="pbtypes">2023-2024</h2>
+  <ol class="bibliography">
+    <li> &#9679; Political Conflict in Western and Eastern Europe, <a href="https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/politikwissenschaft/politikwissenschaft-master"
+        target="_blank">Politikwissenschaft – Master</a>, Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a href="{{ '/assets/pdf/Borbath_PolCon_MA.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button"
+          target="_blank">syllabus</a>
+      </div>
+      <div class="abstract hidden">
+        <p>The social and institutional bases of political conflict in Europe are in a state of flux. The declining electoral support of mainstream parties, such as the Social Democrats, and the rise of new parties, such as the Greens and the radical right, point to a fundamental shift in the composition of post-war electoral coalitions. Class-based mobilization and conflicts over welfare state policies are less influential in driving political behavior. Preferences over immigration, Europe, or climate change are forming new group-based alliances that cut across economic considerations and realign the social basis of politics. Scholars disagree about the driving forces behind these developments, with explanations ranging from re-alignment rooted in a backlash against globalization to de-alignment resulting from increasing individualization. This seminar will examine these explanations through the lens of cleavage politics. We will first conceptualize and discuss the measurement of political cleavages. We differentiate between quantitative and qualitative approaches. Second, we zoom in on the sociological, identity, and organizational elements of the new cleavage. We devote separate sessions to all three aspects. Third, we focus on mobilizing actors. We discuss the transformation of social democracy and the increasing popularity of green and radical right parties. Fourth, we map the geographical variations within Europe and expand the analysis to the Central and Eastern European region. Fifth, in the final sessions of the seminar, we discuss the role of crises in driving cleavage formation, using the examples of the Great Recession, the Covid-19 pandemic, and the War in Ukraine as case studies.</p>
+      </div>
+    <li> &#9679; Introduction to Political Participation Research, <a href="https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/politikwissenschaft/politikwissenschaft-bachelor-75"
+        target="_blank">Politikwissenschaft – Bachelor</a>, Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a href="{{ '/assets/pdf/Borbath_PolPart_BA.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button"
+          target="_blank">syllabus</a>
+      </div>
+      <div class="abstract hidden">
+        <p>Democracy depends on the active participation of engaged citizens in electing their representatives and shaping the political landscape by holding policymakers accountable. However, forms of political engagement are constantly expanding as citizens and organizations seek to innovate their repertoire of participation. The first part of the seminar will discuss the conceptual and empirical challenge of defining and measuring political participation. We will distinguish and review quantitative and qualitative approaches to the study of political participation. Since citizen participation empowers and sets the agenda of governing institutions and elected officials, those who participate directly affect inequalities in whose interests are represented. The second part of the seminar is devoted to this question and examines the predictors of political participation. We examine the role of socio-demographic, attitudinal, and value-based differences in driving political engagement. We also organize an in-class debate on the advantages and disadvantages of mandatory voting. Despite their importance, differences between individual citizens only partly explain patterns of political participation. The final three sessions of the seminar discuss the role of the issue, organizational, and national contexts in influencing the extent and form of political participation.</p>
+      </div>
+    </li>
   <h2 class="pbtypes">2022-2023</h2>
   <ol class="bibliography">
     <li> &#9679; Cleavage Politics and Group Appeals
