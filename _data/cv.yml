@@ -6,6 +6,21 @@
 #     - name: Year of Birth
 #       value: 1991
 
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Junior Professor for Empirical-Analytical Participation Research
+      institution: Ruprecht-Karls-Universität Heidelberg
+      year: 2024 - ongoing
+
+    - title: Postdoctoral Researcher
+      institution: Freie Universität Berlin and WZB Berlin Social Science Center
+      year: 2018 – 2024
+      
+    - title: PhD researcher, focusing on Central and Eastern Europe
+      institution: European University Institute, Florence, ERC project - Political Conflict in Europe in the Shadow of the Great Recession (POLCON, PI&#58; Hanspeter Kriesi)
+      year: 2014-2018  
+
 - title: Education
   type: time_table
   contents:
@@ -29,13 +44,3 @@
       institution: Babeş‑Bolyai University, Cluj‑Napoca, Romania
       year: 2009 - 2012
       
-- title: Work Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Researcher
-      institution: Freie Universität Berlin and WZB Berlin Social Science Center
-      year: 2018 – 2024
-      
-    - title: PhD researcher, focusing on Central and Eastern Europe
-      institution: European University Institute, Florence, ERC project - Political Conflict in Europe in the Shadow of the Great Recession (POLCON, PI&#58; Hanspeter Kriesi)
-      year: 2014-2018  
