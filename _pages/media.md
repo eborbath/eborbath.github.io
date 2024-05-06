@@ -37,6 +37,7 @@ Putin-Freund Orban droht der Sturz</a>, Blick.ch, March 30, 2022</li>
 </ul>
 <h2>Hungarian</h2>
 <ul>
+<li><a href="https://transtelex.ro/velemeny/2024/05/03/vakfoltok-az-etnopolitikai-vitaban-borbath-endre" targe="_blank">Vakfoltok az etnopolitikai vitában</a>, Transtelex, May 3, 2024</li>
 <li><a href="https://open.spotify.com/episode/7JJYSjGLIr19guJLY8WKuM?si=mFZBZDEFQnuYbAOVeKvtlg&nd=1&dlsi=bd3eff2a227f4b11" targe="_blank">Naprakész | Hogyan alakul át a világunk 2024-ben?</a>, Marosvásárhelyi Rádió, January 15, 2024</li>
 <li><a href="https://transtelex.ro/kozelet/2022/04/05/borbath-endre-valasztasok-fidesz-rmdsz-viszony" targe="_blank">Az erdélyi identitás egyre inkább kiszorul, és betagozódik egy nagy magyar tömbidentitásba, </a> Transtelex, April 05, 2022</li>
 <li><a href="https://itthon.transindex.ro/?cikk=29307&egymas_legnagyobb_rivalisai_voltak_most_ketharmaddal_kezdtek_a_kormanyzast" targe="_blank">Egymás legnagyobb riválisai voltak, most kétharmaddal kezdték a kormányzást</a>, Transindex, December 06, 2021</li>
