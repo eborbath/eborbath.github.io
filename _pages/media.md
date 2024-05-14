@@ -76,6 +76,9 @@ Putin-Freund Orban droht der Sturz</a>, Blick.ch, March 30, 2022</li>
 </ul>
 <h2>Other</h2>
 <ul>
+<li><a href="https://www.cmjornal.pt/mais-cm/especiais/europa-viva/detalhe/direita-conservadora-alema-a-frente-de-partidos-do-governo-nas-sondagens-para-as-eleicoes-europeias" target="_blank">Direita conservadora alemã à frente de partidos do governo nas sondagens para as eleições europeias</a>, Correio da Manha, May 06, 2024 </li>
+<li><a href="https://www.noticiasaominuto.com/mundo/2554579/direita-conservadora-alema-a-frente-de-partidos-do-governo-nas-sondagens" target="_blank">Direita conservadora alemã à frente de partidos do governo nas sondagens
+</a>, Mundo Minuto, May 06, 2024 </li>
 <li><a href="https://exame.com/mundo/eleicoes-hungria-orban/"  target="_blank">Na Hungria, a eleição que pode desencadear a próxima crise europeia</a>, Exame, April 02, 2022 </li>
 </ul>
 
