@@ -7,7 +7,7 @@ nav_order: 6
 social: true # includes social icons at the bottom of the page
 ---
 
-If you would like to contact me, send me an email to: [borbath.endre+website[at]gmail.com](mailto:borbath.endre+website@gmail.com). \\
+If you would like to contact me, send me an email to: [endre.borbath@ipw.uni-heidelberg.de](mailto:endre.borbath@ipw.uni-heidelberg.de). \\
 If you would like to book a slot during office hours, at the moment __only online__, please use <a href="https://calendly.com/endre-borbath/office-hour" target="_blank">this link</a>.
 
 For everything else:
