@@ -8,6 +8,7 @@ nav: true
 
 <h2>English</h2>
 <ul>
+<li><a href="https://www.dw.com/en/germanys-political-landscape-is-more-fractured-than-ever/a-70211395">Germany's political landscape is more fractured than ever</a>, Deutsche Welle, September 13, 2024</li>
 <li><a href="https://precede.eu/index.php/2022/04/01/blog-the-electoral-dynamics-of-the-hungarian-elections-2022/"  target="_blank">The Electoral Dynamics of the Hungarian Elections 2022</a>, Precede.eu, April 1, 2022</li>
 <li><a href="https://theconversation.com/coronavirus-why-central-and-eastern-european-countries-seem-to-be-running-out-of-luck-146349"  target="_blank">  Coronavirus: why central and eastern European countries seem to be running out of luck </a>, The Conversation, September 18, 2020</li>
 <li><a href="https://www.wzb.eu/en/research/coronavirus-and-its-impact/the-political-consequences-of-crisis-lessons-learned-from-tbyhe-great-recession"  target="_blank"> The Political Consequences of Crisis: Lessons learned from the Great Recession</a>, WZB Berlin Social Science Center, May 07, 2020</li>
@@ -20,6 +21,7 @@ nav: true
 </ul>
 <h2>German</h2>
 <ul>
+<li><a href="https://www.dw.com/de/afd-bsw-und-die-neue-deutsche-parteienlandschaft/a-70198879">AfD, BSW und Deutschlands neue Parteienlandschaft</a>, Deutsche Welle, September 13, 2024</li>
 <li><a href="https://allnewspress.com/deutsch/lokal-gegrundete-scherzparteien-sind-bereit-die-eu-wahlen-aufzumischen-euractiv/"  target="_blank"> Lokal gegründete Scherzparteien sind bereit, die EU-Wahlen aufzumischen</a>, Euractiv, March 28, 2024</li>
 <li><a href="https://www.fr.de/politik/rechtsruck-europa-wahl-analyse-afd-fpoe-orban-populisten-extremisten-umfrage-hoehenflug-92852846.html"  target="_blank"> Rechtsruck in Europa? Analyse zeigt Ausmaß – Politologe warnt vor Trugschluss</a>, Frankfurter Rundschau, February 25, 2024</li>
 <li><a href="https://bibliothek.wzb.eu/fulltext/journal-vt/wzb-mitteilungen/wm2023_179.pdf"  target="_blank">  Das politische Klima Krieg und Energiekrise verlangen europäische Antworten auf die Klimakrise</a>, WZB Mitteilungen, Nr. 179: Europa, pp. 54-57, March 2023</li>
