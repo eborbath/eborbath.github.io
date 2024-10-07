@@ -21,6 +21,8 @@ nav: true
 </ul>
 <h2>German</h2>
 <ul>
+<li><a href="https://kurier.at/politik/ausland/warum-rechtspopulismus-gruende-fpoe-kickl-afd/402959253">Warum stehen die Menschen so weit rechts?</a>, Kurier, October 10, 2024</li>
+<li><a href="https://www.spektrum.de/news/demokratieforschung-der-umbruch-der-parteienlandschaft-in-europa/2234819">Die ›Bewegungisierung‹ hat weit reichende Konsequenzen</a>, Spektrum.de, September 30, 2024</li>
 <li><a href="https://www.dw.com/de/afd-bsw-und-die-neue-deutsche-parteienlandschaft/a-70198879">AfD, BSW und Deutschlands neue Parteienlandschaft</a>, Deutsche Welle, September 13, 2024</li>
 <li><a href="https://allnewspress.com/deutsch/lokal-gegrundete-scherzparteien-sind-bereit-die-eu-wahlen-aufzumischen-euractiv/"  target="_blank"> Lokal gegründete Scherzparteien sind bereit, die EU-Wahlen aufzumischen</a>, Euractiv, March 28, 2024</li>
 <li><a href="https://www.fr.de/politik/rechtsruck-europa-wahl-analyse-afd-fpoe-orban-populisten-extremisten-umfrage-hoehenflug-92852846.html"  target="_blank"> Rechtsruck in Europa? Analyse zeigt Ausmaß – Politologe warnt vor Trugschluss</a>, Frankfurter Rundschau, February 25, 2024</li>

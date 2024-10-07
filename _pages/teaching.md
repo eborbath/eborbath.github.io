@@ -7,8 +7,35 @@ nav: true
 ---
 
 <div class="publications">
-  <h2 class="pbtypes">2023-2024</h2>
+  <h2 class="pbtypes">2024-2025</h2>
   <ol class="bibliography">
+    <li> &#9679; Party - Movement Interactions, <a href="https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/politikwissenschaft/"
+        target="_blank">Politikwissenschaft – Master</a>, Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a href="{{ '/assets/pdf/Borbath_PaMo_MA.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button"
+          target="_blank">syllabus</a>
+      </div>
+      <div class="abstract hidden">
+        <p>Political parties and social movements are the main organizational agents that facilitate citizen participation in elections and protests. Parties provide institutional channels for policy implementation and political influence, while movements provide grassroots support and ideological strength. The two can engage in either conflictual or symbiotic relationships, shaping the broader political landscape, policy agendas, coalition dynamics, and electoral and protest behavior. The extent and nature of these interactions vary according to factors such as political context, movement strategies, and party ideology.</p>
+        <p>This seminar explores the theoretical foundations, empirical evidence, and practical implications of party-movement interactions, divided into four blocks. The first block examines the different types of party-movement interactions, from conflictual to cooperative. The second block focuses on contextual effects, with sessions devoted to the differences between left and right forces, parties in government and parties in opposition, and old and new democracies. The third block focuses on the causes of these interactions, with special sections on the role of cleavage formation, socio-economic crises, and party strategies. The seminar concludes with a block on the consequences of party-movement interactions in terms of polarization and democratic backsliding.</p>
+      </div>
+    </li>
+    <li> &#9679; Quantitative Methods in the Study of Political Behavior, <a href="https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/politikwissenschaft/"
+        target="_blank">Politikwissenschaft – Bachelor & Master</a>, Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a href="{{ '/assets/pdf/Borbath_QuantPoBe.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button"
+          target="_blank">syllabus</a>
+      </div>
+      <div class="abstract hidden">
+        <p>This seminar provides a hands-on approach to learning quantitative techniques in the analysis of political behaviour, with a focus on the use of R and RStudio. Participants will engage in practical exercises and data analysis to gain skills in using quantitative methods to study individual-level attitudes, behavior, party competition and the dynamic of protest events. Topics covered range from data management and descriptive visualisation to advanced modelling techniques.</p>
+        <p>The seminar is divided into four parts. The first part focuses on introducing the language of quantitative research, formulating research questions, finding the appropriate research design, operationalization, and measurement. The second part focuses on data management and descriptive statistics, providing a foundation for handling and summarising data. The third part covers bivariate and multivariate data analysis and visualisation, equipping participants with the skills to interpret and present their results. The fourth part covers more advanced topics tailored to students' interests. Students will have the opportunity to learn more about one or two of the following topics: categorical data analysis, time series data analysis, conjoint experiments, factor analysis, latent class analysis, multilevel data analysis, panel data analysis, and constructing survey weights. The class will decide together which of these topics we will cover.</p>
+        <p>Students will have the opportunity to work with an original survey dataset covering political attitudes, voting and protesting behaviour, and party affiliation. This dataset was collected in 2023 in Austria, Germany, Hungary, and Italy.</p>
+      </div>
+    </li>
+    <h2 class="pbtypes">2023-2024</h2>
+    <ol class="bibliography">
     <li> &#9679; Political Conflict in Western and Eastern Europe, <a href="https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/politikwissenschaft/politikwissenschaft-master"
         target="_blank">Politikwissenschaft – Master</a>, Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
       <div class="links">
@@ -19,6 +46,7 @@ nav: true
       <div class="abstract hidden">
         <p>The social and institutional bases of political conflict in Europe are in a state of flux. The declining electoral support of mainstream parties, such as the Social Democrats, and the rise of new parties, such as the Greens and the radical right, point to a fundamental shift in the composition of post-war electoral coalitions. Class-based mobilization and conflicts over welfare state policies are less influential in driving political behavior. Preferences over immigration, Europe, or climate change are forming new group-based alliances that cut across economic considerations and realign the social basis of politics. Scholars disagree about the driving forces behind these developments, with explanations ranging from re-alignment rooted in a backlash against globalization to de-alignment resulting from increasing individualization. This seminar will examine these explanations through the lens of cleavage politics. We will first conceptualize and discuss the measurement of political cleavages. We differentiate between quantitative and qualitative approaches. Second, we zoom in on the sociological, identity, and organizational elements of the new cleavage. We devote separate sessions to all three aspects. Third, we focus on mobilizing actors. We discuss the transformation of social democracy and the increasing popularity of green and radical right parties. Fourth, we map the geographical variations within Europe and expand the analysis to the Central and Eastern European region. Fifth, in the final sessions of the seminar, we discuss the role of crises in driving cleavage formation, using the examples of the Great Recession, the Covid-19 pandemic, and the War in Ukraine as case studies.</p>
       </div>
+    </li>
     <li> &#9679; Introduction to Political Participation Research, <a href="https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/politikwissenschaft/politikwissenschaft-bachelor-75"
         target="_blank">Politikwissenschaft – Bachelor</a>, Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
       <div class="links">
