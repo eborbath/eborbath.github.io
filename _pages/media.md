@@ -21,6 +21,7 @@ nav: true
 </ul>
 <h2>German</h2>
 <ul>
+<li><a href="https://kurier.at/politik/ausland/endre-borbath-ungarn-orban-migration-rechts-populisten-radikale/402962847">Brandmauer gegen Rechtspopulisten? - "Schwer aufrecht zu erhalten", sagt der Experte</a>, Kurier, October 21, 2024</li>
 <li><a href="https://kurier.at/politik/ausland/warum-rechtspopulismus-gruende-fpoe-kickl-afd/402959253">Warum stehen die Menschen so weit rechts?</a>, Kurier, October 10, 2024</li>
 <li><a href="https://www.spektrum.de/news/demokratieforschung-der-umbruch-der-parteienlandschaft-in-europa/2234819">Die ›Bewegungisierung‹ hat weit reichende Konsequenzen</a>, Spektrum.de, September 30, 2024</li>
 <li><a href="https://www.dw.com/de/afd-bsw-und-die-neue-deutsche-parteienlandschaft/a-70198879">AfD, BSW und Deutschlands neue Parteienlandschaft</a>, Deutsche Welle, September 13, 2024</li>

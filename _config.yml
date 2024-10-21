@@ -104,7 +104,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics: G-WCJGZ05S7V # your google-analytics ID (format: UA-XXXXXXXXX)
 ga4_analytics: G-WCJGZ05S7V
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
