@@ -186,12 +186,14 @@ blockquote {
   width: 100%;
 
   .more-info {
-    margin-bottom: 0.1rem;
-    margin-top: 0.1rem;
+    margin-bottom: 0rem;
+    margin-top: -10px;
     font-family: monospace;
+    text-align: center;
 
     p {
       display: inline-block;
+      text-align: center;
       margin: 0;
     }
   }
@@ -203,7 +205,7 @@ blockquote {
 
 .profile.float-left {
   margin-right: 1rem;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0.5rem;
 }
 
 @media (min-width: 576px) {
