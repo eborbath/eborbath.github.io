@@ -10,7 +10,6 @@ profile:
   image_cicular: false # crops the image to make it circular
   more_info: >
     <p style="font-size: 10px; text-align: center;">Photo by: © Klaus Landry</p>
-
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
