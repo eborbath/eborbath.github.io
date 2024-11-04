@@ -9,7 +9,7 @@ profile:
   image: Endre_Borbath-min-sq.jpeg
   image_cicular: false # crops the image to make it circular
   more_info: >
-    <p style="font-size: 10px; text-align: center;">© Klaus Landry, Universität Heidelberg, Kommunikation und Marketing</p>
+    <p style="font-size: 10px; text-align: center;">© Klaus Landry</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
