@@ -42,6 +42,8 @@ Putin-Freund Orban droht der Sturz</a>, Blick.ch, March 30, 2022</li>
 </ul>
 <h2>Hungarian</h2>
 <ul>
+<li><a href="https://www.youtube.com/watch?v=Kjm_S6XhHwU" targe="_blank">És a parlamenti választások érdekelnek még valakit?
+</a>, Miközöd? Erdélyi közéleti podcast, October 29, 2024</li>
 <li><a href="https://transtelex.ro/kozelet/2024/06/20/ep-valasztasok-aur-ecr-fidesz-elemzes" targe="_blank">Az AUR bejutott az ECR-be, a Fidesz nem, holott több a hasonlóság a két párt között, mint gondolnánk</a>, Transtelex, June 20, 2024</li>
 <li><a href="https://transtelex.ro/kozelet/2024/06/11/valasztasi-kiertekelo-online-beszelgetes-osszefoglalo" targe="_blank">Választási elemzés a Transtelexen: a progresszív oldal összeomlása és a szélsőségesség térnyerése jellemezte a választásokat</a>, Transtelex, June 11, 2024</li>
 <li><a href="https://transtelex.ro/velemeny/2024/05/03/vakfoltok-az-etnopolitikai-vitaban-borbath-endre" targe="_blank">Vakfoltok az etnopolitikai vitában</a>, Transtelex, May 3, 2024</li>
