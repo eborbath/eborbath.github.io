@@ -2,7 +2,7 @@
 layout: post
 date: 2024-10-07 16:14:00-0400
 inline: true
-main_page: true
+main_page: false
 ---
 
 I've prepared the syllabi for the two seminars I will teach in the winter semester at the Ruprecht-Karls-Universität Heidelberg:
