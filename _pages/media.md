@@ -42,8 +42,12 @@ Putin-Freund Orban droht der Sturz</a>, Blick.ch, March 30, 2022</li>
 </ul>
 <h2>Hungarian</h2>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=Kjm_S6XhHwU" targe="_blank">És a parlamenti választások érdekelnek még valakit?
-</a>, Miközöd? Erdélyi közéleti podcast, October 29, 2024</li>
+<li><a href="https://www.facebook.com/transtelex.ro/videos/1263742478009943/" targe="_blank">A demokrácia határán egyensúlyoz Románia. Online kiértékelő az elnökválasztás érvénytelenítése után</a>, Transtelex, December 9, 2024</li>
+<li><a href="https://www.youtube.com/watch?v=PDCQnYUQyhI" targe="_blank">Most menekült meg, vagy most bukott el a román demokrácia?</a>, Partizán, December 8, 2024</li>
+<li><a href="https://www.facebook.com/transtelex.ro/videos/1107027087740249/" targe="_blank">Merre tovább, Románia? Választási kiértékelő a Transtelexen</a>, Transtelex, December 2, 2024</li>
+<li><a href="https://www.facebook.com/transtelex.ro/videos/873902298066921/" targe="_blank">Elnökválasztás félidőben: mi várható a második fordulóban?</a>, Transtelex, November 25, 2024</li>
+<li><a href="https://www.youtube.com/watch?v=chD5D6lawAg" targe="_blank">Az üresség forradalma: Klaus Iohannis tíz éve</a>, Átlátszó Erdély, November 22, 2024</li>
+<li><a href="https://www.youtube.com/watch?v=Kjm_S6XhHwU" targe="_blank">És a parlamenti választások érdekelnek még valakit?</a>, Miközöd? Erdélyi közéleti podcast, October 29, 2024</li>
 <li><a href="https://transtelex.ro/kozelet/2024/06/20/ep-valasztasok-aur-ecr-fidesz-elemzes" targe="_blank">Az AUR bejutott az ECR-be, a Fidesz nem, holott több a hasonlóság a két párt között, mint gondolnánk</a>, Transtelex, June 20, 2024</li>
 <li><a href="https://transtelex.ro/kozelet/2024/06/11/valasztasi-kiertekelo-online-beszelgetes-osszefoglalo" targe="_blank">Választási elemzés a Transtelexen: a progresszív oldal összeomlása és a szélsőségesség térnyerése jellemezte a választásokat</a>, Transtelex, June 11, 2024</li>
 <li><a href="https://transtelex.ro/velemeny/2024/05/03/vakfoltok-az-etnopolitikai-vitaban-borbath-endre" targe="_blank">Vakfoltok az etnopolitikai vitában</a>, Transtelex, May 3, 2024</li>
