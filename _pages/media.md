@@ -45,7 +45,7 @@ Putin-Freund Orban droht der Sturz</a>, Blick.ch, March 30, 2022</li>
 </ul>
 <h2>Hungarian</h2>
 <ul>
-<li><a href="https://www.facebook.com/transtelex.ro/videos/1263742478009943/" targe="_blank">Átrendeződő erőviszonyok és politikai feszültségek az államfőválasztás előtt</a>, Marosvásárhelyi Rádió Románia, March 31, 2025</li>
+<li><a href="https://www.marosvasarhelyiradio.ro/musorok/atrendezodo-eroviszonyok-es-politikai-feszultsegek-az-allamfovalasztas-elott/" targe="_blank">Átrendeződő erőviszonyok és politikai feszültségek az államfőválasztás előtt</a>, Marosvásárhelyi Rádió Románia, March 31, 2025</li>
 <li><a href="https://www.facebook.com/transtelex.ro/videos/1263742478009943/" targe="_blank">A demokrácia határán egyensúlyoz Románia. Online kiértékelő az elnökválasztás érvénytelenítése után</a>, Transtelex, December 9, 2024</li>
 <li><a href="https://www.youtube.com/watch?v=PDCQnYUQyhI" targe="_blank">Most menekült meg, vagy most bukott el a román demokrácia?</a>, Partizán, December 8, 2024</li>
 <li><a href="https://www.facebook.com/transtelex.ro/videos/1107027087740249/" targe="_blank">Merre tovább, Románia? Választási kiértékelő a Transtelexen</a>, Transtelex, December 2, 2024</li>
