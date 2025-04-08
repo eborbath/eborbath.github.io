@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Junior Professor &#8226; Heidelberg University &#8226; WZB Berlin Social Science Center
+subtitle: Junior Professor &#8226; Ruprecht-Karls-Universität Heidelberg &#8226; WZB Berlin Social Science Center
 
 profile:
   align: left

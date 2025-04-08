@@ -21,6 +21,9 @@ nav: true
 </ul>
 <h2>German</h2>
 <ul>
+<li><a href="https://heiup.uni-heidelberg.de/journals/rupertocarola/issue/view/2460/449">Die Neue Spaltung Kulturkämpfe in der Europäischen Politik</a>, Forschungsmagazin "Ruperto Carola", Ausgabe 25, 2025, 28-35</li>
+<li><a href="https://www.uni-heidelberg.de/de/newsroom/neue-emmy-noether-nachwuchsgruppe-in-den-politikwissenschaften">Neue Emmy Noether - Nachwuchsgruppe in den Politikwissenschaften</a>, Pressemitteilung Nr. 16/2025, Ruprecht-Karls-Universität Heidelberg, Februar 21, 2025</li>
+<li><a href="https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-15">Herausragende Forscher*innen neu in der Emmy Noether-, Heisenberg- und Reinhart Koselleck-Förderung</a>, Information für die Wissenschaft Nr. 15, Deutsche Forschungsgemeinschaft (DFG), Februar 17, 2025</li>
 <li><a href="https://kurier.at/politik/ausland/endre-borbath-ungarn-orban-migration-rechts-populisten-radikale/402962847">Brandmauer gegen Rechtspopulisten? - "Schwer aufrecht zu erhalten", sagt der Experte</a>, Kurier, October 21, 2024</li>
 <li><a href="https://kurier.at/politik/ausland/warum-rechtspopulismus-gruende-fpoe-kickl-afd/402959253">Warum stehen die Menschen so weit rechts?</a>, Kurier, October 10, 2024</li>
 <li><a href="https://www.spektrum.de/news/demokratieforschung-der-umbruch-der-parteienlandschaft-in-europa/2234819">Die ›Bewegungisierung‹ hat weit reichende Konsequenzen</a>, Spektrum.de, September 30, 2024</li>
@@ -42,6 +45,7 @@ Putin-Freund Orban droht der Sturz</a>, Blick.ch, March 30, 2022</li>
 </ul>
 <h2>Hungarian</h2>
 <ul>
+<li><a href="https://www.facebook.com/transtelex.ro/videos/1263742478009943/" targe="_blank">Átrendeződő erőviszonyok és politikai feszültségek az államfőválasztás előtt</a>, Marosvásárhelyi Rádió Románia, March 31, 2025</li>
 <li><a href="https://www.facebook.com/transtelex.ro/videos/1263742478009943/" targe="_blank">A demokrácia határán egyensúlyoz Románia. Online kiértékelő az elnökválasztás érvénytelenítése után</a>, Transtelex, December 9, 2024</li>
 <li><a href="https://www.youtube.com/watch?v=PDCQnYUQyhI" targe="_blank">Most menekült meg, vagy most bukott el a román demokrácia?</a>, Partizán, December 8, 2024</li>
 <li><a href="https://www.facebook.com/transtelex.ro/videos/1107027087740249/" targe="_blank">Merre tovább, Románia? Választási kiértékelő a Transtelexen</a>, Transtelex, December 2, 2024</li>
@@ -81,7 +85,7 @@ Putin-Freund Orban droht der Sturz</a>, Blick.ch, March 30, 2022</li>
 <li><a href="https://www.libertatea.ro/stiri/sondaje-alegeri-parlamentare-6-decembrie-3306768"  target="_blank">Ce spun sondajele despre alegerile parlamentare din 6 decembrie. Și de ce nu sunt excluse surprizele</a>, Libertatea, December 04, 2020 </li>
 <li><a href="https://www.openpolitics.ro/incursiune-in-sondajele-pentru-alegerile-parlamentare/"  target="_blank">Incursiune în sondajele pentru alegerile parlamentare</a>, Open Politics, December 04, 2020 </li>
 <li><a href="https://www.openpolitics.ro/cat-de-aproape-de-realitate-au-fost-sondajele-de-dinaintea-primului-tur/"  target="_blank">Cât de aproape de realitate au fost sondajele de dinaintea primului tur?</a>, Open Politics, November 21, 2019 </li>
-<li><a href="https://www.libertatea.ro/stiri/cine-intra-in-turul-doi-al-alegerilor-prezidentiale-ce-indica-toate-sondajele-2794689"  target="_blank"> Cine intră în turul doi al alegerilor prezidențiale? Ce indică toate sondajele ﻿și care sunt marile necunoscute</a>, Libertatea, November 08, 2019 </li>
+<li><a href="https://www.libertatea.ro/stiri/cine-intra-in-turul-doi-al-alegerilor-prezidentiale-ce-indica-toate-sondajele-2794689"  target="_blank"> Cine intră în turul doi al alegerilor prezidențiale? Ce indică toate sondajele și care sunt marile necunoscute</a>, Libertatea, November 08, 2019 </li>
 <li><a href="https://www.openpolitics.ro/cine-intra-in-turul-doi-al-alegerilor-prezidentiale-ce-indica-toate-sondajele-de-opinie/"  target="_blank"> Cine intră în turul doi al alegerilor prezidențiale? Ce indică toate sondajele de opinie</a>, Open Politics, November 07, 2019 </li>
 <li><a href="https://www.digi24.ro/opinii/sondaje-si-alegeri-la-ce-sa-ne-asteptam-in-romania-612157"  target="_blank"> Sondaje și alegeri | La ce să ne așteptăm în România?</a>, Digi24, November 14, 2016 </li>
 <li><a href="https://www.openpolitics.ro/ce-arata-toate-sondajele-de-opinie-pe-alegerile-prezidentiale/"  target="_blank"> Ce arată toate sondajele de opinie pe alegerile prezidențiale?</a>, Open Politics, October 29, 2014</li>

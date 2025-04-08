@@ -9,6 +9,33 @@ nav: true
 <div class="publications">
   <h2 class="pbtypes">2024-2025</h2>
   <ol class="bibliography">
+    <li> &#9679; Quantitative content analysis of the coverage of political conflict, <a href="https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/politikwissenschaft/"
+        target="_blank">Politikwissenschaft – Master</a>, Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a href="{{ '/assets/pdf/Borbath_coverage_conf_MA.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button"
+          target="_blank">syllabus</a>
+      </div>
+      <div class="abstract hidden">
+        <p>Political parties, social movements, and other actors engaged in political conflict actively compete for media coverage to gain visibility and present their demands to society. Over time, media reports serve as an archive of political mobilization, enabling social science research to analyze the dynamics of political conflict across countries and time periods. Yet, the availability of vast amounts of media coverage raises important methodological challenges: How can we systematically collect and analyze this data? What approaches allow researchers to extract meaningful patterns? What are the main datasets publicly available for analysis?</p>
+        <p>This seminar introduces students to the core methods of quantitative content analysis, providing a structured framework for studying political conflict through media data. More specifically, we will focus on three methodological approaches: protest event analysis, political claims analysis, and automated text analysis. For each, we will examine exemplary studies, discuss strategies for data collection, and explore both descriptive and inferential methods of analysis. Additionally, we will critically assess the limitations of these methods, including issues of bias, reliability, and interpretability. Special attention will be given to recent advances in computational social science, particularly how large language models are reshaping the field of quantitative content analysis.</p>
+        <p>The seminar incorporates hands-on data collection and analysis using R, allowing students to apply the discussed methods to real-world datasets. Therefore, students should have prior experience with either R or Stata. At a minimum, they should be comfortable with data manipulation and modeling techniques, including being able to specify and correctly interpret a linear regression model.</p>
+      </div>
+    </li>
+    <li> &#9679; New research in European party politics, <a href="https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/politikwissenschaft/"
+        target="_blank">Politikwissenschaft – Bachelor</a>, Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+        <a href="{{ '/assets/pdf/Borbath_EU_parties_BA.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button"
+          target="_blank">syllabus</a>
+      </div>
+      <div class="abstract hidden">
+        <p>European party systems are undergoing fundamental change. Electoral volatility is rising, mainstream parties -- especially social democrats -- are losing vote share, and new parties regularly emerge. Meanwhile, voter turnout and party membership continue to decline, adding further unpredictability to government formation and fostering political instability. How can we make sense of these transformations? What are the latest research findings on European party politics?</p>
+        <p>This seminar explores these questions through two recently published books: Dassonneville (2022) on electoral volatility in Western Europe and Häusermann \& Kitschelt (2024) on the decline and electoral strategies of social-democratic parties. Both works offer cutting-edge research and introduce novel conceptual and methodological approaches to studying contemporary European party systems.</p>
+        <p>The seminar is divided into two thematic blocks, each devoted to one of these major works. We will analyze the books chapter by chapter, discussing their conceptual frameworks, research designs, and empirical findings. In doing so, we will critically evaluate each book's central arguments, with particular attention to methodological choices such as case selection, measurement strategies, and analytical techniques.</p>
+        <p>While prior familiarity with European party politics and quantitative methods is helpful, no specific background knowledge is required to participate in the seminar.</p>
+      </div>
+    </li>
     <li> &#9679; Party - Movement Interactions, <a href="https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/politikwissenschaft/"
         target="_blank">Politikwissenschaft – Master</a>, Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
       <div class="links">
