@@ -6,18 +6,26 @@
 #     - name: Year of Birth
 #       value: 1991
 
-- title: Work Experience
+- title: Professional Appointments
   type: time_table
   contents:
     - title: Junior Professor for Empirical-Analytical Participation Research
       institution: Ruprecht-Karls-Universität Heidelberg
       year: 2024 - ongoing
 
+    - title: Emmy Noether Research Group Leader - The New Climate Divide
+      institution: Ruprecht-Karls-Universität Heidelberg
+      year: 2025 - ongoing
+
+    - title: Guest Researcher
+      institution: WZB Berlin Social Science Center
+      year: 2019 - ongoing
+
     - title: Postdoctoral Researcher
-      institution: Freie Universität Berlin and WZB Berlin Social Science Center
+      institution: Freie Universität Berlin
       year: 2018 – 2024
       
-    - title: PhD researcher, focusing on Central and Eastern Europe
+    - title: PhD researcher
       institution: European University Institute, Florence, ERC project - Political Conflict in Europe in the Shadow of the Great Recession (POLCON, PI&#58; Hanspeter Kriesi)
       year: 2014-2018  
 
