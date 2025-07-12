@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <b>Junior Professor for Empirical-Analytical Participation Research</b> &#8226; Ruprecht-Karls-Universität Heidelberg <br>
-  <b>Emmy Noether Research Group Leader&#58; The New Climate Divide</b> &#8226; Ruprecht-Karls-Universität Heidelberg
+  <b>Emmy Noether Research Group Leader&#58; The New Climate Divide</b>
 
 profile:
   align: left
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Junior Professor of Empirical-Analytical Participation Research at the [Institute of Political Science](https://www.uni-heidelberg.de/politikwissenschaften/){:target="_blank"} at Ruprecht-Karls-Universität Heidelberg, where I also lead the Emmy Noether Research Group on *The New Climate Divide*. I am also a guest researcher at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research){:target="_blank"} at the WZB Berlin Social Science Center.
+I am a Junior Professor of Empirical-Analytical Participation Research at the [Institute of Political Science](https://www.uni-heidelberg.de/politikwissenschaften/){:target="_blank"} at Ruprecht-Karls-Universität Heidelberg, where I also lead the Emmy Noether Research Group on *The New Climate Divide*. I am a guest researcher at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research){:target="_blank"} at the WZB Berlin Social Science Center.
 
 __My research focuses on__ mass mobilization amidst transformations in European cleavage structures, shaped by the rising salience of climate change, immigration, and European integration. I bridge perspectives from comparative politics and political sociology by examining both the supply and demand sides: party competition and movement mobilization on the supply side, and individual-level participation and group identities on the demand side. Empirically, I primarily use quantitative methods and analyze data derived from media coverage of electoral and protest politics, as well as individual-level surveys and survey experiments. Geographically, my research focuses on Western, Central, and Eastern Europe.
 
