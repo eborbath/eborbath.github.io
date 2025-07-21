@@ -7,8 +7,6 @@ first_name: Endre
 middle_name: 
 last_name: Borbáth
 email: endre.borbath@ipw.uni-heidelberg.de
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal page!
 footer_text: Based on the <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
