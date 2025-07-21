@@ -5,4 +5,4 @@ inline: true
 main_page: false
 ---
 
-I reviewed "Extreme Reactions - Radical Right Mobilization in Eastern Europe" by Lenka Buštíková for <i>Party Politics</i>. You can access it [here!](https://journals.sagepub.com/doi/10.1177/13540688221081909){:target="_blank"}
+I reviewed "Extreme Reactions - Radical Right Mobilization in Eastern Europe" by Lenka Buštíková for <i>Party Politics</i>. You can access it [here!](https://journals.sagepub.com/doi/10.1177/13540688221081909){:target="\_blank"}

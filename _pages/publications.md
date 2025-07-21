@@ -22,6 +22,7 @@ nav_order: 3
 <h2 class="pbtypes">Articles in peer reviewed journals</h2>
 
 {% for y in page.article_years %}
+
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @article[year={{y}}]* %}
 {% endfor %}
@@ -29,6 +30,7 @@ nav_order: 3
 <h2 class="pbtypes">Working papers online</h2>
 
 {% for y in page.working_paper_year %}
+
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @report[year={{y}}]* %}
 {% endfor %}
@@ -36,6 +38,7 @@ nav_order: 3
 <h2 class="pbtypes">Chapters in edited volumes</h2>
 
 {% for x in page.chapter_years %}
+
   <h2 class="year">{{x}}</h2>
   {% bibliography -f papers -q @incollection[year={{x}}]* %}
 {% endfor %}
@@ -43,6 +46,7 @@ nav_order: 3
 <h2 class="pbtypes">Book reviews</h2>
 
 {% for z in page.review_years %}
+
   <h2 class="year">{{z}}</h2>
   {% bibliography -f papers -q @misc[year={{z}}]* %}
 {% endfor %}

@@ -9,4 +9,4 @@ main_page: true
 <br><br>
 It includes a 6-year postdoc position and two 4-year PhD positions, which I’ll be advertising soon. Stay tuned! 👀
 <br><br>
-See more info in this ['Twitter thread'](https://x.com/eborbath/status/1855554697311981658){:target="_blank"}
+See more info in this ['Twitter thread'](https://x.com/eborbath/status/1855554697311981658){:target="\_blank"}

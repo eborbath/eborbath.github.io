@@ -83,7 +83,8 @@
       "area": "Political and Social Sciences",
       "studyType": "Master of Research",
       "startDate": "2014-09-15",
-      "endDate": "2015-07-31"},
+      "endDate": "2015-07-31"
+    },
     {
       "institution": "Central European University, Budapest, Hungary",
       "location": "Budapest, Hungary",
@@ -91,7 +92,8 @@
       "area": "Political Science, specialization in electoral politics",
       "studyType": "Master of Arts",
       "startDate": "2012-09-15",
-      "endDate": "2014-07-31"},
+      "endDate": "2014-07-31"
+    },
     {
       "institution": "Babeș‑Bolyai University, Cluj‑Napoca, Romania",
       "location": "Cluj‑Napoca, Romania",
@@ -99,15 +101,17 @@
       "area": "Political Science (English)",
       "studyType": "Bachelor of Arts",
       "startDate": "2009-09-15",
-      "endDate": "2012-07-31"},
-     {
+      "endDate": "2012-07-31"
+    },
+    {
       "institution": "Babeș‑Bolyai University, Cluj‑Napoca, Romania",
       "location": "Cluj‑Napoca, Romania",
       "url": "https://www.ubbcluj.ro/en/",
       "area": "Philosophy (Hungarian)",
       "studyType": "Bachelor of Arts",
       "startDate": "2009-09-15",
-      "endDate": "2012-07-31"}  
+      "endDate": "2012-07-31"
+    }
   ],
   "languages": [
     {

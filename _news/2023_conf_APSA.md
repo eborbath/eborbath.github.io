@@ -9,7 +9,7 @@ After some consideration, I have decided to attend APSA and a [pre-conference on
 
 On August 30th at 11:00 am I'll be presenting the paper "Environmental Protests in Europe" at the UCLA Luskin Conference Center.
 
-On the same day, same place, at 14:00, I give a flash talk on a proposal I've been working on, entitled "The new climate change divide".  
+On the same day, same place, at 14:00, I give a flash talk on a proposal I've been working on, entitled "The new climate change divide".
 
 On Aug. 31, at 8:00 AM I'll present on "How Do Voters Respond to Party Brands?" at the LACC, 513.
 

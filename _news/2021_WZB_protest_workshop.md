@@ -5,4 +5,4 @@ inline: true
 main_page: false
 ---
 
-We are organizing a hybrid workshop with the title "Contentious Interactions: Frontiers in Protest Research" at the Center for Civil Society Research. You find more information [here](https://www.wzb.eu/de/node/71161){:target="_blank"}, where you can also register and join us online.
+We are organizing a hybrid workshop with the title "Contentious Interactions: Frontiers in Protest Research" at the Center for Civil Society Research. You find more information [here](https://www.wzb.eu/de/node/71161){:target="\_blank"}, where you can also register and join us online.

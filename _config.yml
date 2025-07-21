@@ -4,16 +4,16 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Endre
-middle_name: 
+middle_name:
 last_name: Borbáth
 email: endre.borbath@ipw.uni-heidelberg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my personal page!
 footer_text: Based on the <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: comparative political sociology, party competition, social movements, political participation, crisis politics, cleavages, Eastern Europe, research methods  # add your own keywords or leave empty
+keywords: comparative political sociology, party competition, social movements, political participation, crisis politics, cleavages, Eastern Europe, research methods # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://eborbath.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -111,7 +111,7 @@ contact_note: >
 
 google_analytics: G-WCJGZ05S7V # your google-analytics ID (format: UA-XXXXXXXXX)
 ga4_analytics: G-WCJGZ05S7V
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
+panelbear_analytics: # panelbear analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
@@ -206,8 +206,8 @@ latest_posts:
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
-highlight_theme_light: github  # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: native  # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_light: github # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: native # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -312,7 +312,6 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-
   last_name: Borbáth
   first_name: [Endre, E.]
 
@@ -425,10 +424,11 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    true  # enables google analytics
-enable_panelbear_analytics: false  # enables panelbear analytics
-enable_navbar_social:       true  # enables displaying social links in the
-                                   # navbar on the about page
+enable_google_analytics: true # enables google analytics
+enable_panelbear_analytics: false # enables panelbear analytics
+enable_navbar_social:
+  true # enables displaying social links in the
+  # navbar on the about page
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)

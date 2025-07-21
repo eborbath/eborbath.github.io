@@ -42,9 +42,7 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        recent news <a href="{{ '/news/' | relative_url }}" style="color: var(--global-theme-color)">[full archive]</a>
-      </h2>
+      <h2>recent news <a href="{{ '/news/' | relative_url }}" style="color: var(--global-theme-color)">[full archive]</a></h2>
       {% include news.liquid limit=true %}
     {% endif %}
 
