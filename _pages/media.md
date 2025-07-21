@@ -10,22 +10,22 @@ toc:
 
 ## English
 
-- [Germany's political landscape is more fractured than ever](https://www.dw.com/en/germanys-political-landscape-is-more-fractured-than-ever/a-70211395), *Deutsche Welle*, September 13, 2024
-- [The Electoral Dynamics of the Hungarian Elections 2022](https://precede.eu/index.php/2022/04/01/blog-the-electoral-dynamics-of-the-hungarian-elections-2022/), *Precede.eu*, April 1, 2022
-- [Coronavirus: why central and eastern European countries seem to be running out of luck](https://theconversation.com/coronavirus-why-central-and-eastern-european-countries-seem-to-be-running-out-of-luck-146349), *The Conversation*, September 18, 2020
-- [The Political Consequences of Crisis: Lessons learned from the Great Recession](https://www.wzb.eu/en/research/coronavirus-and-its-impact/the-political-consequences-of-crisis-lessons-learned-from-tbyhe-great-recession), *WZB Berlin Social Science Center*, May 07, 2020
-- [How Does the Corona Virus Strengthen Authoritarianism in Hungary?](https://www.wzb.eu/en/research/corona-und-die-folgen/how-does-the-corona-virus-strengthen-authoritarianism-in-hungary), *WZB Berlin Social Science Center*, April 15, 2020
-- [Polling the polls: How accurate were they before the first round of the Romanian presidential elections?](https://kozvelemeny.wordpress.com/2019/11/18/polling-the-polls-how-accurate-were-they-before-the-first-round-of-the-romanian-presidential-elections/), *Vox Populi*, November 18, 2019
-- [How accurate were the polls before the first round of the Romanian presidential elections?](https://www.openpolitics.ro/how-accurate-were-the-polls-before-the-first-round-of-the-romanian-presidential-elections/), *Open Politics*, November 18, 2019
-- [Who will make the second round of the Romanian presidential election? What the polling data says](https://www.openpolitics.ro/who-will-make-the-second-round-of-the-romanian-presidential-election-what-the-polling-data-says/), *Open Politics*, November 09, 2019
-- [European Parliament elections preview: Hungary](https://blogs.lse.ac.uk/europpblog/2019/05/24/european-parliament-elections-preview-hungary/), *LSE EUROPP - European Politics and Policy*, May 24, 2019
-- [Hungary's April Elections: An Overview](http://www.paprikapolitik.com/2014/03/hungarys-april-elections-an-overview/), *Paprika Politik*, March 10, 2014
+- [Germany's political landscape is more fractured than ever](https://www.dw.com/en/germanys-political-landscape-is-more-fractured-than-ever/a-70211395), _Deutsche Welle_, September 13, 2024
+- [The Electoral Dynamics of the Hungarian Elections 2022](https://precede.eu/index.php/2022/04/01/blog-the-electoral-dynamics-of-the-hungarian-elections-2022/), _Precede.eu_, April 1, 2022
+- [Coronavirus: why central and eastern European countries seem to be running out of luck](https://theconversation.com/coronavirus-why-central-and-eastern-european-countries-seem-to-be-running-out-of-luck-146349), _The Conversation_, September 18, 2020
+- [The Political Consequences of Crisis: Lessons learned from the Great Recession](https://www.wzb.eu/en/research/coronavirus-and-its-impact/the-political-consequences-of-crisis-lessons-learned-from-tbyhe-great-recession), _WZB Berlin Social Science Center_, May 07, 2020
+- [How Does the Corona Virus Strengthen Authoritarianism in Hungary?](https://www.wzb.eu/en/research/corona-und-die-folgen/how-does-the-corona-virus-strengthen-authoritarianism-in-hungary), _WZB Berlin Social Science Center_, April 15, 2020
+- [Polling the polls: How accurate were they before the first round of the Romanian presidential elections?](https://kozvelemeny.wordpress.com/2019/11/18/polling-the-polls-how-accurate-were-they-before-the-first-round-of-the-romanian-presidential-elections/), _Vox Populi_, November 18, 2019
+- [How accurate were the polls before the first round of the Romanian presidential elections?](https://www.openpolitics.ro/how-accurate-were-the-polls-before-the-first-round-of-the-romanian-presidential-elections/), _Open Politics_, November 18, 2019
+- [Who will make the second round of the Romanian presidential election? What the polling data says](https://www.openpolitics.ro/who-will-make-the-second-round-of-the-romanian-presidential-election-what-the-polling-data-says/), _Open Politics_, November 09, 2019
+- [European Parliament elections preview: Hungary](https://blogs.lse.ac.uk/europpblog/2019/05/24/european-parliament-elections-preview-hungary/), _LSE EUROPP - European Politics and Policy_, May 24, 2019
+- [Hungary's April Elections: An Overview](http://www.paprikapolitik.com/2014/03/hungarys-april-elections-an-overview/), _Paprika Politik_, March 10, 2014
 
 ## German
 
 - [Die Neue Spaltung Kulturkämpfe in der Europäischen Politik](https://heiup.uni-heidelberg.de/journals/rupertocarola/issue/view/2460/449), Forschungsmagazin "Ruperto Carola", Ausgabe 25, 2025, 28-35
 - [Neue Emmy Noether - Nachwuchsgruppe in den Politikwissenschaften](https://www.uni-heidelberg.de/de/newsroom/neue-emmy-noether-nachwuchsgruppe-in-den-politikwissenschaften), Pressemitteilung Nr. 16/2025, Ruprecht-Karls-Universität Heidelberg, Februar 21, 2025
-- [Herausragende Forscher*innen neu in der Emmy Noether-, Heisenberg- und Reinhart Koselleck-Förderung](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-15), Information für die Wissenschaft Nr. 15, Deutsche Forschungsgemeinschaft (DFG), Februar 17, 2025
+- [Herausragende Forscher\*innen neu in der Emmy Noether-, Heisenberg- und Reinhart Koselleck-Förderung](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-15), Information für die Wissenschaft Nr. 15, Deutsche Forschungsgemeinschaft (DFG), Februar 17, 2025
 - [Brandmauer gegen Rechtspopulisten? - "Schwer aufrecht zu erhalten", sagt der Experte](https://kurier.at/politik/ausland/endre-borbath-ungarn-orban-migration-rechts-populisten-radikale/402962847), Kurier, October 21, 2024
 - [Warum stehen die Menschen so weit rechts?](https://kurier.at/politik/ausland/warum-rechtspopulismus-gruende-fpoe-kickl-afd/402959253), Kurier, October 10, 2024
 - [Die ›Bewegungisierung‹ hat weit reichende Konsequenzen](https://www.spektrum.de/news/demokratieforschung-der-umbruch-der-parteienlandschaft-in-europa/2234819), Spektrum.de, September 30, 2024
