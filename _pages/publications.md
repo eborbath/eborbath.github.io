@@ -10,45 +10,32 @@ working_paper_year: [2024, 2023]
 in_list: 3
 nav: true
 nav_order: 3
+toc:
+  sidebar: left
 ---
-
-<!-- _pages/publications.md -->
-<!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
 
+## Articles in peer reviewed journals
+
 <div class="publications">
+{% bibliography -f papers -q @article* %}
+</div>
 
-<h2 class="pbtypes">Articles in peer reviewed journals</h2>
+## Working papers online
 
-{% for y in page.article_years %}
+<div class="publications">
+{% bibliography -f papers -q @report* %}
+</div>
 
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @article[year={{y}}]* %}
-{% endfor %}
+## Chapters in edited volumes
 
-<h2 class="pbtypes">Working papers online</h2>
+<div class="publications">
+{% bibliography -f papers -q @incollection* %}
+</div>
 
-{% for y in page.working_paper_year %}
+## Book reviews
 
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @report[year={{y}}]* %}
-{% endfor %}
-
-<h2 class="pbtypes">Chapters in edited volumes</h2>
-
-{% for x in page.chapter_years %}
-
-  <h2 class="year">{{x}}</h2>
-  {% bibliography -f papers -q @incollection[year={{x}}]* %}
-{% endfor %}
-
-<h2 class="pbtypes">Book reviews</h2>
-
-{% for z in page.review_years %}
-
-  <h2 class="year">{{z}}</h2>
-  {% bibliography -f papers -q @misc[year={{z}}]* %}
-{% endfor %}
-
+<div class="publications">
+{% bibliography -f papers -q @misc* %}
 </div>

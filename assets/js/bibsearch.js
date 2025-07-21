@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
     timeoutId = setTimeout(filterItems(searchTerm), 300);
   });
 
-  window.addEventListener("hashchange", updateInputField); // Update the filter when the hash changes
+  //window.addEventListener("hashchange", updateInputField); // Update the filter when the hash changes
 
   updateInputField(); // Update filter when page loads
 });
