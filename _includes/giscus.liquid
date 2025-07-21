@@ -1,7 +1,16 @@
-<div id="giscus_thread" style="max-width: {{ site.max_width }}; margin: 0 auto;">
+<div
+  id="giscus_thread"
+  {% if page.layout == 'post' %}
+    style="max-width: {{ site.max_width }}; margin: 0 auto;"
+  {% endif %}
+>
+  {% if page.layout == 'post' %}
+    <br>
+  {% endif %}
+
   {% if site.giscus.repo %}
     <script>
-      let giscusTheme = localStorage.getItem('theme');
+      let giscusTheme = determineComputedTheme();
       let giscusAttributes = {
         src: 'https://giscus.app/client.js',
         'data-repo': '{{ site.giscus.repo }}',

@@ -4,17 +4,22 @@ title: about
 permalink: /
 subtitle: <b>Junior Professor for Empirical-Analytical Participation Research</b> &#8226; Ruprecht-Karls-Universität Heidelberg <br>
   <b>Emmy Noether Research Group Leader&#58; The New Climate Divide</b>
-
 profile:
   align: left
   image: Endre_Borbath-min-sq.jpeg
   image_cicular: false # crops the image to make it circular
   more_info: >
     <p style="font-size: 10px; text-align: center;">Photo by: © Klaus Landry</p>
-news: true # includes a list of news items
-latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a Junior Professor of Empirical-Analytical Participation Research at the [Institute of Political Science](https://www.uni-heidelberg.de/politikwissenschaften/){:target="_blank"} at Ruprecht-Karls-Universität Heidelberg, where I also lead the Emmy Noether Research Group on *The New Climate Divide*. I am a guest researcher at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research){:target="_blank"} at the WZB Berlin Social Science Center.
