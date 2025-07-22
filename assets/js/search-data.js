@@ -222,13 +222,6 @@ ninja.data = [{
           window.open("https://bsky.app/profile/eborbath.bsky.social", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/eborbath", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
