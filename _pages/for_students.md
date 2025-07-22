@@ -19,19 +19,21 @@ If you’d like to book a slot during my office hours (**online only** during th
   </a>
 </div>
 
-**How it works:**  
-- Appointments are first come, first served.  
+**How it works:**
+
+- Appointments are first come, first served.
 - If you need to cancel, please do so directly in Calendly — no need to email me.
 
 ---
 
 ## Supervision of Theses
 
-Interested in having me supervise your BA or MA thesis?  
-- Please first review my research topics on the [home page]({{ '/' | relative_url }}) and check my recent [publications]({{ '/publications/' | relative_url }}).  
+Interested in having me supervise your BA or MA thesis?
+
+- Please first review my research topics on the [home page]({{ '/' | relative_url }}) and check my recent [publications]({{ '/publications/' | relative_url }}).
 - I generally supervise theses **only if your topic aligns with my research interests**.
 - Supervision is possible in both **English** and **German**.
 
 ---
 
-*If you have any further questions, feel free to contact me by [email]({{ '/contact/' | relative_url }}).*
+_If you have any further questions, feel free to contact me by [email]({{ '/contact/' | relative_url }})._
