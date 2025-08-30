@@ -186,7 +186,7 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-on-protest-and-the-rise-of-left-nationalist-challengers-evidence-from-germany-co-authored-with-lennart-schürmann-and-swen-hutter-published-online-in-social-movement-studies-you-find-the-paper-here-open-access",
           title: 'New paper on “Protest and the rise of left-nationalist challengers: evidence from Germany”,...',
           description: "",
-          section: "News",},{id: "news-new-paper-on-cleavage-theory-meets-civil-society-a-framework-and-research-agenda-co-authored-with-alex-mierke-zatwarnickia-and-swen-hutter-published-online-in-west-european-politics-you-find-the-paper-here-open-access-and-here-you-find-the-replication-material",
+          section: "News",},{id: "news-new-paper-on-cleavage-theory-meets-civil-society-a-framework-and-research-agenda-co-authored-with-alex-mierke-zatwarnicki-and-swen-hutter-published-online-in-west-european-politics-you-find-the-paper-here-open-access-and-here-you-find-the-replication-material",
           title: 'New paper on “Cleavage theory meets civil society: a framework and research agenda”,...',
           description: "",
           section: "News",},{
