@@ -10,6 +10,46 @@ toc:
 
 ---
 
+## 🗓️ 2025–2026
+
+---
+
+### **Climate Change and Political Conflict**
+
+**_Politikwissenschaft – Master_**  
+Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+
+<a href="{{ '/assets/pdf/Borbath_Climate_PolConf.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
+
+<details>
+<summary>Show Abstract</summary>
+
+This seminar explores the increasingly contentious politics of climate change within domestic political dynamics. It examines how climate change is transforming from a broad consensus issue into a polarizing political conflict that spans both electoral and civil society arenas. We investigate the causes and consequences of the political impasse surrounding climate-related reform, with a focus on the emergence of new cleavages, the role of political parties and movements, and the dynamics of citizen participation.
+
+The seminar begins by surveying key theoretical approaches to understanding climate change as a political issue, from cleavage theory and party competition to social movement research and the study of political participation. Particular attention is given to the interplay between supply-side (political organizations and their strategies) and demand-side (citizens' attitudes and behavior) dynamics. Throughout the seminar, we engage with core debates on the politicisation of climate change, the rise of right-wing climate scepticism, the fragmentation of the environmental movement, and the mobilisation of new coalitions across Europe. We also examine how the climate crisis intersects with broader economic, cultural, and geopolitical developments, contributing to what some describe as a polycrisis era.
+
+</details>
+
+---
+
+### **Quantitative Methods with Survey Data**
+
+**_Politikwissenschaft – Bachelor_**  
+Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+
+<a href="{{ '/assets/pdf/Borbath_Survey_methods.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
+
+<details>
+<summary>Show Abstract</summary>
+
+This seminar offers a hands-on introduction to quantitative techniques for analyzing survey data, with a focus on using R and RStudio. Participants will engage in practical exercises and data analysis to build skills in applying quantitative methods to the study of individual-level attitudes and behavior. Topics include data management, descriptive visualization, modeling techniques, and survey experiments.
+
+The seminar is divided into five parts. The first part introduces the language of quantitative research, including how to formulate research questions, measure concepts, and collect data in survey research. The second part focuses on data management and descriptive statistics, providing a foundation for handling and summarizing data. The third part covers bivariate and multivariate data analysis and visualization, equipping participants to interpret and present their results. The fourth part introduces survey experiments, presenting key designs and discussing data analysis techniques. The fifth part is dedicated to in-class presentations.
+
+</details>
+
+---
+
 ## 🗓️ 2024–2025
 
 ---
