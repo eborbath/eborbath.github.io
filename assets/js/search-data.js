@@ -189,6 +189,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-on-cleavage-theory-meets-civil-society-a-framework-and-research-agenda-co-authored-with-alex-mierke-zatwarnicki-and-swen-hutter-published-online-in-west-european-politics-you-find-the-paper-here-open-access-and-here-you-find-the-replication-material",
           title: 'New paper on “Cleavage theory meets civil society: a framework and research agenda”,...',
           description: "",
+          section: "News",},{id: "news-i-ve-prepared-the-syllabi-for-the-two-seminars-i-will-teach-in-the-2025-2025-winter-semester-at-the-ruprecht-karls-universität-heidelberg-climate-change-and-political-conflict-ma-quantitative-methods-with-survey-data-ba",
+          title: 'I’ve prepared the syllabi for the two seminars I will teach in the...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
