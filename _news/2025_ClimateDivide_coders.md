@@ -9,5 +9,5 @@ We are hiring two student coders to assist with coding newspaper articles for th
 
 See the detailed job calls below for more information:
 
-1. [Stellenausschreibung (Deutsch)]({{ '/assets/pdf/HiWi_Stellenausschreibung_Borbath.pdf' | relative_url }}){:target="_blank"}
-2. [Job call (English)]({{ '/assets/pdf/HiWi_job_call_Borbath.pdf' | relative_url }}){:target="_blank"}
+1. [Stellenausschreibung (Deutsch)]({{ '/assets/pdf/HiWi_Stellenausschreibung_Borbath.pdf' | relative_url }}){:target="\_blank"}
+2. [Job call (English)]({{ '/assets/pdf/HiWi_job_call_Borbath.pdf' | relative_url }}){:target="\_blank"}
