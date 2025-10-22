@@ -195,6 +195,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-ve-prepared-the-syllabi-for-the-two-seminars-i-will-teach-in-the-2025-2025-winter-semester-at-the-ruprecht-karls-universität-heidelberg-climate-change-and-political-conflict-ma-quantitative-methods-with-survey-data-ba",
           title: 'I’ve prepared the syllabi for the two seminars I will teach in the...',
           description: "",
+          section: "News",},{id: "news-new-paper-on-the-effect-of-politicization-on-protest-participation-in-non-democracies-the-case-of-hungary-co-authored-with-pál-susánszky-published-online-in-the-social-science-quarterly-you-find-the-paper-here-open-access",
+          title: 'New paper on “The Effect of Politicization on Protest Participation in Non-Democracies: The...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
