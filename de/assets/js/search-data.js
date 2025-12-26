@@ -158,7 +158,7 @@ ninja.data = [{
           title: 'I am happy to share that I will be joining the University of...',
           description: "",
           section: "News",},{id: "news-ich-freue-mich-mitzuteilen-dass-ich-ab-februar-als-juniorprofessor-für-empirisch-analytische-partizipationsforschung-an-die-universität-heidelberg-wechsle",
-          title: 'Ich freue mich mitzuteilen, dass ich ab Februar als Juniorprofessor für empirisch-analytische Partizipationsforschung...',
+          title: 'Ich freue mich mitzuteilen, dass ich ab Februar als Juniorprofessor für Empirisch-Analytische Partizipationsforschung...',
           description: "",
           section: "News",},{id: "news-our-new-working-paper-cultural-backlash-trends-in-opinion-polarisation-between-educational-groups-in-five-european-countries-co-authored-with-stephan-dochow-sondershaus-and-céline-teney-is-now-available-online-on-socarxiv",
           title: 'Our new working paper “Cultural Backlash? Trends in Opinion Polarisation between Educational Groups...',
