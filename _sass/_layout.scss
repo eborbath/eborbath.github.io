@@ -56,7 +56,13 @@ body.sticky-bottom-footer {
   right: 12px;
   display: flex;
   gap: 0.4rem;
-  z-index: 1040; // keep above the navbar
+  z-index: 1030; // below the navbar toggler (1050) but above content
+
+  @media (max-width: 575.98px) {
+    top: 60px; // drop below the hamburger/nav bar on mobile
+    right: 12px;
+    bottom: auto;
+  }
 }
 
 .lang-btn {

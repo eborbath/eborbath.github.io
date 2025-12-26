@@ -56,4 +56,15 @@ $(document).ready(function () {
   $('[data-toggle="popover"]').popover({
     trigger: "hover",
   });
+
+  // Simple navbar toggle fallback for mobile (works even if Bootstrap JS fails).
+  const toggler = document.querySelector(".navbar-toggler");
+  const nav = document.getElementById("navbarNav");
+  if (toggler && nav) {
+    toggler.addEventListener("click", () => {
+      const isOpen = nav.classList.toggle("show");
+      toggler.classList.toggle("collapsed", !isOpen);
+      toggler.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    });
+  }
 });
