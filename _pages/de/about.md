@@ -4,7 +4,7 @@ title: home
 permalink: /
 lang: de
 subtitle: >
-  <b>Juniorprofessor für empirisch-analytische Partizipationsforschung</b> &#8226; Ruprecht-Karls-Universität Heidelberg <br>
+  <b>Juniorprofessor für Empirisch-Analytische Partizipationsforschung</b> &#8226; Ruprecht-Karls-Universität Heidelberg <br>
   <b>Leiter der Emmy-Noether-Nachwuchsgruppe: Die neue klimapolitische Spaltung</b>
 profile:
   align: left
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3
 ---
 
-Ich bin Juniorprofessor für empirisch-analytische Partizipationsforschung am [Institut für Politikwissenschaft](https://www.uni-heidelberg.de/politikwissenschaften/){:target="\_blank"} der Ruprecht-Karls-Universität Heidelberg, wo ich die [Emmy-Noether-Nachwuchsgruppe „Die neue klimapolitische Spaltung“](http://climatedivide.eu){:target="\_blank"} leite. Zudem bin ich Gastforscher am [Zentrum für Zivilgesellschaftsforschung](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research){:target="\_blank"} des Wissenschaftszentrums Berlin für Sozialforschung.
+Ich bin Juniorprofessor für Empirisch-Analytische Partizipationsforschung am [Institut für Politikwissenschaft](https://www.uni-heidelberg.de/politikwissenschaften/){:target="\_blank"} der Ruprecht-Karls-Universität Heidelberg, wo ich die [Emmy-Noether-Nachwuchsgruppe „Die neue klimapolitische Spaltung“](http://climatedivide.eu){:target="\_blank"} leite. Zudem bin ich Gastforscher am [Zentrum für Zivilgesellschaftsforschung](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research){:target="\_blank"} des Wissenschaftszentrums Berlin für Sozialforschung.
 
 **Meine Forschungsschwerpunkte** liegen auf Massendemobilisierung und neuen Spaltungslinien in Europa, geprägt durch den Bedeutungsgewinn von Klimawandel, Migration und europäischer Integration. Ich verbinde vergleichende Politikwissenschaft und politische Soziologie, indem ich Angebots- und Nachfrageseite gleichermaßen untersuche: Parteienwettbewerb und Bewegungsmobilisierung auf der Angebotsseite sowie individuelle Partizipation und Gruppenidentitäten auf der Nachfrageseite. Empirisch arbeite ich vor allem mit quantitativen Methoden und analysiere Daten aus Medienberichten über Wahl- und Protestpolitik sowie Umfragen und Survey-Experimente. Geografisch konzentriert sich meine Forschung auf Westeuropa sowie Mittel- und Osteuropa.
 

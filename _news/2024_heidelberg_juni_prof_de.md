@@ -6,4 +6,4 @@ main_page: true
 lang: de
 ---
 
-Ich freue mich mitzuteilen, dass ich ab Februar als Juniorprofessor für empirisch-analytische Partizipationsforschung an die Universität Heidelberg wechsle.
+Ich freue mich mitzuteilen, dass ich ab Februar als Juniorprofessor für Empirisch-Analytische Partizipationsforschung an die Universität Heidelberg wechsle.
