@@ -57,10 +57,14 @@ $(document).ready(function () {
     trigger: "hover",
   });
 
-  // Simple navbar toggle fallback for mobile (works even if Bootstrap JS fails).
+  // Simple navbar toggle fallback for mobile (only if Bootstrap's collapse isn't available)
   const toggler = document.querySelector(".navbar-toggler");
   const nav = document.getElementById("navbarNav");
-  if (toggler && nav) {
+  const hasBootstrapCollapse =
+    (typeof window.bootstrap !== "undefined" && window.bootstrap.Collapse) ||
+    (typeof $ !== "undefined" && $.fn && typeof $.fn.collapse === "function");
+
+  if (!hasBootstrapCollapse && toggler && nav) {
     toggler.addEventListener("click", () => {
       const isOpen = nav.classList.toggle("show");
       toggler.classList.toggle("collapsed", !isOpen);
