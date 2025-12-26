@@ -56,4 +56,15 @@ $(document).ready(function () {
   $('[data-toggle="popover"]').popover({
     trigger: "hover",
   });
+
+  // Fallback: ensure mobile navbar toggles even if the Bootstrap collapse plugin is unavailable.
+  if (typeof $.fn.collapse !== "function") {
+    const $toggler = $(".navbar-toggler");
+    const $nav = $("#navbarNav");
+    if ($toggler.length && $nav.length) {
+      $toggler.on("click", function () {
+        $nav.toggleClass("show");
+      });
+    }
+  }
 });
