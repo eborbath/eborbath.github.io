@@ -403,14 +403,6 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-.collapse {
-  display: none;
-}
-
-.collapse.show {
-  display: block;
-}
-
 .navbar-collapse {
   &.show {
     background-color: var(--global-bg-color);
