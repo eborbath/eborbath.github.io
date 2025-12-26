@@ -44,6 +44,8 @@ toc:
 
 ## Hungarian
 
+- [A romániai magyar politikai képviselet kilátásai](https://transtelex.ro/velemeny/2025/11/20/romaniai-magyar-politikai-kepviselet-kilatasai-elemzes-borbath-endre/), Transtelex.ro, November 20, 2025
+- [Fiatalok a politikai térképen](https://www.marosvasarhelyiradio.ro/musorok/fiatalok-a-politikai-terkepen/), Marosvásárhelyi Rádió Románia, November 18, 2025
 - [Átrendeződő erőviszonyok és politikai feszültségek az államfőválasztás előtt](https://www.marosvasarhelyiradio.ro/musorok/atrendezodo-eroviszonyok-es-politikai-feszultsegek-az-allamfovalasztas-elott/), Marosvásárhelyi Rádió Románia, March 31, 2025
 - [A demokrácia határán egyensúlyoz Románia. Online kiértékelő az elnökválasztás érvénytelenítése után](https://www.facebook.com/transtelex.ro/videos/1263742478009943/), Transtelex, December 9, 2024
 - [Most menekült meg, vagy most bukott el a román demokrácia?](https://www.youtube.com/watch?v=PDCQnYUQyhI), Partizán, December 8, 2024
