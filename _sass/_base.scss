@@ -420,12 +420,20 @@ ul.task-list input[type="checkbox"] {
 @media (max-width: 575.98px) {
   #navbarNav {
     background-color: var(--global-bg-color);
-    padding: 0.5rem 1rem;
-    display: block !important; // ensure the menu stays visible on small screens
+    padding: 0.75rem 1rem;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    height: auto !important;
   }
 
   .navbar-toggler {
-    display: none; // hide the toggler when we force the menu open
+    display: none;
+  }
+
+  .navbar-nav {
+    flex-direction: column !important;
+    align-items: flex-start !important;
   }
 }
 
