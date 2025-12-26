@@ -57,14 +57,14 @@ $(document).ready(function () {
     trigger: "hover",
   });
 
-  // Fallback: ensure mobile navbar toggles even if the Bootstrap collapse plugin is unavailable.
-  if (typeof $.fn.collapse !== "function") {
-    const $toggler = $(".navbar-toggler");
-    const $nav = $("#navbarNav");
-    if ($toggler.length && $nav.length) {
-      $toggler.on("click", function () {
-        $nav.toggleClass("show");
-      });
-    }
+  // Ensure mobile navbar toggles, even if Bootstrap's JS isn't available.
+  const toggler = document.querySelector(".navbar-toggler");
+  const nav = document.getElementById("navbarNav");
+  if (toggler && nav) {
+    toggler.addEventListener("click", () => {
+      const isOpen = nav.classList.toggle("show");
+      toggler.classList.toggle("collapsed", !isOpen);
+      toggler.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    });
   }
 });
