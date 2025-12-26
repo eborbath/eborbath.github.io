@@ -8,4 +8,4 @@ lang: de
 
 Neuer Aufsatz zu Formen gewerkschaftlicher Proteste, gemeinsam mit Gesine Höltmann und Swen Hutter, jetzt online in Socio-Economic Review!
 <br>
-Den Aufsatz finden Sie [hier](https://doi.org/10.1093/ser/mwae056){:target="_blank"} (Open Access); das Replikationsmaterial ist [hier](https://doi.org/10.7910/DVN/BZWZUA){:target="_blank"}.
+Den Aufsatz finden Sie [hier](https://doi.org/10.1093/ser/mwae056){:target="\_blank"} (Open Access); das Replikationsmaterial ist [hier](https://doi.org/10.7910/DVN/BZWZUA){:target="\_blank"}.

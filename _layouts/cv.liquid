@@ -101,39 +101,65 @@ layout: default
           {% if section_key == 'meta' or section_val.size == 0 %} {% continue %} {% endif %}
           <a class="anchor" id="{{ section_key }}"></a>
           <div class="card mt-3 p-3">
-          {% if lang_is_de %}
-            {% case section_key %}
-              {% when 'basics' %}{% assign heading = 'Grunddaten' %}
-              {% when 'work' %}{% assign heading = 'Berufserfahrung' %}
-              {% when 'education' %}{% assign heading = 'Ausbildung' %}
-              {% when 'publications' %}{% assign heading = 'Publikationen' %}
-              {% when 'projects' %}{% assign heading = 'Projekte' %}
-              {% when 'volunteer' %}{% assign heading = 'Ehrenamt' %}
-              {% when 'awards' %}{% assign heading = 'Auszeichnungen' %}
-              {% when 'certificates' %}{% assign heading = 'Zertifikate' %}
-              {% when 'skills' %}{% assign heading = 'Fähigkeiten' %}
-              {% when 'languages' %}{% assign heading = 'Sprachen' %}
-              {% when 'interests' %}{% assign heading = 'Interessen' %}
-              {% when 'references' %}{% assign heading = 'Referenzen' %}
-              {% else %}{% assign heading = section_key | capitalize %}
-            {% endcase %}
-          {% else %}
-            {% case section_key %}
-              {% when 'basics' %}{% assign heading = 'Basics' %}
-              {% when 'work' %}{% assign heading = 'Work' %}
-              {% when 'education' %}{% assign heading = 'Education' %}
-              {% when 'publications' %}{% assign heading = 'Publications' %}
-              {% when 'projects' %}{% assign heading = 'Projects' %}
-              {% when 'volunteer' %}{% assign heading = 'Volunteer' %}
-              {% when 'awards' %}{% assign heading = 'Awards' %}
-              {% when 'certificates' %}{% assign heading = 'Certificates' %}
-              {% when 'skills' %}{% assign heading = 'Skills' %}
-              {% when 'languages' %}{% assign heading = 'Languages' %}
-              {% when 'interests' %}{% assign heading = 'Interests' %}
-              {% when 'references' %}{% assign heading = 'References' %}
-              {% else %}{% assign heading = section_key | capitalize %}
-            {% endcase %}
-          {% endif %}
+            {% if lang_is_de %}
+              {% case section_key %}
+                {% when 'basics' -%}
+                  {%- assign heading = 'Grunddaten' %}
+                {% when 'work' -%}
+                  {%- assign heading = 'Berufserfahrung' %}
+                {% when 'education' -%}
+                  {%- assign heading = 'Ausbildung' %}
+                {% when 'publications' -%}
+                  {%- assign heading = 'Publikationen' %}
+                {% when 'projects' -%}
+                  {%- assign heading = 'Projekte' %}
+                {% when 'volunteer' -%}
+                  {%- assign heading = 'Ehrenamt' %}
+                {% when 'awards' -%}
+                  {%- assign heading = 'Auszeichnungen' %}
+                {% when 'certificates' -%}
+                  {%- assign heading = 'Zertifikate' %}
+                {% when 'skills' -%}
+                  {%- assign heading = 'Fähigkeiten' %}
+                {% when 'languages' -%}
+                  {%- assign heading = 'Sprachen' %}
+                {% when 'interests' -%}
+                  {%- assign heading = 'Interessen' %}
+                {% when 'references' -%}
+                  {%- assign heading = 'Referenzen' %}
+                {% else -%}
+                  {%- assign heading = section_key | capitalize %}
+              {% endcase %}
+            {% else %}
+              {% case section_key %}
+                {% when 'basics' -%}
+                  {%- assign heading = 'Basics' %}
+                {% when 'work' -%}
+                  {%- assign heading = 'Work' %}
+                {% when 'education' -%}
+                  {%- assign heading = 'Education' %}
+                {% when 'publications' -%}
+                  {%- assign heading = 'Publications' %}
+                {% when 'projects' -%}
+                  {%- assign heading = 'Projects' %}
+                {% when 'volunteer' -%}
+                  {%- assign heading = 'Volunteer' %}
+                {% when 'awards' -%}
+                  {%- assign heading = 'Awards' %}
+                {% when 'certificates' -%}
+                  {%- assign heading = 'Certificates' %}
+                {% when 'skills' -%}
+                  {%- assign heading = 'Skills' %}
+                {% when 'languages' -%}
+                  {%- assign heading = 'Languages' %}
+                {% when 'interests' -%}
+                  {%- assign heading = 'Interests' %}
+                {% when 'references' -%}
+                  {%- assign heading = 'References' %}
+                {% else -%}
+                  {%- assign heading = section_key | capitalize %}
+              {% endcase %}
+            {% endif %}
             <h3 class="card-title font-weight-medium">{{ heading }}</h3>
             <div>
               {% case section_key %}

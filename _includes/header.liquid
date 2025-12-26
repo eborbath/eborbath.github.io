@@ -176,7 +176,7 @@
       {% assign canonical_no_lead = canonical_no_lead | replace_first: '/', '' %}
     {% endif %}
     {% assign canonical = canonical | replace: '//', '/' %}
-    
+
     <div class="lang-switcher" aria-label="Language switcher">
       {% for code in site.languages %}
         {% if code == site.default_lang %}

@@ -1,6 +1,6 @@
 <!doctype html>
 {% assign html_lang = page.lang | default: site.active_lang | default: site.default_lang %}
-{% if html_lang == nil or html_lang == '' %}
+{% if html_lang == null or html_lang == '' %}
   {% if page.url contains '/de/' or page.path contains '/de/' or page.dir contains '/de/' %}
     {% assign html_lang = 'de' %}
   {% endif %}

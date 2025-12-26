@@ -23,6 +23,7 @@ Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heide
 Dieses Seminar untersucht die zunehmend konfliktreiche Politik des Klimawandels im Kontext nationaler politischer Dynamiken. Wir analysieren, wie sich ein breiter Konsens in einen polarisierten Konflikt verwandelt, der sowohl die Wahl- als auch die Zivilgesellschaft prägt. Im Fokus stehen Ursachen und Folgen der Blockade klimapolitischer Reformen, insbesondere neue Konfliktlinien, die Rolle von Parteien und Bewegungen sowie Dynamiken der Bürgerbeteiligung.
 
 Zu Beginn behandeln wir zentrale theoretische Ansätze zur Einordnung des Klimawandels als politisches Thema – von Cleavage-Theorie und Parteienwettbewerb über Bewegungsforschung bis zur Partizipationsforschung. Besonderes Augenmerk gilt dem Zusammenspiel von Angebotsseite (Organisationen und Strategien) und Nachfrageseite (Einstellungen und Verhalten der Bürger). Wir greifen zentrale Debatten auf, darunter die Politisierung des Klimawandels, den Aufstieg rechter Klimaskepsis, die Fragmentierung der Umweltbewegung und die Bildung neuer Koalitionen in Europa. Zudem betrachten wir, wie die Klimakrise mit wirtschaftlichen, kulturellen und geopolitischen Entwicklungen verflochten ist und so zu einer „Polykrise“ beiträgt.
+
 </details>
 
 ---
@@ -39,6 +40,7 @@ Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heide
 Dieses Seminar bietet eine praxisorientierte Einführung in quantitative Verfahren zur Analyse von Umfragedaten mit Schwerpunkt auf R und RStudio. Die Teilnehmenden erarbeiten sich durch Übungen und Datenauswertung die Anwendung quantitativer Methoden zur Untersuchung individueller Einstellungen und Verhaltensweisen. Behandelt werden u. a. Datenmanagement, deskriptive Visualisierung, Modellierungsverfahren und Survey-Experimente.
 
 Der Kurs ist in fünf Teile gegliedert. Teil 1 führt in die Sprache der quantitativen Forschung ein (Forschungsfragen formulieren, Konzepte messen, Daten erheben). Teil 2 behandelt Datenmanagement und deskriptive Statistik als Grundlage für Aufbereitung und Zusammenfassung. Teil 3 umfasst bivariate und multivariate Analysen sowie Visualisierung zur Interpretation und Präsentation von Ergebnissen. Teil 4 führt in Survey-Experimente ein (Designs, Auswertungsmethoden). Teil 5 ist Präsentationen im Seminar gewidmet.
+
 </details>
 
 ---
@@ -57,6 +59,7 @@ Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heide
 Politische Parteien, soziale Bewegungen und andere Konfliktakteure konkurrieren um mediale Sichtbarkeit, um Forderungen zu platzieren. Medienberichte dienen dabei als Archiv politischer Mobilisierung und ermöglichen, Dynamiken politischen Konflikts über Länder und Zeit hinweg zu analysieren. Die Fülle an Medieninhalten stellt jedoch methodische Herausforderungen: Wie sammeln und analysieren wir diese Daten systematisch? Welche Ansätze filtern aussagekräftige Muster? Welche Datensätze stehen öffentlich zur Verfügung?
 
 Das Seminar führt in die Kernmethoden quantitativer Inhaltsanalyse politischer Konflikte ein, mit Schwerpunkt auf drei Ansätzen: Protestereignis-Analyse, Political Claims Analysis und automatisierte Textanalyse. Für jeden Ansatz besprechen wir Beispielstudien, Datenerhebung, deskriptive und inferenzstatistische Auswertung sowie Grenzen (Bias, Reliabilität, Interpretierbarkeit). Ein besonderes Augenmerk gilt aktuellen Entwicklungen in der Computational Social Science, insbesondere dem Einfluss großer Sprachmodelle. Praxisübungen in R ermöglichen die Anwendung auf reale Datensätze; Vorkenntnisse in R oder Stata und sichere Interpretation linearer Regressionsmodelle sind empfohlen.
+
 </details>
 
 ---
@@ -73,6 +76,7 @@ Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heide
 Wir analysieren den grundlegenden Wandel europäischer Parteiensysteme: steigende Volatilität, Stimmenverluste etablierter Parteien – insbesondere der Sozialdemokratie – und das regelmäßige Auftreten neuer Parteien. Parallel sinken Wahlbeteiligung und Parteimitgliedschaften, was Regierungsbildung erschwert und Instabilität fördert. Wie lassen sich diese Entwicklungen erklären? Welche neuen Befunde liefert die Forschung?
 
 Das Seminar nähert sich diesen Fragen über zwei aktuelle Bücher: Dassonneville (2022) zur Wahlvolatilität in Westeuropa und Häusermann & Kitschelt (2024) zu Niedergang und Strategien sozialdemokratischer Parteien. Beide bieten aktuelle Forschung und neue konzeptionelle wie methodische Zugänge zu zeitgenössischen Parteiensystemen. Wir besprechen die Werke kapitelweise, diskutieren Konzepte, Designs und empirische Ergebnisse und bewerten die zentralen Argumente, inklusive Fallauswahl, Messstrategien und Analysetechniken. Vorkenntnisse in europäischer Parteienforschung und quantitativen Methoden sind hilfreich, aber nicht erforderlich.
+
 </details>
 
 ---
@@ -103,6 +107,7 @@ Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heide
 Dieses Seminar vermittelt praxisnah quantitative Techniken zur Analyse politischen Verhaltens mit Schwerpunkt auf R und RStudio. In Übungen und Datenanalysen erwerben die Teilnehmenden Fähigkeiten zur Untersuchung individueller Einstellungen, Verhaltensweisen, Parteienwettbewerb und Protestdynamiken. Die Themen reichen von Datenmanagement und deskriptiver Visualisierung bis zu fortgeschrittenen Modellierungsverfahren.
 
 Der Kurs gliedert sich in vier Teile: (1) Sprache quantitativer Forschung (Forschungsfragen, Designs, Operationalisierung, Messung); (2) Datenmanagement und deskriptive Statistik; (3) bivariate und multivariate Analysen und Visualisierung; (4) vertiefende Themen nach Interesse der Gruppe. Mögliche Vertiefungen: kategoriale Datenanalyse, Zeitreihen, Conjoint-Experimente, Faktorenanalyse, Latent-Class-Modelle, Mehrebenen- und Paneldatenanalyse, Gewichtung. Die Gruppe entscheidet gemeinsam, welche Themen vertieft werden. Gearbeitet wird mit einem Originaldatensatz zu Einstellungen, Wahl- und Protestverhalten sowie Parteibindung (Erhebung 2023 in Österreich, Deutschland, Ungarn und Italien).
+
 </details>
 
 ---
@@ -121,6 +126,7 @@ Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heide
 Wir betrachten den Wandel der Konfliktlinien in Europa: sinkende Unterstützung für Mainstream-Parteien (v. a. Sozialdemokraten), Aufstieg grüner und radikal rechter Parteien, neue Allianzen entlang Migration, Europa und Klima. Ökonomische Konflikte verlieren an Gewicht; neue, gruppenbasierte Allianzen durchkreuzen ökonomische Bruchlinien. Über die Ursachen herrscht Uneinigkeit – von Re-Alignment (Gegenreaktion auf Globalisierung) bis De-Alignment (Individualisierung).
 
 Das Seminar beleuchtet diese Erklärungen mit dem Fokus auf Cleavage-Politik. Wir diskutieren Konzeptualisierung und Messung politischer Cleavages (quantitativ/qualitativ), betrachten soziale, identitäre und organisatorische Elemente des neuen Cleavage, untersuchen mobilisierende Akteure (Transformation der Sozialdemokratie, Aufstieg grüner und radikal rechter Parteien) und kartieren regionale Unterschiede (inkl. Mittel- und Osteuropa). Abschließend analysieren wir Krisen als Treiber von Cleavage-Formationen (Große Rezession, Covid-19, Krieg in der Ukraine).
+
 </details>
 
 ---
@@ -137,6 +143,7 @@ Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heide
 Demokratie lebt von aktiver Beteiligung: Bürger wählen Vertreter und halten Entscheidungsträger rechenschaftspflichtig. Gleichzeitig erweitern Bürger und Organisationen ständig ihr Repertoire politischer Beteiligung. Das Seminar behandelt zunächst die konzeptionellen und empirischen Herausforderungen, politische Partizipation zu definieren und zu messen, und diskutiert quantitative wie qualitative Zugänge.
 
 Zweiter Schwerpunkt sind Prädiktoren politischer Beteiligung: Welche Rolle spielen Soziodemografie, Einstellungen und Werte? Wir organisieren eine Debatte über Vor- und Nachteile der Wahlpflicht. Da individuelle Unterschiede nur einen Teil der Muster erklären, widmen wir die letzten drei Sitzungen Kontextfaktoren – Themen, Organisationen und nationale Rahmenbedingungen – und deren Einfluss auf Umfang und Formen politischer Beteiligung.
+
 </details>
 
 ---
@@ -155,6 +162,7 @@ Freie Universität Berlin, Fachbereich Politik- und Sozialwissenschaften, Berlin
 Angesichts politischer Instabilität und gesellschaftlicher Spannungen rückt die soziale Basis von Politik in den Fokus. Der Rückgang der traditionellen Parteien und der Aufstieg grüner und radikal rechter Akteure deuten auf eine Verschiebung der Nachkriegskoalitionen hin. Klassenbasierte Mobilisierung und Wohlfahrtskonflikte prägen Verhalten weniger stark; neue Allianzen entlang Migration, Europa und Klima durchkreuzen ökonomische Interessen. Andere sehen diese Dynamiken als Individualisierung ohne neue kohärente soziale Kraft.
 
 Das Seminar fokussiert Cleavage-Politik: Konflikte aus tiefen, dauerhaften gesellschaftlichen Spaltungen. Wir analysieren Cleavage-Bildung, soziale Trägergruppen, historische Pfade, Krisen als Katalysatoren, Dimensionen politischer Themen, soziale Basis traditioneller und neuer Cleavages, Mobilisierung in Partei- und Protestarena sowie agency politischer Unternehmer. Methodisch liegt der Akzent auf Ansätzen, die sich für Abschlussarbeiten eignen; wir diskutieren Studien zu West-/Osteuropa, Nord- und Südamerika.
+
 </details>
 
 ---
@@ -171,6 +179,7 @@ Freie Universität Berlin, Fachbereich Politik- und Sozialwissenschaften, Berlin
 Das Seminar beleuchtet Wahl- und Protestpolitik vergleichend. Obwohl beide Arenen zentrale Kanäle demokratischer Beteiligung sind, bestehen disziplinäre Silos: Politikwissenschaft fokussiert Parteien und Repräsentation, politische Soziologie Bewegungen, Protest und Partizipation. Nur wenige Studien untersuchen die vielfältigen Interaktionen, obwohl aktuelle Entwicklungen (z. B. enge Beziehungen zwischen Parteien wie La République En Marche!, Fidesz, Die Linke und zivilgesellschaftlichen Organisationen) eine Forschungslücke markieren.
 
 Wir verbinden politikwissenschaftliche und soziologische Zugänge, um Wahl- und Protestmobilisierung ganzheitlich zu betrachten. Der Kurs ist in vier Teile gegliedert: mikro-, makro- und meso-analytische Perspektiven (Wer beteiligt sich wie? Wie unterscheiden sich Cleavage-Strukturen länderübergreifend? Welche Akteure mobilisieren zu welchen Themen?) sowie Krisen als Motoren langfristiger Trends (Vergleich von Wahl- und Protestmobilisierung nach Großer Rezession, Migrations- und Corona-Krise). Methodisch liegt der Schwerpunkt auf vielfältigen – primär quantitativen – Strategien in der Wahl- und Protestforschung.
+
 </details>
 
 ---
@@ -229,6 +238,7 @@ Freie Universität Berlin, Fachbereich Politik- und Sozialwissenschaften, Berlin
 Das Forschungspraktikum beleuchtet verschiedene Ansätze quantitativer Inhaltsanalyse (Protestereignisse, Kernaussagen, Episodenanalyse) und deren Einsatz zur Untersuchung des Wandels von Protest- und Wahlpolitik in Europa. Es liefert sowohl methodische als auch inhaltliche Bausteine. Methodisch lernen die Teilnehmenden, Ergebnisse aus Protest Event, Core Sentence und Episodenanalyse zu lesen, zu verstehen und zu interpretieren und wenden mindestens einen Ansatz selbst an. Inhaltlich liegt der Fokus auf der Transformation politischer Konflikte in Europa; die Themenwahl erfolgt entlang dieser großen Veränderungen. Teilnehmende sollten ein Statistikprogramm beherrschen.
 
 Der Syllabus ist auf Anfrage erhältlich.
+
 </details>
 
 ---
@@ -254,6 +264,7 @@ Das Forschungspraktikum untersucht die vielfältigen Beziehungen zwischen Protes
 Das Praktikum vermittelt Erfahrung in Forschungsdesign und Sekundärdatenanalyse, einzeln oder in Kleingruppen. Vorkenntnisse im Thema sind hilfreich, aber nicht zwingend; Statistikkenntnisse sind erforderlich.
 
 Der Syllabus ist auf Anfrage erhältlich.
+
 </details>
 
 ---
@@ -272,6 +283,7 @@ Heinrich-Heine-Universität, Sozialwissenschaftliche Fakultät, Düsseldorf, Deu
 Der Kurs beleuchtet rechtspopulistische Mobilisierung und Gegenmobilisierung in Osteuropa nach der „Flüchtlingskrise“. In den Visegrád-Staaten wird der Aufstieg illiberaler Demokratie und des Populismus diskutiert. Unklar ist jedoch, ob diese Entwicklungen längerfristige Trends und gesellschaftliche Konfliktlinien widerspiegeln.
 
 Wir untersuchen die soziale und politische Struktur der Mobilisierung in Osteuropa. Zunächst bieten zwei Sitzungen einen theoretischen Überblick zu Cleavage-Bildung, Entwicklung programmatischen Parteienwettbewerbs und Muster wiederkehrender Konflikte trotz hoher Volatilität. Anschließend betrachten wir aktuelle Entwicklungen: Wahl- und Protestmobilisierung seit EU-Beitritt und Großer Rezession, Ursachen und Folgen populistischer Mobilisierung und Gegenmobilisierung in Wahl- und Protestarena.
+
 </details>
 
 ---

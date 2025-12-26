@@ -59,7 +59,10 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>{{ news_heading }} <a href="{{ '/news/' | relative_url }}" style="color: var(--global-theme-color)">{{ news_archive }}</a></h2>
+      <h2>
+        {{ news_heading }}
+        <a href="{{ '/news/' | relative_url }}" style="color: var(--global-theme-color)">{{ news_archive }}</a>
+      </h2>
       {% include news.liquid limit=true %}
     {% endif %}
 
@@ -85,7 +88,7 @@ layout: default
         <div class="contact-icons">{% include social.liquid %}</div>
 
         {% assign current_lang = page.lang | default: site.active_lang | default: site.default_lang %}
-        {% if current_lang == nil or current_lang == '' %}
+        {% if current_lang == null or current_lang == '' %}
           {% if page.url contains '/de/' or page.path contains '/de/' or page.dir contains '/de/' %}
             {% assign current_lang = 'de' %}
           {% endif %}
