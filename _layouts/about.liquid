@@ -15,6 +15,23 @@ layout: default
   </header>
 
   <article>
+    {% if page.lang == 'de' or site.active_lang == 'de' %}
+      {% assign is_de = true %}
+    {% else %}
+      {% assign is_de = false %}
+    {% endif %}
+    {% if is_de %}
+      {% assign news_heading = 'Aktuelle Nachrichten' %}
+      {% assign news_archive = '[gesamtes Archiv]' %}
+      {% assign latest_posts_label = 'Neueste Beiträge' %}
+      {% assign publications_heading = 'Neue Publikationen' %}
+    {% else %}
+      {% assign news_heading = 'recent news' %}
+      {% assign news_archive = '[full archive]' %}
+      {% assign latest_posts_label = 'latest posts' %}
+      {% assign publications_heading = 'new publications' %}
+    {% endif %}
+
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
@@ -42,14 +59,14 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>recent news <a href="{{ '/news/' | relative_url }}" style="color: var(--global-theme-color)">[full archive]</a></h2>
+      <h2>{{ news_heading }} <a href="{{ '/news/' | relative_url }}" style="color: var(--global-theme-color)">{{ news_archive }}</a></h2>
       {% include news.liquid limit=true %}
     {% endif %}
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">{{ latest_posts_label }}</a>
       </h2>
       {% include latest_posts.liquid %}
     {% endif %}
@@ -57,7 +74,7 @@ layout: default
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2>
-        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">new publications</a>
+        <a href="{{ '/publications/' | relative_url }}" style="color: inherit">{{ publications_heading }}</a>
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
@@ -67,7 +84,17 @@ layout: default
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
-        <div class="contact-note">{{ site.contact_note }}</div>
+        {% assign current_lang = page.lang | default: site.active_lang | default: site.default_lang %}
+        {% if current_lang == nil or current_lang == '' %}
+          {% if page.url contains '/de/' or page.path contains '/de/' or page.dir contains '/de/' %}
+            {% assign current_lang = 'de' %}
+          {% endif %}
+        {% endif %}
+        {% if current_lang == 'de' %}
+          <div class="contact-note">{{ site.contact_note_de | default: site.contact_note }}</div>
+        {% else %}
+          <div class="contact-note">{{ site.contact_note }}</div>
+        {% endif %}
       </div>
     {% endif %}
 

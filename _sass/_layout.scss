@@ -41,10 +41,51 @@ body.sticky-bottom-footer {
 // TODO: redefine content layout.
 
 /******************************************************************************
- * Publications
- ******************************************************************************/
+* Publications
+******************************************************************************/
 
 // TODO: redefine publications layout.
+
+/******************************************************************************
+ * Language switcher
+ ******************************************************************************/
+
+.lang-switcher {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  gap: 0.4rem;
+  z-index: 1040; // keep above the navbar
+}
+
+.lang-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.35rem 0.65rem;
+  border-radius: 8px;
+  border: 1px solid var(--global-divider-color);
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
+  font-weight: 600;
+  text-decoration: none;
+  line-height: 1.1;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+
+  &:hover {
+    background: var(--global-card-bg-color);
+    text-decoration: none;
+  }
+
+  &.active {
+    background: var(--global-theme-color);
+    color: var(--global-hover-text-color);
+    border-color: var(--global-theme-color);
+    box-shadow: none;
+    cursor: default;
+  }
+}
 
 /*****************************************************************************
 * Projects

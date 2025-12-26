@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <b>Junior Professor for Empirical-Analytical Participation Research</b> &#8226; Ruprecht-Karls-Universität Heidelberg <br>
   <b>Emmy Noether Research Group Leader&#58; The New Climate Divide</b>

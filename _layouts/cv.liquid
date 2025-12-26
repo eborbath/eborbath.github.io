@@ -1,7 +1,18 @@
 ---
 layout: default
 ---
-{% unless site.data.resume %}
+{% assign lang_code = page.lang | default: site.active_lang | default: site.default_lang %}
+{% assign lang_is_de = false %}
+{% if lang_code == 'de' %}
+  {% assign lang_is_de = true %}
+{% endif %}
+{% if lang_is_de %}
+  {% assign resume_data = site.data.resume_de | default: site.data.resume %}
+{% else %}
+  {% assign resume_data = site.data.resume %}
+{% endif %}
+
+{% unless resume_data %}
   <div class="post">
     <header class="post-header">
       <h1 class="post-title">
@@ -79,18 +90,53 @@ layout: default
 
     <article>
       <div class="cv">
-        {% for data in site.data.resume %}
+        {% for data in resume_data %}
+          {% assign section_key = data[0] %}
+          {% assign section_val = data[1] %}
           {% if site.jsonresume and site.jsonresume.size > 0 %}
-            {% unless site.jsonresume contains data[0] %}
+            {% unless site.jsonresume contains section_key %}
               {% continue %}
             {% endunless %}
           {% endif %}
-          {% if data[0] == 'meta' or data[1].size == 0 %} {% continue %} {% endif %}
-          <a class="anchor" id="{{ data[0] }}"></a>
+          {% if section_key == 'meta' or section_val.size == 0 %} {% continue %} {% endif %}
+          <a class="anchor" id="{{ section_key }}"></a>
           <div class="card mt-3 p-3">
-            <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+          {% if lang_is_de %}
+            {% case section_key %}
+              {% when 'basics' %}{% assign heading = 'Grunddaten' %}
+              {% when 'work' %}{% assign heading = 'Berufserfahrung' %}
+              {% when 'education' %}{% assign heading = 'Ausbildung' %}
+              {% when 'publications' %}{% assign heading = 'Publikationen' %}
+              {% when 'projects' %}{% assign heading = 'Projekte' %}
+              {% when 'volunteer' %}{% assign heading = 'Ehrenamt' %}
+              {% when 'awards' %}{% assign heading = 'Auszeichnungen' %}
+              {% when 'certificates' %}{% assign heading = 'Zertifikate' %}
+              {% when 'skills' %}{% assign heading = 'Fähigkeiten' %}
+              {% when 'languages' %}{% assign heading = 'Sprachen' %}
+              {% when 'interests' %}{% assign heading = 'Interessen' %}
+              {% when 'references' %}{% assign heading = 'Referenzen' %}
+              {% else %}{% assign heading = section_key | capitalize %}
+            {% endcase %}
+          {% else %}
+            {% case section_key %}
+              {% when 'basics' %}{% assign heading = 'Basics' %}
+              {% when 'work' %}{% assign heading = 'Work' %}
+              {% when 'education' %}{% assign heading = 'Education' %}
+              {% when 'publications' %}{% assign heading = 'Publications' %}
+              {% when 'projects' %}{% assign heading = 'Projects' %}
+              {% when 'volunteer' %}{% assign heading = 'Volunteer' %}
+              {% when 'awards' %}{% assign heading = 'Awards' %}
+              {% when 'certificates' %}{% assign heading = 'Certificates' %}
+              {% when 'skills' %}{% assign heading = 'Skills' %}
+              {% when 'languages' %}{% assign heading = 'Languages' %}
+              {% when 'interests' %}{% assign heading = 'Interests' %}
+              {% when 'references' %}{% assign heading = 'References' %}
+              {% else %}{% assign heading = section_key | capitalize %}
+            {% endcase %}
+          {% endif %}
+            <h3 class="card-title font-weight-medium">{{ heading }}</h3>
             <div>
-              {% case data[0] %}
+              {% case section_key %}
                 {% when 'basics' %}
                   {% include resume/basics.liquid %}
                 {% when 'education' %}

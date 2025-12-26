@@ -8,7 +8,14 @@
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign news = site.news | reverse %}
+        {% assign active_lang = site.active_lang | default: site.default_lang %}
+        {% assign news_all = site.news %}
+        {% assign news_lang = news_all | where: 'lang', active_lang %}
+        {% if active_lang == site.default_lang %}
+          {% assign news_default = news_all | where_exp: 'item', 'item.lang == nil' %}
+          {% assign news_lang = news_lang | concat: news_default %}
+        {% endif %}
+        {% assign news = news_lang | sort: 'date' | reverse %}
         {% if include.limit and page.announcements.limit %}
           {% assign news_limit = page.announcements.limit %}
         {% else %}

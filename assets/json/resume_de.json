@@ -7,7 +7,7 @@
       "address": "Bergheimer Str. 58",
       "postalCode": "69115",
       "city": "Heidelberg",
-      "countryCode": "Germany",
+      "countryCode": "Deutschland",
       "region": "Baden-Württemberg"
     },
     "profiles": [
@@ -25,40 +25,40 @@
   },
   "work": [
     {
-      "name": "Institute of Political Science, Ruprecht-Karls-Universität Heidelberg",
-      "location": "Heidelberg, Germany",
-      "position": "Junior Professor for Empirical-Analytical Participation Research",
+      "name": "Institut für Politikwissenschaft, Ruprecht-Karls-Universität Heidelberg",
+      "location": "Heidelberg, Deutschland",
+      "position": "Juniorprofessor für empirisch-analytische Partizipationsforschung",
       "url": "https://www.uni-heidelberg.de/politikwissenschaften/personal/borbath.html",
       "startDate": "2024-02-01",
-      "endDate": "ongoing"
+      "endDate": "laufend"
     },
     {
-      "name": "Institute of Political Science, Ruprecht-Karls-Universität Heidelberg",
-      "location": "Heidelberg, Germany",
-      "position": "Emmy Noether Research Group Leader - The New Climate Divide",
+      "name": "Institut für Politikwissenschaft, Ruprecht-Karls-Universität Heidelberg",
+      "location": "Heidelberg, Deutschland",
+      "position": "Leiter der Emmy-Noether-Nachwuchsgruppe – Die neue klimapolitische Spaltung",
       "url": "https://www.uni-heidelberg.de/politikwissenschaften/personal/borbath.html",
       "startDate": "2025-06-01",
-      "endDate": "ongoing"
+      "endDate": "laufend"
     },
     {
-      "name": "Center for Civil Society Research, WZB Berlin Social Science Center",
-      "location": "Berlin, Germany",
-      "position": "Guest Researcher",
+      "name": "Zentrum für Zivilgesellschaftsforschung, WZB Berlin Social Science Center",
+      "location": "Berlin, Deutschland",
+      "position": "Gastforscher",
       "url": "https://www.wzb.eu/en/persons/endre-borbath",
       "startDate": "2018-09-01",
-      "endDate": "ongoing"
+      "endDate": "laufend"
     },
     {
-      "name": "Institute of Sociology, Freie Universität Berlin",
-      "location": "Berlin, Germany",
-      "position": "Postdoctoral Researcher",
+      "name": "Institut für Soziologie, Freie Universität Berlin",
+      "location": "Berlin, Deutschland",
+      "position": "Postdoktorand",
       "url": "https://www.fu-berlin.de/presse/expertendienst/experten/b/borbath/index.html",
       "startDate": "2019-01-01",
       "endDate": "2024-01-31"
     },
     {
-      "name": "ERC project - Political Conflict in Europe in the Shadow of the Great Recession, European University Institute",
-      "location": "Florence, Italy",
+      "name": "ERC-Projekt – Political Conflict in Europe in the Shadow of the Great Recession, Europäisches Hochschulinstitut",
+      "location": "Florenz, Italien",
       "position": "PhD Researcher",
       "url": "https://www.eui.eu/research-hub?id=political-conflict-in-europe-in-the-shadow-of-the-great-recession",
       "startDate": "2014-09-15",
@@ -67,47 +67,47 @@
   ],
   "education": [
     {
-      "institution": "European University Institute, Florence, Italy",
-      "location": "Florence, Italy",
+      "institution": "Europäisches Hochschulinstitut, Florenz, Italien",
+      "location": "Florenz, Italien",
       "url": "https://www.eui.eu/en/home",
-      "area": "Political and Social Sciences",
+      "area": "Politik- und Sozialwissenschaften",
       "studyType": "PhD",
       "startDate": "2014-09-20",
       "endDate": "2018-12-06",
       "courses": ["Parties and Protests in Crisis-Hit Europe – Continuity and Change in the Structure of Political Conflict"]
     },
     {
-      "institution": "European University Institute, Florence, Italy",
-      "location": "Florence, Italy",
+      "institution": "Europäisches Hochschulinstitut, Florenz, Italien",
+      "location": "Florenz, Italien",
       "url": "https://www.eui.eu/en/home",
-      "area": "Political and Social Sciences",
+      "area": "Politik- und Sozialwissenschaften",
       "studyType": "Master of Research",
       "startDate": "2014-09-15",
       "endDate": "2015-07-31"
     },
     {
-      "institution": "Central European University, Budapest, Hungary",
-      "location": "Budapest, Hungary",
+      "institution": "Central European University, Budapest, Ungarn",
+      "location": "Budapest, Ungarn",
       "url": "https://www.ceu.edu",
-      "area": "Political Science, specialization in electoral politics",
+      "area": "Politikwissenschaft, Schwerpunkt Wahlforschung",
       "studyType": "Master of Arts",
       "startDate": "2012-09-15",
       "endDate": "2014-07-31"
     },
     {
-      "institution": "Babeș‑Bolyai University, Cluj‑Napoca, Romania",
-      "location": "Cluj‑Napoca, Romania",
+      "institution": "Babeș‑Bolyai-Universität, Cluj‑Napoca, Rumänien",
+      "location": "Cluj‑Napoca, Rumänien",
       "url": "https://www.ubbcluj.ro/en/",
-      "area": "Political Science (English)",
+      "area": "Politikwissenschaft (Englischsprachiges Programm)",
       "studyType": "Bachelor of Arts",
       "startDate": "2009-09-15",
       "endDate": "2012-07-31"
     },
     {
-      "institution": "Babeș‑Bolyai University, Cluj‑Napoca, Romania",
-      "location": "Cluj‑Napoca, Romania",
+      "institution": "Babeș‑Bolyai-Universität, Cluj‑Napoca, Rumänien",
+      "location": "Cluj‑Napoca, Rumänien",
       "url": "https://www.ubbcluj.ro/en/",
-      "area": "Philosophy (Hungarian)",
+      "area": "Philosophie (Ungarischsprachiges Programm)",
       "studyType": "Bachelor of Arts",
       "startDate": "2009-09-15",
       "endDate": "2012-07-31"
@@ -115,32 +115,32 @@
   ],
   "languages": [
     {
-      "language": "Hungarian",
-      "fluency": "mother tongue",
+      "language": "Ungarisch",
+      "fluency": "Muttersprache",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Englisch",
       "fluency": "C2",
       "icon": ""
     },
     {
-      "language": "German",
+      "language": "Deutsch",
       "fluency": "C2",
       "icon": ""
     },
     {
-      "language": "Romanian",
+      "language": "Rumänisch",
       "fluency": "C2",
       "icon": ""
     },
     {
-      "language": "Italian",
+      "language": "Italienisch",
       "fluency": "B1",
       "icon": ""
     },
     {
-      "language": "Turkish",
+      "language": "Türkisch",
       "fluency": "A2",
       "icon": ""
     }

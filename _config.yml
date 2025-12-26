@@ -13,6 +13,12 @@ footer_text: Based on the <a href="http://jekyllrb.com/" target="_blank">Jekyll<
 keywords: comparative political sociology, party competition, social movements, political participation, crisis politics, cleavages, Eastern Europe, research methods # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+languages: ["en", "de"] # list all languages you want to generate
+default_lang: en # language used when no prefix is present
+exclude_from_localization:
+  - assets/
+  - node_modules/
+  - _site/
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://eborbath.github.io # the base hostname & protocol for your site
@@ -104,6 +110,8 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 
 contact_note: >
   Send me an email if you'd like to get in touch!
+contact_note_de: >
+  Schreiben Sie mir gerne eine E-Mail, wenn Sie Kontakt aufnehmen möchten!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -259,6 +267,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
+  - jekyll-polyglot
   - jekyll-terser
   - jekyll-toc
   - jekyll-twitter-plugin
@@ -679,6 +688,8 @@ third_party_libraries:
 jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
+  - data: resume_de
+    json: assets/json/resume_de.json # German translation
 
 jsonresume:
   - basics

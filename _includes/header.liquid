@@ -126,7 +126,7 @@
             <!-- Search -->
             <li class="nav-item">
               <button id="search-toggle" title="Search" onclick="openSearchModal()">
-                <span class="nav-link">ctrl k <i class="ti ti-search"></i></span>
+                <span class="nav-link"><i class="ti ti-search"></i></span>
               </button>
             </li>
           {% endif %}
@@ -151,5 +151,55 @@
         <span class="progress-bar"></span>
       </div>
     </progress>
+  {% endif %}
+
+  {% if site.languages and site.languages.size > 1 %}
+    {% assign canonical = page.url | replace: '/index.html', '/' | replace: 'index.html', '/' | replace: '//', '/' %}
+
+    {% for lang_code in site.languages %}
+      {% assign prefix_long = '/' | append: lang_code | append: '/' %}
+      {% assign prefix_short = '/' | append: lang_code %}
+      {% if canonical == prefix_long or canonical == prefix_short %}
+        {% assign canonical = '/' %}
+      {% else %}
+        {% assign canonical = canonical | replace_first: prefix_long, '/' %}
+        {% assign canonical = canonical | replace_first: prefix_short, '/' %}
+      {% endif %}
+    {% endfor %}
+    {% if canonical == '' %}
+      {% assign canonical = '/' %}
+    {% endif %}
+    {% assign canonical_no_lead = canonical %}
+    {% if canonical_no_lead == '/' %}
+      {% assign canonical_no_lead = '' %}
+    {% else %}
+      {% assign canonical_no_lead = canonical_no_lead | replace_first: '/', '' %}
+    {% endif %}
+    {% assign canonical = canonical | replace: '//', '/' %}
+    
+    <div class="lang-switcher" aria-label="Language switcher">
+      {% for code in site.languages %}
+        {% if code == site.default_lang %}
+          {% if page.lang and page.lang != site.default_lang %}
+            {% assign segments = page.url | split: '/' | reject: '' %}
+            {% assign up = segments.size | plus: 1 %}
+            {% capture prefix %}{% for i in (1..up) %}../{% endfor %}{% endcapture %}
+            {% assign target = prefix %}
+            {% if canonical_no_lead != '' %}{% assign target = target | append: canonical_no_lead %}{% endif %}
+          {% else %}
+            {% assign target = canonical %}
+          {% endif %}
+        {% else %}
+          {% assign target = '/' | append: code | append: canonical %}
+        {% endif %}
+        {% assign target = target | replace: '//', '/' %}
+
+        {% if code == site.active_lang %}
+          <span class="lang-btn active">{{ code | upcase }}</span>
+        {% else %}
+          <a class="lang-btn" href="{{ target }}">{{ code | upcase }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
   {% endif %}
 </header>

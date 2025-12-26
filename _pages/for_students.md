@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /for_students/
-title: info for students
+title: students
 nav: true
 nav_order: 6
 social: true
@@ -75,7 +75,7 @@ Interested in having me supervise your BA or MA thesis?
 ## Recommendation Letters
 
 - As a general rule, I only write recommendation letters for students from whom I have read at least one term paper.
-- Please try to contact me **at least one week in advance** of the letter submission deadline.
+- Please try to contact me **at least two weeks in advance** of the letter submission deadline.
 
 ---
 
