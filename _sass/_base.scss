@@ -421,19 +421,6 @@ ul.task-list input[type="checkbox"] {
   #navbarNav {
     background-color: var(--global-bg-color);
     padding: 0.75rem 1rem;
-    display: block !important;
-    visibility: visible !important;
-    opacity: 1 !important;
-    height: auto !important;
-  }
-
-  .navbar-toggler {
-    display: none;
-  }
-
-  .navbar-nav {
-    flex-direction: column !important;
-    align-items: flex-start !important;
   }
 }
 
