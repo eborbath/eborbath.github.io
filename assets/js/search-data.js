@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/for_students/";
           },
+        },{id: "nav-climatedivide",
+          title: "ClimateDivide",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/climatedivide/";
+          },
         },{id: "nav-contact",
           title: "contact",
           description: "",
@@ -197,6 +204,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-new-paper-on-the-effect-of-politicization-on-protest-participation-in-non-democracies-the-case-of-hungary-co-authored-with-pál-susánszky-published-online-in-the-social-science-quarterly-you-find-the-paper-here-open-access",
           title: 'New paper on “The Effect of Politicization on Protest Participation in Non-Democracies: The...',
+          description: "",
+          section: "News",},{id: "news-new-paper-on-brand-transformation-in-european-politics-the-rise-and-limits-of-nonclassical-names-co-authored-with-swen-hutter-published-online-in-perspectives-on-politics-you-find-the-paper-here-open-access-and-here-you-find-the-replication-material",
+          title: 'New paper on “Brand Transformation in European Politics: The Rise and Limits of...',
           description: "",
           section: "News",},{
         id: 'social-email',
