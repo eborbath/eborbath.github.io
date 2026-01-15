@@ -11,6 +11,46 @@ lang: de
 
 ## 🗓️ 2025–2026
 
+---
+
+### **The Politics of Nonparticipation**
+
+**_Politikwissenschaft – Master_**  
+Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+
+<details>
+<summary>Abstract anzeigen</summary>
+
+Dieses Masterseminar untersucht die Politik der Nichtteilnahme, indem Rückzug nicht als bloße Abwesenheit von Partizipation verstanden wird, sondern als dynamischer und politisch folgenreicher Prozess. Anstatt von stabilen „Teilnehmertypen“ auszugehen, richtet der Kurs den Blick darauf, wie Individuen und Gruppen zwischen Phasen von Engagement, Disengagement und potenziellem Wiedereinstieg in verschiedenen Arenen politischen Handelns wechseln (elektoral, Protest, Verbände, digital). Die zentrale Annahme ist, dass Nichtteilnahme nicht nur durch individuelle Motive und Ressourcen geprägt ist, sondern auch durch die Angebotsseite demokratischer Politik: durch Organisationen, die Teilnehmende rekrutieren, schulen und binden, sowie durch Institutionen, die Anreize strukturieren, Responsivität signalisieren und beeinflussen, ob sich Partizipation „lohnt“.
+
+Das Seminar ist in vier Blöcke gegliedert. Der erste Block entwickelt ein konzeptionelles und methodisches Instrumentarium zur Erforschung von Nichtteilnahme und führt in Debatten zu Definition, Messung und Forschungsdesigns ein, die Trajektorien und Substitution zwischen unterschiedlichen Partizipationsrepertoires erfassen können. Der zweite Block widmet sich mikro-level Mechanismen, die Ausstieg und Wiedereinstieg antreiben, darunter biografische Einschränkungen, der Verlust politischer Wirksamkeit und Desillusionierung sowie emotionale Dynamiken wie Erschöpfung und Burnout. Der dritte Block analysiert meso-level organisationale Dynamiken und untersucht, wie Parteien, Bewegungen, Gewerkschaften und zivilgesellschaftliche Organisationen Partizipation durch Rekrutierung, Mobilisierungsrhythmen, Gatekeeping und Demobilisierungsstrategien prägen. Der vierte Block verortet Nichtteilnahme in makro-level Kontexten und beleuchtet, wie institutionelle Regeln, Responsivität, Legitimitätsüberzeugungen, Krisenerfahrungen und demokratischer Rückbau die Kosten-Nutzen-Kalküle von Stimme und Rückzug verändern.
+
+Durchgehend legt das Seminar einen starken Fokus auf empirische Forschung und methodische Pluralität und kombiniert Survey- und Paneldaten, Survey-Experimente, qualitative Interviews sowie computergestützte Analysen organisationaler Kommunikation. Die Studierenden werden konkurrierende Erklärungen kritisch bewerten, Mess- und Identifikationsprobleme diskutieren und eigene Forschungsfragen zu Rückzug, Substitution und Wiedereinstieg in zeitgenössischen Demokratien entwickeln. Das Seminar richtet sich an MA-Studierende der Politikwissenschaft, steht aber auch Studierenden der Soziologie und verwandter Disziplinen offen und setzt keine Vorkenntnisse der Partizipations- oder Nichtteilnahmeliteratur voraus.
+
+</details>
+
+---
+
+### **Introduction to Causal Inference with Quantitative Methods**
+
+**_Politikwissenschaft – Bachelor_**  
+Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+
+<details>
+<summary>Abstract anzeigen</summary>
+
+Dieses Seminar führt in kausale Inferenz in der sozialwissenschaftlichen Forschung ein: wie man kausale Fragestellungen formuliert und wie man beurteilt, ob ein quantitatives Forschungsdesign einen kausalen Anspruch tragen kann. Ausgangspunkt ist die kontrafaktische Logik von Kausalität (Treatments, Outcomes, Untersuchungseinheiten und der interessierende kausale Effekt). Darauf aufbauend wird ein praxisnaher Werkzeugkasten von Forschungsdesigns vermittelt, die in den Sozialwissenschaften breit eingesetzt werden.
+
+Nach der Einführung in die grundlegende Logik behandelt das Seminar zentrale Identifikationsstrategien und die ihnen zugrunde liegenden Annahmen. Zu den Themen gehören randomisierte Experimente (einschließlich Noncompliance, Attrition und Spillovers), Regressionsanpassung sowie Matching- und Gewichtungsverfahren unter der Annahme von Selektion auf Beobachtbares, Paneldatenmodelle und Fixed Effects, Difference-in-Differences-Designs zur Politikevaluation sowie Synthetic-Control-Methoden für Situationen mit einer oder wenigen behandelten Einheiten und reichhaltigen Zeitreihen vor der Intervention. Den Abschluss bilden Regression-Discontinuity-Designs und Instrumental-Variable-Ansätze. Der Fokus liegt dabei durchgehend auf Diagnose statt auf Formeln: Welche Annahme leistet die entscheidende Identifikationsarbeit? Welche Bedrohungen der Inferenz sind in einer konkreten Anwendung am plausibelsten? Welche Prüfungen sind informativ (z. B. Balance-Checks, Pre-Trend- bzw. Event-Study-Plots, Placebo-Analysen und Sensitivität gegenüber Designentscheidungen)?
+
+Die letzten drei Sitzungen sind für studentische Präsentationen reserviert. Jede Teilnehmerin und jeder Teilnehmer entwickelt eine eigene Forschungsfrage, schlägt ein kausales Design vor und diskutiert wahrscheinliche Limitationen sowie geeignete Diagnose- und Prüfstrategien.
+
+Es werden keine Vorkenntnisse in quantitativer Methodik vorausgesetzt; alle notwendigen Konzepte werden im Seminar eingeführt. Vorerfahrung mit Statistik oder Regressionsanalyse ist hilfreich, aber nicht erforderlich. Der Einsatz von Software (z. B. R oder Stata) ist optional und wird in Absprache mit dem Kurs festgelegt. Primäres Ziel ist das konzeptionelle Verständnis kausalen Denkens und von Forschungsdesigns. Das Seminar richtet sich in erster Linie an Studierende der Politikwissenschaft, steht aber auch interessierten Studierenden der Volkswirtschaftslehre und Soziologie offen.
+
+</details>
+
+---
+
 ### **Climate Change and Political Conflict**
 
 **_Politikwissenschaft – Master_**  
