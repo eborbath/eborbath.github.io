@@ -40,7 +40,6 @@ Interested in having me supervise your BA or MA thesis?
 
 - As a first step in the thesis-writing process, you will need to prepare an exposé of **no more than two pages**.
 - I expect that in this exposé you dedicate one paragraph to each of the following points:
-
   - your research question
   - the main theoretical perspectives (with references)
   - the type of data you are considering using

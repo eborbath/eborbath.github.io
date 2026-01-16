@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-01-10 13:05:00-0400
+date: 2026-01-06 13:05:00-0400
 inline: true
 main_page: true
 lang: de
