@@ -283,6 +283,12 @@ ninja.data = [{
           section: "News",},{id: "news-neuer-aufsatz-zu-brand-transformation-in-european-politics-the-rise-and-limits-of-nonclassical-names-gemeinsam-mit-swen-hutter-jetzt-online-in-perspectives-on-politics-den-aufsatz-finden-sie-hier-open-access-und-hier-das-replikationsmaterial",
           title: 'Neuer Aufsatz zu “Brand Transformation in European Politics: The Rise and Limits of...',
           description: "",
+          section: "News",},{id: "news-new-paper-on-cleavages-in-party-competition-in-central-and-eastern-europe-now-published-online-in-party-politics-you-can-find-the-paper-here-the-paper-is-part-of-our-special-issue-on-electoral-mobilisation-in-turbulent-times-co-edited-with-chendi-wang-and-argyrios-altiparmakis-you-can-read-our-introductory-article-to-the-issue-here",
+          title: 'New paper on “Cleavages in Party Competition in Central and Eastern Europe”, now...',
+          description: "",
+          section: "News",},{id: "news-neuer-artikel-zu-cleavages-in-party-competition-in-central-and-eastern-europe-jetzt-online-in-party-politics-veröffentlicht-der-artikel-ist-hier-zu-finden-der-beitrag-ist-teil-unseres-special-issues-zu-electoral-mobilisation-in-turbulent-times-das-gemeinsam-mit-chendi-wang-und-argyrios-altiparmakis-herausgegeben-wurde-der-einleitende-artikel-zum-special-issue-ist-hier-zu-lesen",
+          title: 'Neuer Artikel zu “Cleavages in Party Competition in Central and Eastern Europe”, jetzt...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
