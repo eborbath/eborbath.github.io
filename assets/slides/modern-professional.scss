@@ -1,0 +1,581 @@
+/*-- scss:defaults --*/
+
+// Modern Professional Color Palette
+$white: #FFFFFF;
+$off-white: #F7FAFC;
+$light-gray: #E2E8F0;
+$medium-gray: #5A6B7C;
+$dark-gray: #2F3B4A;
+$near-black: #1B2430;
+
+// Accent colors - confident, professional blues/teals
+$primary: #2F6FA8;           // Confident blue
+$primary-dark: #245A89;
+$accent: #3E8FA7;            // Teal-blue
+$accent-light: #D6EEF4;
+$highlight: $primary;        // Match title blue
+$success: #5EA67F;           // Fresh green
+
+// Base settings
+$body-bg: $white;
+$body-color: $near-black;
+$link-color: $primary;
+$link-color-hover: $primary-dark;
+
+// Heading colors
+$presentation-heading-color: $dark-gray;
+$code-block-bg: #EEF3F8;
+
+// Bundled deck font (for consistent rendering across browsers)
+@font-face {
+  font-family: 'Deck Sans';
+  src: url('../../../../../fonts/Roboto-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Deck Sans';
+  src: url('../../../../../fonts/Roboto-Italic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Deck Sans';
+  src: url('../../../../../fonts/Roboto-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Deck Sans';
+  src: url('../../../../../fonts/Roboto-BoldItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+
+$font-family-sans-serif: 'Deck Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+$presentation-font-size-root: 29px;  /* Reduced overall size */
+$presentation-heading-font: 'Deck Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+$presentation-heading-font-weight: 600;
+$presentation-h1-font-size: 2.4em;
+$presentation-h2-font-size: 1.6em;
+$presentation-line-height: 1.35;
+
+/*-- scss:rules --*/
+
+// Clean base styling
+.reveal {
+  font-family: $font-family-sans-serif;
+  font-weight: 400;
+  line-height: $presentation-line-height;
+  font-synthesis: none;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: $presentation-heading-font;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+.reveal h1 {
+  color: $primary;
+  margin-bottom: 0.5em;
+}
+
+.reveal h2 {
+  color: $dark-gray;
+  padding-bottom: 0.3em;
+  border-bottom: 3px solid $primary;
+  display: block;
+  width: fit-content;
+  margin-bottom: 0.8em;
+}
+
+.reveal h3 {
+  color: $primary;
+  font-weight: 500;
+}
+
+// Section/title slides
+.reveal section.title-slide {
+  text-align: left;
+}
+
+.reveal .title {
+  font-size: 2em;
+  font-weight: 700;
+  color: $primary;
+  line-height: 1.05;
+  margin-bottom: 0.3em;
+}
+
+.reveal .subtitle {
+  font-size: 1.4em;
+  font-weight: 400;
+  color: $near-black;
+  margin-bottom: 1.5em;
+  line-height: 1.2;
+}
+
+.reveal .author {
+  font-size: 1.1em;
+  font-weight: 500;
+  color: $dark-gray;
+}
+
+.reveal .institute, .reveal .affiliation {
+  font-size: 0.9em;
+  color: $medium-gray;
+  font-weight: 400;
+}
+
+// Title-slide affiliation styling
+.reveal #title-slide .quarto-title-affiliation {
+  font-size: 0.72em;
+  font-style: italic;
+  color: $medium-gray;
+  font-weight: 400;
+}
+
+// Body text
+.reveal p {
+  line-height: 1.4;
+}
+
+// Strong/bold text
+.reveal strong,
+.reveal b {
+  font-weight: 700;
+  color: $near-black;
+}
+
+// Keep movement-dimension box headings white
+.reveal [data-id="box1"] strong,
+.reveal [data-id="box2"] strong,
+.reveal [data-id="box3"] strong {
+  color: #FFFFFF !important;
+}
+
+// Emphasis/alert text - override inline styles
+[style*="color: #dd8538"],
+[style*="color: #FF6B35"],
+.reveal .alert {
+  color: $highlight !important;
+  font-weight: 600;
+}
+
+// Lists - clean and readable
+.reveal ul, .reveal ol {
+  line-height: 1.4;
+  margin-left: 0.5em;
+}
+
+.reveal li {
+  margin-bottom: 0.25em;
+}
+
+.reveal ul li::marker {
+  color: $accent;
+}
+
+.reveal ol li::marker {
+  color: $primary;
+  font-weight: 600;
+}
+
+// Override markers only on the first "Dimensions of movementization" box lists
+.reveal section#dimensions-of-movementization [data-id="box1"] li::marker,
+.reveal section#dimensions-of-movementization [data-id="box2"] li::marker,
+.reveal section#dimensions-of-movementization [data-id="box3"] li::marker {
+  color: #FFFFFF;
+  content: "✶ ";
+  font-size: 0.72em;
+}
+
+// Nested lists
+.reveal ul ul, .reveal ol ol, .reveal ul ol, .reveal ol ul {
+  font-size: 0.88em;
+  margin-top: 0.2em;
+  color: $near-black;
+}
+
+// Callout boxes - modern card style
+.reveal .callout {
+  border-radius: 8px;
+  border: none;
+  border-left: 4px solid $primary;
+  background-color: $off-white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  padding: 1em 1.2em;
+  margin: 1em 0;
+}
+
+.reveal .callout-note {
+  border-left-color: $accent;
+  background-color: rgba($accent, 0.05);
+}
+
+.reveal .callout-title {
+  font-weight: 600;
+  font-size: 0.9em;
+  color: $primary;
+  background: transparent;
+  padding: 0;
+  margin-bottom: 0.5em;
+  text-transform: none;
+}
+
+.reveal .callout-note .callout-title {
+  color: $primary-dark;
+}
+
+// Tables - clean modern style
+.reveal table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.85em;
+  border: none;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.reveal table th {
+  background: #D8E2EC;
+  color: $dark-gray;
+  font-weight: 600;
+  padding: 14px 18px;
+  text-align: left;
+  border: none;
+}
+
+.reveal table td {
+  padding: 12px 18px;
+  border: none;
+  border-bottom: 1px solid $light-gray;
+}
+
+.reveal table tr:last-child td {
+  border-bottom: none;
+}
+
+.reveal table tr:nth-child(even) {
+  background-color: $off-white;
+}
+
+.reveal table tr:hover {
+  background-color: rgba($accent, 0.08);
+}
+
+// Links
+.reveal a {
+  color: $primary;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+.reveal a:hover {
+  color: $primary-dark;
+  border-bottom-color: $primary;
+}
+
+// Code - modern monospace
+.reveal pre {
+  background-color: $code-block-bg;
+  color: $near-black;
+  border-radius: 8px;
+  padding: 1em;
+  box-shadow: 0 3px 10px rgba(31, 41, 55, 0.12);
+  border: 1px solid rgba(47, 101, 150, 0.12);
+}
+
+.reveal code {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  font-size: 0.9em;
+}
+
+.reveal p code, .reveal li code {
+  background-color: $off-white;
+  color: $highlight;
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+
+// Images - clean with subtle shadow
+.reveal img {
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  border: none;
+  max-width: none !important;
+  max-height: none !important;
+}
+
+.reveal img.r-stretch {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// Blockquotes - elegant
+.reveal blockquote {
+  font-style: italic;
+  border-left: 4px solid $accent;
+  background: linear-gradient(135deg, rgba($accent, 0.05) 0%, rgba($primary, 0.03) 100%);
+  padding: 1.2em 1.5em;
+  margin: 1.5em 0;
+  border-radius: 0 8px 8px 0;
+  font-size: 1.02em;
+  color: $dark-gray;
+  line-height: 1.35;
+}
+
+.reveal blockquote p {
+  margin: 0;
+}
+
+// Progress bar
+.reveal .progress {
+  background: $light-gray;
+  height: 4px;
+}
+
+.reveal .progress span {
+  background: linear-gradient(90deg, $primary, $accent);
+}
+
+// Slide number
+.reveal .slide-number {
+  font-family: $font-family-sans-serif;
+  font-weight: 500;
+  color: $medium-gray;
+  background-color: transparent;
+  font-size: 0.7em;
+  right: 20px;
+  bottom: 20px;
+}
+
+// In PDF print mode, keep fragment-expanded pages on the same displayed slide index.
+html.print-pdf .reveal .slide-number-delimiter,
+html.print-pdf .reveal .slide-number-b,
+body.print-pdf .reveal .slide-number-delimiter,
+body.print-pdf .reveal .slide-number-b {
+  display: none !important;
+}
+
+// Fragment animations
+.reveal .fragment {
+  transition: all 0.3s ease;
+}
+
+.reveal .fragment.visible {
+  opacity: 1;
+}
+
+// Columns alignment
+.reveal .columns {
+  display: flex;
+  align-items: flex-start;
+  gap: 2em;
+}
+
+// Math - clean styling
+.reveal .math {
+  color: $dark-gray;
+}
+
+.reveal .MathJax {
+  font-size: 1.02em;
+}
+
+// SVG circle labels - improve readability on dark fills
+.reveal .circle-label {
+  paint-order: stroke;
+  stroke: rgba(255, 255, 255, 0.75);
+  stroke-width: 2px;
+  font-weight: 600;
+}
+
+// Fit text styling
+.reveal .r-fit-text {
+  font-weight: 600;
+}
+
+// Incremental list styling
+.reveal .incremental > li {
+  opacity: 0.3;
+}
+
+.reveal .incremental > li.visible {
+  opacity: 1;
+}
+
+// Smaller class adjustments
+.reveal .smaller {
+  font-size: 0.85em;
+}
+
+.reveal .smaller li {
+  margin-bottom: 0.3em;
+}
+
+// Footer/author info on slides
+.reveal .footer {
+  font-size: 0.6em;
+  color: $medium-gray;
+}
+
+// Citation styling - smaller and grey
+.reveal .citation {
+  font-size: 0.7em;
+  color: $medium-gray;
+}
+
+// Highlight text - orange accent for key messages
+.reveal .highlight-text {
+  color: $highlight !important;
+}
+
+// Inline highlight tag
+.reveal .hl,
+.reveal .highlight-tag {
+  color: $highlight !important;
+  font-weight: 400;
+  font-size: 1.1em;
+  font-family: $font-family-sans-serif;
+}
+
+.reveal .hl strong,
+.reveal .hl em,
+.reveal .hl b,
+.reveal .hl i,
+.reveal .highlight-tag strong,
+.reveal .highlight-tag em,
+.reveal .highlight-tag b,
+.reveal .highlight-tag i {
+  color: $highlight !important;
+  font-weight: 700;
+}
+
+// Stacked images for sequential reveal
+.reveal .image-stack {
+  position: relative;
+  width: 100%;
+  height: 78vh;
+  margin: 0 auto;
+}
+
+.reveal .image-stack p {
+  margin: 0;
+}
+
+.reveal .image-stack .stack-img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 108%;
+  height: 108%;
+  max-width: 108%;
+  max-height: 108%;
+  object-fit: contain;
+  display: block;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.16);
+  border-radius: 6px;
+  transform-origin: center;
+}
+
+.reveal .image-stack .stack-img-1 {
+  transform: translate(-50%, -50%) rotate(-3deg);
+  z-index: 1;
+}
+
+.reveal .image-stack .stack-img-2 {
+  transform: translate(-50%, -50%) rotate(2deg) translate(12px, -8px);
+  z-index: 2;
+}
+
+.reveal .image-stack .stack-img-3 {
+  transform: translate(-50%, -50%) rotate(6deg) translate(-10px, 12px);
+  z-index: 3;
+}
+
+// Robust image stack for fixed visibility across screen sizes
+.reveal .movement-example-stack {
+  width: 100%;
+  height: 62vh;
+  margin: 0 auto;
+}
+
+.reveal .movement-example-stack p {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reveal .movement-example-stack .movement-example {
+  width: auto !important;
+  height: auto !important;
+  max-width: 92% !important;
+  max-height: 92% !important;
+  object-fit: contain;
+  transform-origin: center;
+  border-radius: 6px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.14);
+}
+
+.reveal .movement-example-stack .movement-example-1 {
+  transform: rotate(-3deg);
+  z-index: 1;
+}
+
+.reveal .movement-example-stack .movement-example-2 {
+  transform: rotate(2deg) translate(10px, -8px);
+  z-index: 2;
+}
+
+.reveal .movement-example-stack .movement-example-3 {
+  transform: rotate(6deg) translate(-8px, 10px);
+  z-index: 3;
+}
+
+.reveal section.compact {
+  font-size: 0.85em;
+  line-height: 1.05;
+}
+
+.reveal section.compact p,
+.reveal section.compact ul,
+.reveal section.compact ol,
+.reveal section.compact li {
+  line-height: 1.05;
+}
+.reveal section.compact li {
+  margin: 0.02em 0;
+}
+
+.reveal section.compact ul,
+.reveal section.compact ol {
+  margin-top: 0.05em;
+  margin-bottom: 0.05em;
+}
+
+.reveal section.compact li > ul,
+.reveal section.compact li > ol {
+  margin-top: 0.02em;
+  margin-bottom: 0.02em;
+}
+
+.reveal section.compact .fragment {
+  margin-bottom: 0.05em;
+}
