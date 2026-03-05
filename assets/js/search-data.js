@@ -289,6 +289,12 @@ ninja.data = [{
           section: "News",},{id: "news-neuer-artikel-zu-cleavages-in-party-competition-in-central-and-eastern-europe-jetzt-online-in-party-politics-veröffentlicht-der-artikel-ist-hier-zu-finden-der-beitrag-ist-teil-unseres-special-issues-zu-electoral-mobilisation-in-turbulent-times-das-gemeinsam-mit-chendi-wang-und-argyrios-altiparmakis-herausgegeben-wurde-der-einleitende-artikel-zum-special-issue-ist-hier-zu-lesen",
           title: 'Neuer Artikel zu “Cleavages in Party Competition in Central and Eastern Europe”, jetzt...',
           description: "",
+          section: "News",},{id: "news-new-paper-on-the-effects-of-turnout-at-major-climate-protests-on-politically-interested-bystanders-a-survey-field-experiment-co-authored-with-david-schieferdecker-jannes-jacobsen-swen-hutter-and-jule-specht-now-published-online-in-npj-climate-action-you-can-find-the-paper-here",
+          title: 'New paper on “The effects of turnout at major climate protests on politically-interested...',
+          description: "",
+          section: "News",},{id: "news-neuer-artikel-zu-the-effects-of-turnout-at-major-climate-protests-on-politically-interested-bystanders-a-survey-field-experiment-gemeinsam-mit-david-schieferdecker-jannes-jacobsen-swen-hutter-und-jule-specht-jetzt-online-in-npj-climate-action-veröffentlicht-den-artikel-finden-sie-hier",
+          title: 'Neuer Artikel zu “The effects of turnout at major climate protests on politically-interested...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
