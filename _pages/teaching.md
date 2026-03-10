@@ -19,6 +19,8 @@ toc:
 **_Politikwissenschaft – Master_**  
 Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
 
+<a href="{{ '/assets/pdf/Borbath_NonPart_MA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
+
 <details>
 <summary>Show Abstract</summary>
 
@@ -26,7 +28,7 @@ This graduate seminar examines the politics of nonparticipation by treating with
 
 The seminar is organized in four blocks. The first block develops a conceptual and methodological toolkit to study nonparticipation, introducing debates about definition, measurement, and research designs capable of capturing trajectories and substitution across repertoires. The second block turns to micro-level mechanisms that drive exit and re-entry, including biographical constraints, efficacy loss and disillusionment, and emotional dynamics such as burnout. The third block examines meso-level organizational dynamics, analyzing how parties, movements, unions, and civic organizations shape participation through recruitment, mobilization rhythms, gatekeeping, and demobilization strategies. The fourth block situates nonparticipation in macro-level contexts, focusing on how institutional rules, responsiveness, legitimacy beliefs, crisis experiences, and democratic backsliding alter the calculus of voice and exit.
 
-Throughout, the seminar emphasizes empirical research and methodological pluralism, combining survey and panel evidence, survey experiments, qualitative interviews, and computational approaches to organizational communication. Students will critically evaluate competing explanations, assess measurement and identification challenges, and develop their own research questions on withdrawal, substitution, and re-entry in contemporary democracies. The seminar is designed for Political Science MA students, but students from Sociology and related disciplines are also welcome, and it requires no prior familiarity with the participation/nonparticipation literature.
+Throughout, the seminar emphasizes empirical research and methodological pluralism, combining survey and panel evidence, survey experiments, qualitative interviews, and computational approaches to organizational communication. Students will critically evaluate competing explanations, assess measurement and identification challenges, and develop their own research questions on withdrawal, substitution, and re-entry in contemporary democracies.
 
 </details>
 
@@ -37,6 +39,8 @@ Throughout, the seminar emphasizes empirical research and methodological plurali
 **_Politikwissenschaft – Bachelor_**  
 Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
 
+<a href="{{ '/assets/pdf/Borbath_CausalInf_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
+
 <details>
 <summary>Show Abstract</summary>
 
@@ -45,8 +49,6 @@ This seminar introduces causal inference for social science research: how to for
 After establishing the basic logic, the seminar covers key identification strategies and the assumptions behind them. Topics include randomized experiments (including noncompliance, attrition, and spillovers), regression adjustment and matching/weighting approaches under selection on observables, panel-data models and fixed effects, difference-in-differences designs for policy evaluation, and synthetic control methods for settings with one or a few treated units and rich pre-treatment time series. The seminar concludes with regression discontinuity and instrumental variables. Throughout, we focus on diagnosis rather than formulas: Which assumption is doing the heavy lifting? What threats to inference are most plausible in a given application? Which checks are informative (e.g., balance checks, pre-trend/event-study plots, placebo analyses, and sensitivity to design choices)?
 
 The last three sessions are reserved for student presentations. Each participant develops a research question, proposes a causal design, and discusses likely limitations and diagnostic strategies.
-
-No prior quantitative coursework is required; all necessary concepts are introduced in class. Prior experience with statistics or regression is helpful but not required. Software use (e.g., R or Stata) is optional and will be chosen in consultation with the class; the primary goal is conceptual mastery of causal reasoning and research design. The seminar is primarily designed for Political Science students, but it is also open to interested students from Economics and Sociology.
 
 </details>
 
