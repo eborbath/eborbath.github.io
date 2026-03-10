@@ -295,6 +295,12 @@ ninja.data = [{
           section: "News",},{id: "news-neuer-artikel-zu-the-effects-of-turnout-at-major-climate-protests-on-politically-interested-bystanders-a-survey-field-experiment-gemeinsam-mit-david-schieferdecker-jannes-jacobsen-swen-hutter-und-jule-specht-jetzt-online-in-npj-climate-action-veröffentlicht-den-artikel-finden-sie-hier",
           title: 'Neuer Artikel zu “The effects of turnout at major climate protests on politically-interested...',
           description: "",
+          section: "News",},{id: "news-i-ve-prepared-the-syllabi-for-the-two-seminars-i-will-teach-in-the-summer-semester-at-the-ruprecht-karls-universität-heidelberg-the-politics-of-nonparticipation-ma-introduction-to-causal-inference-with-quantitative-methods-ba",
+          title: 'I’ve prepared the syllabi for the two seminars I will teach in the...',
+          description: "",
+          section: "News",},{id: "news-ich-habe-die-syllabi-für-die-zwei-seminare-vorbereitet-die-ich-im-sommersemester-an-der-ruprecht-karls-universität-heidelberg-unterrichten-werde-the-politics-of-nonparticipation-ma-introduction-to-causal-inference-with-quantitative-methods-ba",
+          title: 'Ich habe die Syllabi für die zwei Seminare vorbereitet, die ich im Sommersemester...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
