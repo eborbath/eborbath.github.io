@@ -301,6 +301,12 @@ ninja.data = [{
           section: "News",},{id: "news-ich-habe-die-syllabi-für-die-zwei-seminare-vorbereitet-die-ich-im-sommersemester-an-der-ruprecht-karls-universität-heidelberg-unterrichten-werde-the-politics-of-nonparticipation-ma-introduction-to-causal-inference-with-quantitative-methods-ba",
           title: 'Ich habe die Syllabi für die zwei Seminare vorbereitet, die ich im Sommersemester...',
           description: "",
+          section: "News",},{id: "news-our-replication-project-reproducibility-and-robustness-of-economics-and-political-science-research-is-now-published-online-in-nature-you-can-find-the-paper-here-we-contributed-with-replicating-manekin-amp-amp-mitts-2022-effective-for-whom-ethnic-identity-and-nonviolent-resistance-with-jan-fabian-dollbaum-and-jan-matti-dollbaum-we-also-wrote-up-those-specific-results-here",
+          title: 'Our replication project “Reproducibility and robustness of economics and political science research”, is...',
+          description: "",
+          section: "News",},{id: "news-unser-replikationsprojekt-reproducibility-and-robustness-of-economics-and-political-science-research-ist-jetzt-online-in-nature-veröffentlicht-den-artikel-finden-sie-hier-wir-haben-mit-einer-replikation-von-manekin-amp-amp-mitts-2022-beigetragen-effective-for-whom-ethnic-identity-and-nonviolent-resistance-gemeinsam-mit-jan-fabian-dollbaum-und-jan-matti-dollbaum-diese-spezifischen-ergebnisse-haben-wir-außerdem-hier-veröffentlicht",
+          title: 'Unser Replikationsprojekt “Reproducibility and robustness of economics and political science research” ist jetzt...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
