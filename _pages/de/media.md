@@ -11,6 +11,7 @@ lang: de
 
 ## Englisch
 
+- [Explaining Tisza's Hungarian breakthrough](https://theloop.ecpr.eu/explaining-tiszas-hungarian-breakthrough/), _The Loop_, April 16, 2026
 - [Germany's political landscape is more fractured than ever](https://www.dw.com/en/germanys-political-landscape-is-more-fractured-than-ever/a-70211395), _Deutsche Welle_, September 13, 2024
 - [The Electoral Dynamics of the Hungarian Elections 2022](https://precede.eu/index.php/2022/04/01/blog-the-electoral-dynamics-of-the-hungarian-elections-2022/), _Precede.eu_, April 1, 2022
 - [Coronavirus: why central and eastern European countries seem to be running out of luck](https://theconversation.com/coronavirus-why-central-and-eastern-european-countries-seem-to-be-running-out-of-luck-146349), _The Conversation_, September 18, 2020
