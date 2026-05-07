@@ -6,10 +6,8 @@ subtitle: <b>Junior Professor for Empirical-Analytical Participation Research</b
   <b>Emmy Noether Research Group Leader&#58; The New Climate Divide</b>
 profile:
   align: left
-  image: Endre_Borbath-min-sq.jpeg
+  image: DSC_9754.jpeg
   image_cicular: false # crops the image to make it circular
-  more_info: >
-    <p style="font-size: 10px; text-align: center;">Photo by: © Klaus Landry</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 announcements:

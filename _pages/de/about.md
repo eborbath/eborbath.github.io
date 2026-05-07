@@ -8,10 +8,8 @@ subtitle: >
   <b>Leiter der Emmy-Noether-Nachwuchsgruppe: Die neue klimapolitische Spaltung</b>
 profile:
   align: left
-  image: Endre_Borbath-min-sq.jpeg
+  image: DSC_9754.jpeg
   image_cicular: false
-  more_info: >
-    <p style="font-size: 10px; text-align: center;">Foto: © Klaus Landry</p>
 selected_papers: true
 social: true
 announcements:

@@ -46,6 +46,7 @@ lang: de
 
 ## Ungarisch
 
+- [Patthelyzet és szélsőjobbos áttörés: merre tart Románia?](https://www.marosvasarhelyiradio.ro/musorok/patthelyzet-es-szelsojobbos-attores-merre-tart-romania/), Marosvásárhelyi Rádió Románia, May 7, 2026
 - [A romániai magyar politikai képviselet kilátásai](https://transtelex.ro/velemeny/2025/11/20/romaniai-magyar-politikai-kepviselet-kilatasai-elemzes-borbath-endre/), Transtelex.ro, November 20, 2025
 - [Fiatalok a politikai térképen](https://www.marosvasarhelyiradio.ro/musorok/fiatalok-a-politikai-terkepen/), Marosvásárhelyi Rádió Románia, November 18, 2025
 - [Átrendeződő erőviszonyok és politikai feszültségek az államfőválasztás előtt](https://www.marosvasarhelyiradio.ro/musorok/atrendezodo-eroviszonyok-es-politikai-feszultsegek-az-allamfovalasztas-elott/), Marosvásárhelyi Rádió Románia, March 31, 2025
