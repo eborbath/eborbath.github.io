@@ -307,6 +307,12 @@ ninja.data = [{
           section: "News",},{id: "news-unser-replikationsprojekt-reproducibility-and-robustness-of-economics-and-political-science-research-ist-jetzt-online-in-nature-veröffentlicht-den-artikel-finden-sie-hier-wir-haben-mit-einer-replikation-von-manekin-amp-amp-mitts-2022-beigetragen-effective-for-whom-ethnic-identity-and-nonviolent-resistance-gemeinsam-mit-jan-fabian-dollbaum-und-jan-matti-dollbaum-diese-spezifischen-ergebnisse-haben-wir-außerdem-hier-veröffentlicht",
           title: 'Unser Replikationsprojekt “Reproducibility and robustness of economics and political science research” ist jetzt...',
           description: "",
+          section: "News",},{id: "news-i-m-happy-to-be-opening-this-semester-s-ruperto-carola-lecture-series-on-wehrhafte-demokratie-resilienz-sicherheit-verteidigung-at-heidelberg-university-next-monday-in-my-talk-the-populist-radical-right-a-threat-to-democracy-i-ll-discuss-why-populist-radical-right-parties-have-become-so-central-in-european-politics-what-explains-their-rise-how-they-mobilize-support-and-under-what-conditions-they-pose-a-threat-to-democracy-you-can-find-more-information-here-️-monday-11-may-2026-18-15-alte-universität-aula-grabengasse-1-69117-heidelberg-come-along-if-you-re-in-heidelberg-i-d-be-happy-to-see-you-there",
+          title: 'I’m happy to be opening this semester’s Ruperto Carola lecture series on “Wehrhafte...',
+          description: "",
+          section: "News",},{id: "news-ich-freue-mich-am-kommenden-montag-die-ruperto-carola-ringvorlesung-dieses-semesters-zu-wehrhafte-demokratie-resilienz-sicherheit-verteidigung-an-der-universität-heidelberg-zu-eröffnen-in-meinem-vortrag-the-populist-radical-right-a-threat-to-democracy-werde-ich-diskutieren-warum-parteien-der-populistischen-radikalen-rechten-in-der-europäischen-politik-so-zentral-geworden-sind-was-erklärt-ihren-aufstieg-wie-mobilisieren-sie-unterstützung-und-unter-welchen-bedingungen-stellen-sie-eine-bedrohung-für-die-demokratie-dar-weitere-informationen-finden-sie-hier-️-montag-11-mai-2026-18-15-uhr-alte-universität-aula-grabengasse-1-69117-heidelberg-kommen-sie-gerne-vorbei-wenn-sie-in-heidelberg-sind-ich-würde-mich-freuen-sie-dort-zu-sehen",
+          title: 'Ich freue mich, am kommenden Montag die Ruperto Carola Ringvorlesung dieses Semesters zu...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
