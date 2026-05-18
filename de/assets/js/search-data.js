@@ -313,6 +313,12 @@ ninja.data = [{
           section: "News",},{id: "news-ich-freue-mich-am-kommenden-montag-die-ruperto-carola-ringvorlesung-dieses-semesters-zu-wehrhafte-demokratie-resilienz-sicherheit-verteidigung-an-der-universität-heidelberg-zu-eröffnen-in-meinem-vortrag-the-populist-radical-right-a-threat-to-democracy-werde-ich-diskutieren-warum-parteien-der-populistischen-radikalen-rechten-in-der-europäischen-politik-so-zentral-geworden-sind-was-erklärt-ihren-aufstieg-wie-mobilisieren-sie-unterstützung-und-unter-welchen-bedingungen-stellen-sie-eine-bedrohung-für-die-demokratie-dar-weitere-informationen-finden-sie-hier-️-montag-11-mai-2026-18-15-uhr-alte-universität-aula-grabengasse-1-69117-heidelberg-kommen-sie-gerne-vorbei-wenn-sie-in-heidelberg-sind-ich-würde-mich-freuen-sie-dort-zu-sehen",
           title: 'Ich freue mich, am kommenden Montag die Ruperto Carola Ringvorlesung dieses Semesters zu...',
           description: "",
+          section: "News",},{id: "news-we-are-hiring-two-doctoral-researchers-in-the-new-climate-divide-project-doctoral-researcher-in-politics-of-climate-change-f-m-d-survey-research-and-political-participation-wp2-doctoral-researcher-in-politics-of-climate-change-f-m-d-qualitative-research-and-group-formation-wp3-application-deadline-21-june-2026-preferred-starting-date-21-september-2026",
+          title: 'We are hiring two doctoral researchers in the New Climate Divide project: Doctoral...',
+          description: "",
+          section: "News",},{id: "news-wir-besetzen-zwei-promotionsstellen-im-projekt-die-neue-klimapolitische-spaltung-wissenschaftliche-r-mitarbeiter-in-politik-des-klimawandels-w-m-d-schwerpunkt-umfrageforschung-und-politische-partizipation-arbeitspaket-2-wissenschaftliche-r-mitarbeiter-in-politik-des-klimawandels-w-m-d-schwerpunkt-qualitative-forschung-und-gruppenbildung-arbeitspaket-3-bewerbungsschluss-21-juni-2026-bevorzugter-beginn-21-september-2026",
+          title: 'Wir besetzen zwei Promotionsstellen im Projekt Die neue klimapolitische Spaltung: Wissenschaftliche*r Mitarbeiter*in Politik...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
