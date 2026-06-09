@@ -331,6 +331,12 @@ ninja.data = [{
           section: "News",},{id: "news-ich-freue-mich-darauf-kommende-woche-auf-der-konferenz-social-movement-studies-in-intense-times-die-zu-ehren-der-arbeit-von-donatella-della-porta-organisiert-wird-erste-ergebnisse-aus-unserem-climatedivide-projekt-vorzustellen-weitere-informationen-zur-konferenz-finden-sie-hier",
           title: 'Ich freue mich darauf, kommende Woche auf der Konferenz “Social movement studies in...',
           description: "",
+          section: "News",},{id: "news-next-week-i-will-attend-the-32nd-international-conference-of-europeanists-in-dublin-june-16-18-2026-and-the-european-political-science-society-conference-in-belfast-june-18-20-2026-at-ces-dino-noah-wildi-and-i-will-present-two-papers-from-valence-to-cleavage-conceptualizing-the-climate-divide-as-political-mobilisation-issue-and-automated-political-claims-analysis-with-llms-in-belfast-these-two-papers-will-be-joined-by-a-third-paper-movement-parties-and-parliamentary-speech-in-chile-and-spain-co-authored-with-daniel-saldivia-gonzatti-and-jan-schwalbach",
+          title: 'Next week I will attend the 32nd International Conference of Europeanists in Dublin...',
+          description: "",
+          section: "News",},{id: "news-kommende-woche-nehme-ich-an-der-32-international-conference-of-europeanists-in-dublin-16-18-juni-2026-und-an-der-konferenz-der-european-political-science-society-in-belfast-18-20-juni-2026-teil-bei-der-ces-präsentiere-ich-gemeinsam-mit-dino-noah-wildi-zwei-papiere-from-valence-to-cleavage-conceptualizing-the-climate-divide-as-political-mobilisation-issue-und-automated-political-claims-analysis-with-llms-in-belfast-stehen-diese-beiden-beiträge-ebenfalls-auf-dem-programm-ergänzt-durch-ein-drittes-papier-movement-parties-and-parliamentary-speech-in-chile-and-spain-gemeinsam-mit-daniel-saldivia-gonzatti-und-jan-schwalbach",
+          title: 'Kommende Woche nehme ich an der 32. International Conference of Europeanists in Dublin...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
