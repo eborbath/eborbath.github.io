@@ -10,6 +10,48 @@ toc:
 
 ---
 
+## 🗓️ 2026–2027
+
+---
+
+### **Climate Change and Political Conflict**
+
+**_Politikwissenschaft – Master_**<br>
+Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+
+<a href="{{ '/assets/pdf/Borbath_Climate_PolConf_2026_27.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
+
+<details>
+<summary>Show Abstract</summary>
+
+This seminar examines how climate change has become a source of political conflict in European democracies. It asks whether disputes over climate policies are consolidating into a climate cleavage and how this process connects political actors, citizens, and collective identities. We begin with general cleavage theory and apply its social, ideological, organizational, and policy dimensions to climate politics. We then examine the supply side of climate conflict: how Green, radical right, and mainstream parties position themselves; how climate movements mobilize; how parties and movements interact; and how obstruction, backlash, and cross-national variation shape political competition.
+
+The seminar subsequently turns to citizens. We investigate whether climate attitudes form an independent dimension of political preferences, how the distributive consequences of climate policy affect public support, and how climate attitudes influence electoral and non-electoral participation. Finally, we consider how political disagreements become socially and emotionally embedded through affective polarization, climate-related in-groups and out-groups, material grievances, and cultural backlash, including under conditions of geopolitical, economic, and energy crisis. Throughout, we connect the supply and demand sides of climate politics and compare evidence from computational text analysis, observational surveys, survey experiments, interviews, focus groups, and comparative case studies.
+
+</details>
+
+---
+
+### **Politischer Konflikt und Bürgerbeteiligung in Osteuropa**
+
+**_Politikwissenschaft – Bachelor_**<br>
+Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+
+<a href="{{ '/assets/pdf/Borbath_PolKon_Beteiligung_Ost_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
+
+<details>
+<summary>Show Abstract</summary>
+
+This seminar examines how political conflicts in Central and Eastern Europe emerge, are organized, and are translated into different forms of political participation. At its core is the question of how social divisions become stable or shifting cleavages, how parties and civil society actors represent these divisions, and how citizens intervene in political conflicts through elections, organizations, and protest. The regional focus is on the post-communist member states of the European Union; other Eastern European countries are included selectively for comparison.
+
+The first block develops the seminar’s analytical and regional foundations. It introduces the concepts of cleavage and political participation, clarifies the regional comparative perspective, and examines the historical foundations of contemporary politics. The second block applies these foundations to key subjects of political conflict: distribution, nation and ethnicity, cultural conflicts, and their representation by political parties. The third block compares elections, civil society, and protest as arenas of participation. The fourth block brings together the perspectives on cleavages, representation, and arenas of participation and examines how these processes are linked to democratic backsliding. It focuses on the interconnections between backsliding and the European Union, its roots in society, and possible sources of democratic resilience.
+
+The seminar has a strong methodological component. In each session, empirical studies are used to examine how research questions, concepts, case selection, data, and conclusions relate to one another. The aim is to enable students to read qualitative and quantitative research designs independently and assess their findings appropriately. No prior knowledge of the region or the methods covered is required.
+
+</details>
+
+---
+
 ## 🗓️ 2025–2026
 
 ---

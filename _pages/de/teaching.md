@@ -9,6 +9,48 @@ toc:
 lang: de
 ---
 
+## 🗓️ 2026–2027
+
+---
+
+### **Climate Change and Political Conflict**
+
+**_Politikwissenschaft – Master_**<br>
+Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+
+<a href="{{ '/assets/pdf/Borbath_Climate_PolConf_2026_27.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
+
+<details>
+<summary>Abstract anzeigen</summary>
+
+Dieses Seminar untersucht, wie der Klimawandel in europäischen Demokratien zu einer Quelle politischen Konflikts geworden ist. Es fragt, ob sich Auseinandersetzungen um Klimapolitik zu einem Klima-Cleavage verfestigen und wie dieser Prozess politische Akteure, Bürger:innen und kollektive Identitäten miteinander verbindet. Ausgangspunkt ist die allgemeine Cleavage-Theorie, deren soziale, ideologische, organisatorische und politikfeldbezogene Dimensionen wir auf die Klimapolitik anwenden. Anschließend betrachten wir die Angebotsseite des Klimakonflikts: wie sich grüne, radikal rechte und etablierte Parteien positionieren, wie Klimabewegungen mobilisieren, wie Parteien und Bewegungen interagieren und wie Blockaden, Gegenreaktionen und länderübergreifende Unterschiede den politischen Wettbewerb prägen.
+
+Danach richtet sich der Blick auf die Bürger:innen. Wir untersuchen, ob Klimaeinstellungen eine eigenständige Dimension politischer Präferenzen bilden, wie sich die Verteilungsfolgen der Klimapolitik auf die öffentliche Unterstützung auswirken und wie Klimaeinstellungen die Beteiligung an Wahlen und außerhalb von Wahlen beeinflussen. Abschließend analysieren wir, wie politische Meinungsverschiedenheiten durch affektive Polarisierung, klimabezogene Eigen- und Fremdgruppen, materielle Benachteiligungen und kulturelle Gegenreaktionen sozial und emotional verankert werden, auch unter den Bedingungen geopolitischer, wirtschaftlicher und energiepolitischer Krisen. Durchgängig verbinden wir die Angebots- und Nachfrageseite der Klimapolitik und vergleichen Befunde aus computergestützter Textanalyse, Beobachtungsstudien mit Umfragedaten, Survey-Experimenten, Interviews, Fokusgruppen und vergleichenden Fallstudien.
+
+</details>
+
+---
+
+### **Politischer Konflikt und Bürgerbeteiligung in Osteuropa**
+
+**_Politikwissenschaft – Bachelor_**<br>
+Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+
+<a href="{{ '/assets/pdf/Borbath_PolKon_Beteiligung_Ost_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
+
+<details>
+<summary>Abstract anzeigen</summary>
+
+Das Seminar untersucht, wie politische Konflikte in Mittel- und Osteuropa entstehen, organisiert und in unterschiedliche Formen politischer Beteiligung übersetzt werden. Im Zentrum steht die Frage, wie gesellschaftliche Gegensätze zu stabilen oder wechselnden Konfliktlinien werden, wie Parteien und zivilgesellschaftliche Akteure diese Gegensätze repräsentieren und wie Bürger:innen über Wahlen, Organisationen und Protest in politische Auseinandersetzungen eingreifen. Der regionale Schwerpunkt liegt auf den postkommunistischen Mitgliedstaaten der Europäischen Union; andere osteuropäische Länder werden punktuell zum Vergleich herangezogen.
+
+Der erste Block erarbeitet die analytischen und regionalen Grundlagen des Seminars. Er führt in die Begriffe Konfliktlinie und politische Beteiligung ein, klärt die regionale Vergleichsperspektive und behandelt historische Voraussetzungen gegenwärtiger Politik. Der zweite Block wendet diese Grundlagen auf zentrale Gegenstände politischer Auseinandersetzung an: Verteilung, Nation und Ethnizität, kulturelle Konflikte sowie ihre Repräsentation durch Parteien. Der dritte Block vergleicht Wahlen, Zivilgesellschaft und Protest als Beteiligungsarenen. Der vierte Block führt die Perspektiven auf Konfliktlinien, Repräsentation und Beteiligungsarenen zusammen und untersucht, wie diese Prozesse mit demokratischem Rückbau verbunden sind. Im Mittelpunkt stehen seine Verflechtung mit der Europäischen Union, seine gesellschaftliche Verankerung und mögliche Quellen demokratischer Resilienz.
+
+Das Seminar hat eine starke methodische Komponente. Anhand empirischer Studien wird in jeder Sitzung untersucht, wie Forschungsfragen, Konzepte, Fallauswahl, Daten und Schlussfolgerungen zusammenhängen. Ziel ist es, qualitative und quantitative Forschungsdesigns selbstständig zu lesen und ihre Ergebnisse angemessen einzuordnen. Vorkenntnisse zur Region oder zu den behandelten Methoden sind nicht erforderlich.
+
+</details>
+
+---
+
 ## 🗓️ 2025–2026
 
 ---
