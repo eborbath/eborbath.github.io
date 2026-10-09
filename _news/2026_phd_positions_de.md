@@ -1,4 +1,5 @@
 ---
+permalink: /news/2026_phd_positions/
 layout: post
 date: 2026-05-18 10:00:00-0400
 inline: true

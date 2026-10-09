@@ -1,4 +1,5 @@
 ---
+permalink: /news/2026_party_brands_pop/
 layout: post
 date: 2026-01-06 13:05:00-0400
 inline: true

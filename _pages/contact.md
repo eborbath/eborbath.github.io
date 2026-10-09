@@ -20,11 +20,12 @@ You can reach me at
 
 #### Heidelberg
 
-Ruprecht-Karls-Universität Heidelberg  
-Institut für Politische Wissenschaft  
-Bergheimer Str. 58, Raum 03.033  
-69115 Heidelberg  
-Tel: +49 62 21542 871
+Heidelberg University  
+Faculty of Economics and Social Sciences  
+Institute of Political Science  
+Bergheimer Str. 58, Room 03.033  
+69115 Heidelberg, Germany  
+Phone: +49 6221 54-2871
 
 ---
 
@@ -33,7 +34,7 @@ Tel: +49 62 21542 871
 WZB Berlin Social Science Center  
 Center for Civil Society Research  
 Reichpietschufer 50, Room B213  
-10785 Berlin  
-Tel: +49 30 25491 245
+10785 Berlin, Germany  
+Phone: +49 30 25491-245
 
 ---

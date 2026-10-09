@@ -1,4 +1,5 @@
 ---
+permalink: /news/2026_ruperto_carola_lecture/
 layout: post
 date: 2026-05-07 10:00:00-0400
 inline: true

@@ -1,4 +1,5 @@
 ---
+permalink: /news/2025_civsoc_crisis/
 layout: post
 date: 2025-07-12 18:14:00-0400
 inline: true

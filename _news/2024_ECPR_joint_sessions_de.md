@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_ECPR_joint_sessions/
 layout: post
 date: 2024-03-15 09:00:00-0400
 inline: true

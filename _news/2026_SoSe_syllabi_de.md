@@ -1,4 +1,5 @@
 ---
+permalink: /news/2026_SoSe_syllabi/
 layout: post
 date: 2026-03-10 15:03:00-0400
 inline: true

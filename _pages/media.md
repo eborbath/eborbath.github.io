@@ -25,7 +25,7 @@ toc:
 ## German
 
 - [Die Neue Spaltung Kulturkämpfe in der Europäischen Politik](https://heiup.uni-heidelberg.de/journals/rupertocarola/issue/view/2460/449), Forschungsmagazin "Ruperto Carola", Ausgabe 25, 2025, 28-35
-- [Neue Emmy Noether - Nachwuchsgruppe in den Politikwissenschaften](https://www.uni-heidelberg.de/de/newsroom/neue-emmy-noether-nachwuchsgruppe-in-den-politikwissenschaften), Pressemitteilung Nr. 16/2025, Ruprecht-Karls-Universität Heidelberg, Februar 21, 2025
+- [Neue Emmy Noether - Nachwuchsgruppe in den Politikwissenschaften](https://www.uni-heidelberg.de/de/newsroom/neue-emmy-noether-nachwuchsgruppe-in-den-politikwissenschaften), Press release no. 16/2025, Heidelberg University, February 21, 2025
 - [Herausragende Forscher\*innen neu in der Emmy Noether-, Heisenberg- und Reinhart Koselleck-Förderung](https://www.dfg.de/de/aktuelles/neuigkeiten-themen/info-wissenschaft/2025/ifw-25-15), Information für die Wissenschaft Nr. 15, Deutsche Forschungsgemeinschaft (DFG), Februar 17, 2025
 - [Brandmauer gegen Rechtspopulisten? - "Schwer aufrecht zu erhalten", sagt der Experte](https://kurier.at/politik/ausland/endre-borbath-ungarn-orban-migration-rechts-populisten-radikale/402962847), Kurier, October 21, 2024
 - [Warum stehen die Menschen so weit rechts?](https://kurier.at/politik/ausland/warum-rechtspopulismus-gruende-fpoe-kickl-afd/402959253), Kurier, October 10, 2024

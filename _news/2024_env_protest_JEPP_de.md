@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_env_protest_JEPP/
 layout: post
 date: 2024-08-27 09:00:00-0400
 inline: true

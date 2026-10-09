@@ -1,0 +1,166 @@
+{% comment %}
+  Opt-in consent banner (vanilla-cookieconsent v3, https://cookieconsent.orestbida.com).
+  Scripts marked with type="text/plain" data-category="..." only run after the visitor
+  accepts that category. The library is self-hosted via third_party_libraries.download.
+{% endcomment %}
+{% assign cc_lang = site.active_lang | default: site.default_lang %}
+<link
+  rel="stylesheet"
+  href="{{ site.third_party_libraries.vanilla-cookieconsent.url.css }}"
+  integrity="{{ site.third_party_libraries.vanilla-cookieconsent.integrity.css }}"
+  crossorigin="anonymous"
+>
+<style>
+  #cc-main {
+    --cc-font-family: inherit;
+    --cc-btn-primary-bg: var(--global-theme-color);
+    --cc-btn-primary-border-color: var(--global-theme-color);
+    --cc-btn-primary-hover-bg: var(--global-hover-color);
+    --cc-btn-primary-hover-border-color: var(--global-hover-color);
+    --cc-toggle-on-bg: var(--global-theme-color);
+  }
+  .cc-settings-link {
+    background: none;
+    border: 0;
+    padding: 0;
+    color: inherit;
+    cursor: pointer;
+    font: inherit;
+  }
+</style>
+<script
+  defer
+  src="{{ site.third_party_libraries.vanilla-cookieconsent.url.js }}"
+  integrity="{{ site.third_party_libraries.vanilla-cookieconsent.integrity.js }}"
+  crossorigin="anonymous"
+></script>
+<script>
+  window.addEventListener('DOMContentLoaded', function () {
+    if (!window.CookieConsent) return;
+
+    // follow the site's light/dark theme
+    var root = document.documentElement;
+    var syncDark = function () {
+      root.classList.toggle('cc--darkmode', root.getAttribute('data-theme') === 'dark');
+    };
+    syncDark();
+    new MutationObserver(syncDark).observe(root, { attributes: true, attributeFilter: ['data-theme'] });
+
+    CookieConsent.run({
+      revision: 1,
+      cookie: { name: 'cc_cookie', expiresAfterDays: 182 },
+      onChange: function (param) {
+        var changed = param.changedCategories || [];
+        if (changed.indexOf('analytics') !== -1 && !CookieConsent.acceptedCategory('analytics')) {
+          // stop a running gtag from re-writing its cookies, then remove them
+          if (typeof window.gtag === 'function') window.gtag('consent', 'update', { analytics_storage: 'denied' });
+          var host = window.location.hostname;
+          CookieConsent.eraseCookies([/^_ga/, '_gid'], '/', host);
+          CookieConsent.eraseCookies([/^_ga/, '_gid'], '/', '.' + host);
+        }
+        if (changed.length) window.location.reload();
+      },
+      guiOptions: {
+        consentModal: { layout: 'box', position: 'bottom left', equalWeightButtons: true },
+        preferencesModal: { layout: 'box', equalWeightButtons: true },
+      },
+      categories: {
+        necessary: { enabled: true, readOnly: true },
+        analytics: {
+          autoClear: { cookies: [{ name: /^_ga/ }, { name: '_gid' }] },
+        },
+        external: {},
+      },
+      language: {
+        default: '{{ cc_lang }}',
+        translations: {
+          {% if cc_lang == 'de' %}
+          de: {
+            consentModal: {
+              title: 'Datenschutz-Einstellungen',
+              description:
+                'Ich würde gerne Google Analytics nutzen, um zu sehen, wie diese Website genutzt wird, und Zitationsmetriken (Altmetric, Dimensions) bei meinen Publikationen anzeigen. Beides wird nur mit Ihrer Einwilligung geladen. Sie können Ihre Wahl jederzeit über „Cookie-Einstellungen“ im Fußbereich ändern.',
+              acceptAllBtn: 'Alle akzeptieren',
+              acceptNecessaryBtn: 'Nur notwendige',
+              showPreferencesBtn: 'Einstellungen',
+              footer: '<a href="{{ site.privacy_path | relative_url }}">Datenschutzerklärung</a> <a href="{{ site.impressum_path | relative_url }}">Impressum</a>',
+            },
+            preferencesModal: {
+              title: 'Cookie-Einstellungen',
+              acceptAllBtn: 'Alle akzeptieren',
+              acceptNecessaryBtn: 'Nur notwendige',
+              savePreferencesBtn: 'Auswahl speichern',
+              closeIconLabel: 'Schließen',
+              sections: [
+                {
+                  title: 'Notwendig',
+                  description: 'Speichert nur Ihre Datenschutz-Auswahl (Cookie „cc_cookie“, 6 Monate).',
+                  linkedCategory: 'necessary',
+                },
+                {
+                  title: 'Statistik (Google Analytics)',
+                  description:
+                    'Anonyme Nutzungsstatistiken über Google Analytics 4 (Google Ireland Ltd.). Setzt die Cookies „_ga“ und „_ga_*“; Daten können in die USA übertragen werden.',
+                  linkedCategory: 'analytics',
+                },
+                {
+                  title: 'Publikationsmetriken (Altmetric, Dimensions)',
+                  description:
+                    'Lädt Badges von Altmetric und Dimensions auf der Publikationsseite. Dabei wird Ihre IP-Adresse an diese Anbieter übermittelt.',
+                  linkedCategory: 'external',
+                },
+                {
+                  title: 'Mehr Informationen',
+                  description: 'Details finden Sie in der <a href="{{ site.privacy_path | relative_url }}">Datenschutzerklärung</a>.',
+                },
+              ],
+            },
+          },
+          {% else %}
+          en: {
+            consentModal: {
+              title: 'Privacy settings',
+              description:
+                'I would like to use Google Analytics to see how this site is used, and to show citation metrics (Altmetric, Dimensions) next to my publications. Both are only loaded with your consent. You can change your choice at any time via “Cookie settings” in the footer.',
+              acceptAllBtn: 'Accept all',
+              acceptNecessaryBtn: 'Necessary only',
+              showPreferencesBtn: 'Settings',
+              footer: '<a href="{{ site.privacy_path | relative_url }}">Privacy policy</a> <a href="{{ site.impressum_path | relative_url }}">Legal notice</a>',
+            },
+            preferencesModal: {
+              title: 'Cookie settings',
+              acceptAllBtn: 'Accept all',
+              acceptNecessaryBtn: 'Necessary only',
+              savePreferencesBtn: 'Save choices',
+              closeIconLabel: 'Close',
+              sections: [
+                {
+                  title: 'Necessary',
+                  description: 'Only stores your privacy choice (cookie “cc_cookie”, 6 months).',
+                  linkedCategory: 'necessary',
+                },
+                {
+                  title: 'Statistics (Google Analytics)',
+                  description:
+                    'Anonymous usage statistics via Google Analytics 4 (Google Ireland Ltd.). Sets the cookies “_ga” and “_ga_*”; data may be transferred to the USA.',
+                  linkedCategory: 'analytics',
+                },
+                {
+                  title: 'Publication metrics (Altmetric, Dimensions)',
+                  description:
+                    'Loads badges from Altmetric and Dimensions on the publications page. This sends your IP address to these providers.',
+                  linkedCategory: 'external',
+                },
+                {
+                  title: 'More information',
+                  description: 'See the <a href="{{ site.privacy_path | relative_url }}">privacy policy</a> for details.',
+                },
+              ],
+            },
+          },
+          {% endif %}
+        },
+      },
+    });
+  });
+</script>

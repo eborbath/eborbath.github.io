@@ -2,11 +2,12 @@
 layout: about
 title: home
 permalink: /
-subtitle: <b>Junior Professor for Empirical-Analytical Participation Research</b> &#8226; Ruprecht-Karls-Universität Heidelberg <br>
+subtitle: <b>Junior Professor for Empirical-Analytical Participation Research</b> &#8226; Heidelberg University <br>
   <b>Emmy Noether Research Group Leader&#58; The New Climate Divide</b>
 profile:
   align: left
   image: DSC_9754.jpeg
+  image_alt: Portrait of Endre Borbáth
   image_cicular: false # crops the image to make it circular
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -20,7 +21,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Junior Professor of Empirical-Analytical Participation Research at the [Institute of Political Science](https://www.uni-heidelberg.de/politikwissenschaften/){:target="\_blank"} at Ruprecht-Karls-Universität Heidelberg, where I also lead the [Emmy Noether Research Group on "The New Climate Divide"](http://climatedivide.eu){:target="\_blank"}. I am a guest researcher at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research){:target="\_blank"} at the WZB Berlin Social Science Center.
+I am a Junior Professor of Empirical-Analytical Participation Research at the [Institute of Political Science](https://www.ipw.uni-heidelberg.de/en){:target="\_blank"} (Faculty of Economics and Social Sciences) at Heidelberg University, where I also lead the [Emmy Noether Research Group on "The New Climate Divide"](http://climatedivide.eu){:target="\_blank"}. I am a guest researcher at the [Center for Civil Society Research](https://www.wzb.eu/en/research/trans-sectoral-research/center-for-civil-society-research){:target="\_blank"} at the WZB Berlin Social Science Center.
 
 **My research focuses on** mass mobilization amidst transformations in European cleavage structures, shaped by the rising salience of climate change, immigration, and European integration. I bridge perspectives from comparative politics and political sociology by examining both the supply and demand sides: party competition and movement mobilization on the supply side, and individual-level participation and group identities on the demand side. Empirically, I primarily use quantitative methods and analyze data derived from media coverage of electoral and protest politics, as well as individual-level surveys and survey experiments. Geographically, my research focuses on Western, Central, and Eastern Europe.
 
@@ -28,6 +29,6 @@ My **research interests** include: Comparative Politics &#8226; Political Sociol
 
 **Previously**, I worked as a postdoctoral researcher at Freie Universität Berlin and at the WZB Berlin Social Science Center. I received my PhD in December 2018 from the European University Institute. Prior to that, I completed the Political Science MA program at Central European University with a focus on electoral politics. You can find my more detailed [CV here]({{ '/cv/' | relative_url }}).
 
-**To get in touch**, please find my contact information [here]({{ '/contact/' | relative_url }}). If you'd like to book office hours with me, feel free to send me an email.
+**To get in touch**, please find my contact information [here]({{ '/contact/' | relative_url }}). To book office hours, please use the Calendly link on my [students page]({{ '/for_students/' | relative_url }}).
 
 For recent updates, check out my [BlueSky feed](https://bsky.app/profile/eborbath.bsky.social){:target="\_blank"}.

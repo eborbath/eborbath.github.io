@@ -5,4 +5,4 @@ inline: true
 main_page: true
 ---
 
-I am happy to share that I will be joining the University of Heidelberg as Junior Professor for Empirical-Analytical Participation Research from February onwards.
+I am happy to share that I will be joining Heidelberg University as Junior Professor for Empirical-Analytical Participation Research from February onwards.

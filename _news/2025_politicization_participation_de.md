@@ -1,4 +1,5 @@
 ---
+permalink: /news/2025_politicization_participation/
 layout: post
 date: 2025-10-22 13:02:00-0400
 inline: true

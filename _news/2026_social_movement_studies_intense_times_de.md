@@ -1,4 +1,5 @@
 ---
+permalink: /news/2026_social_movement_studies_intense_times/
 layout: post
 date: 2026-05-29 10:00:00-0400
 inline: true

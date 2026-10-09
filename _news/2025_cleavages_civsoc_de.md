@@ -1,4 +1,5 @@
 ---
+permalink: /news/2025_cleavages_civsoc/
 layout: post
 date: 2025-08-28 17:03:00-0400
 inline: true

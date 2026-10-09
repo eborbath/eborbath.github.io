@@ -5,9 +5,9 @@
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
           {% if content.startDate %}
-            {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
-            {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
-            {% assign date = startDate | append: ' - ' %}
+            {% assign startDate = content.startDate | cv_date %}
+            {% assign cv_lang = page.lang | default: site.active_lang | default: site.default_lang %}{% if cv_lang == 'de' %}{% assign present_label = 'heute' %}{% else %}{% assign present_label = 'Present' %}{% endif %}{% assign endDate = content.endDate | cv_date | default: present_label %}
+            {% if cv_lang == 'de' %}{% assign date = startDate | append: ' – ' %}{% else %}{% assign date = startDate | append: ' - ' %}{% endif %}
             {% assign date = date | append: endDate %}
           {% else %}
             {% assign date = '' %}

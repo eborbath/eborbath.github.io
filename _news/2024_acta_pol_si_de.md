@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_acta_pol_si/
 layout: post
 date: 2024-12-16 22:00:00-0400
 inline: true

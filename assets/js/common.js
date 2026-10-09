@@ -23,6 +23,8 @@ $(document).ready(function () {
     $(".publications h2").each(function () {
       $(this).attr("data-toc-skip", "");
     });
+    // keep the cookie consent dialog's headings out of the TOC
+    $("#cc-main h2, #cc-main h3").attr("data-toc-skip", "");
     var navSelector = "#toc-sidebar";
     var $myNav = $(navSelector);
     Toc.init($myNav);

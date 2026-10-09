@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_blauen_band/
 layout: post
 date: 2024-05-06 09:00:00-0400
 inline: true

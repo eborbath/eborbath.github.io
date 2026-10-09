@@ -17,7 +17,7 @@ toc:
 ### **Climate Change and Political Conflict**
 
 **_Politikwissenschaft – Master_**<br>
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_Climate_PolConf_2026_27.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -35,7 +35,7 @@ The seminar subsequently turns to citizens. We investigate whether climate attit
 ### **Politischer Konflikt und Bürgerbeteiligung in Osteuropa**
 
 **_Politikwissenschaft – Bachelor_**<br>
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_PolKon_Beteiligung_Ost_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -59,7 +59,7 @@ The seminar has a strong methodological component. In each session, empirical st
 ### **The Politics of Nonparticipation**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_NonPart_MA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -79,7 +79,7 @@ Throughout, the seminar emphasizes empirical research and methodological plurali
 ### **Introduction to Causal Inference with Quantitative Methods**
 
 **_Politikwissenschaft – Bachelor_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_CausalInf_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -99,7 +99,7 @@ The last three sessions are reserved for student presentations. Each participant
 ### **Climate Change and Political Conflict**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_Climate_PolConf.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -117,7 +117,7 @@ The seminar begins by surveying key theoretical approaches to understanding clim
 ### **Quantitative Methods with Survey Data**
 
 **_Politikwissenschaft – Bachelor_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_Survey_methods.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -139,7 +139,7 @@ The seminar is divided into five parts. The first part introduces the language o
 ### **Quantitative Content Analysis of the Coverage of Political Conflict**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_coverage_conf_MA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -158,7 +158,7 @@ The seminar incorporates hands-on data collection and analysis using R, allowing
 ### **New Research in European Party Politics**
 
 **_Politikwissenschaft – Bachelor_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_EU_parties_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -179,7 +179,7 @@ While prior familiarity with European party politics and quantitative methods is
 ### **Party – Movement Interactions**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_PaMo_MA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -196,7 +196,7 @@ This seminar explores the theoretical foundations, empirical evidence, and pract
 ### **Quantitative Methods in the Study of Political Behavior**
 
 **_Politikwissenschaft – Bachelor & Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_QuantPoBe.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -219,7 +219,7 @@ Students will have the opportunity to work with an original survey dataset cover
 ### **Political Conflict in Western and Eastern Europe**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_PolCon_MA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 
@@ -236,7 +236,7 @@ This seminar will examine these explanations through the lens of cleavage politi
 ### **Introduction to Political Participation Research**
 
 **_Politikwissenschaft – Bachelor_**  
-Ruprecht-Karls-Universität Heidelberg, Institute of Political Science, Heidelberg, Germany
+Heidelberg University, Faculty of Economics and Social Sciences, Institute of Political Science, Heidelberg, Germany
 
 <a href="{{ '/assets/pdf/Borbath_PolPart_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Download Syllabus</a>
 

@@ -1,4 +1,5 @@
 ---
+permalink: /news/2026_nature/
 layout: post
 date: 2026-04-02 10:00:00-0400
 lang: de

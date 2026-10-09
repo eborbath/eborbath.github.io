@@ -1,4 +1,5 @@
 ---
+permalink: /news/2025_postdoc_ClimateDivide/
 layout: post
 date: 2025-01-15 13:24:00-0400
 inline: true

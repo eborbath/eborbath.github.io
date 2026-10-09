@@ -1,4 +1,5 @@
 ---
+permalink: /news/2025_SoSe_syllabi/
 layout: post
 date: 2025-04-08 15:03:00-0400
 inline: true

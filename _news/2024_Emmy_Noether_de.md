@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_Emmy_Noether/
 layout: post
 date: 2024-11-10 07:14:00-0400
 inline: true

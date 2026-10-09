@@ -1,0 +1,33 @@
+{% comment %}
+  Google Analytics 4. With enable_cookie_consent the tags are inert (type="text/plain")
+  until the visitor accepts the "analytics" category in the consent banner.
+{% endcomment %}
+{% if site.enable_google_analytics and site.google_analytics %}
+  {% if site.enable_cookie_consent %}
+    <script
+      type="text/plain"
+      data-category="analytics"
+      data-service="Google Analytics"
+      async
+      data-src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"
+    ></script>
+    <script type="text/plain" data-category="analytics" data-service="Google Analytics">
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+  {% else %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+  {% endif %}
+{% endif %}

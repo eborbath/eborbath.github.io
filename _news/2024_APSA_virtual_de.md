@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_APSA_virtual/
 layout: post
 date: 2024-02-04 09:00:00-0400
 inline: true

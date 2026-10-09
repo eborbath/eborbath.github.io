@@ -1,4 +1,5 @@
 ---
+permalink: /news/2022_German_Politics_paper/
 layout: post
 date: 2022-04-24 09:00:00-0400
 inline: true

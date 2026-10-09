@@ -1,4 +1,5 @@
 ---
+permalink: /news/2025_left_nationalist/
 layout: post
 date: 2025-07-17 13:40:00-0400
 inline: true

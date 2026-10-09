@@ -1,4 +1,5 @@
 ---
+permalink: /news/2025_ClimateDivide_coders/
 layout: post
 date: 2025-10-02 14:39:00-0400
 inline: true

@@ -67,7 +67,13 @@
   <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url | bust_file_cache}}">
 {% endif %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+<!-- Canonical URL and hreflang links between the English and German versions (jekyll-polyglot) -->
+{% comment %}
+  "ferh" stops jekyll-polyglot from re-prefixing the canonical URL with /de/ on untranslated pages;
+  polyglot turns it back into href after localization.
+{% endcomment %}
+{% capture i18n_headers %}{% I18n_Headers %}{% endcapture %}
+{{ i18n_headers | replace: '<link rel="canonical" href=', '<link rel="canonical" ferh=' }}
 
 {% if site.enable_darkmode %}
   <!-- Dark Mode -->

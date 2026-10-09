@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_cult_polarization/
 layout: post
 date: 2024-02-01 09:00:00-0400
 inline: true

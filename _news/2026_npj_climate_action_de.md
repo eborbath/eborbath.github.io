@@ -1,4 +1,5 @@
 ---
+permalink: /news/2026_npj_climate_action/
 layout: post
 date: 2026-02-28 13:05:00-0400
 lang: de

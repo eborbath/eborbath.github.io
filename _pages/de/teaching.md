@@ -16,7 +16,7 @@ lang: de
 ### **Climate Change and Political Conflict**
 
 **_Politikwissenschaft – Master_**<br>
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_Climate_PolConf_2026_27.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -34,7 +34,7 @@ Danach richtet sich der Blick auf die Bürger:innen. Wir untersuchen, ob Klimaei
 ### **Politischer Konflikt und Bürgerbeteiligung in Osteuropa**
 
 **_Politikwissenschaft – Bachelor_**<br>
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_PolKon_Beteiligung_Ost_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -58,7 +58,7 @@ Das Seminar hat eine starke methodische Komponente. Anhand empirischer Studien w
 ### **The Politics of Nonparticipation**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_NonPart_MA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -78,7 +78,7 @@ Durchgängig legt das Seminar einen Schwerpunkt auf empirische Forschung und met
 ### **Introduction to Causal Inference with Quantitative Methods**
 
 **_Politikwissenschaft – Bachelor_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_CausalInf_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -98,7 +98,7 @@ Die letzten drei Sitzungen sind für Präsentationen der Studierenden reserviert
 ### **Climate Change and Political Conflict**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_Climate_PolConf.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -115,7 +115,7 @@ Zu Beginn behandeln wir zentrale theoretische Ansätze zur Einordnung des Klimaw
 ### **Quantitative Methods with Survey Data**
 
 **_Politikwissenschaft – Bachelor_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_Survey_methods.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -134,7 +134,7 @@ Der Kurs ist in fünf Teile gegliedert. Teil 1 führt in die Sprache der quantit
 ### **Quantitative Content Analysis of the Coverage of Political Conflict**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_coverage_conf_MA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -151,7 +151,7 @@ Das Seminar führt in die Kernmethoden quantitativer Inhaltsanalyse politischer 
 ### **New Research in European Party Politics**
 
 **_Politikwissenschaft – Bachelor_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_EU_parties_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -168,7 +168,7 @@ Das Seminar nähert sich diesen Fragen über zwei aktuelle Bücher: Dassonnevill
 ### **Party – Movement Interactions**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_PaMo_MA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -182,7 +182,7 @@ Parteien und Bewegungen als zentrale Vermittler: Wir typisieren konfliktive und 
 ### **Quantitative Methods in the Study of Political Behavior**
 
 **_Politikwissenschaft – Bachelor & Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_QuantPoBe.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -201,7 +201,7 @@ Der Kurs gliedert sich in vier Teile: (1) Sprache quantitativer Forschung (Forsc
 ### **Political Conflict in Western and Eastern Europe**
 
 **_Politikwissenschaft – Master_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_PolCon_MA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 
@@ -218,7 +218,7 @@ Das Seminar beleuchtet diese Erklärungen mit dem Fokus auf Cleavage-Politik. Wi
 ### **Introduction to Political Participation Research**
 
 **_Politikwissenschaft – Bachelor_**  
-Ruprecht-Karls-Universität Heidelberg, Institut für Politikwissenschaft, Heidelberg, Deutschland
+Ruprecht-Karls-Universität Heidelberg, Fakultät für Wirtschafts- und Sozialwissenschaften, Institut für Politische Wissenschaft, Heidelberg, Deutschland
 
 <a href="{{ '/assets/pdf/Borbath_PolPart_BA.pdf' | relative_url }}" class="col col-sm-2" target="_blank">📄 Syllabus herunterladen</a>
 

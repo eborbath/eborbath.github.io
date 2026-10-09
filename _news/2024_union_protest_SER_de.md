@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_union_protest_SER/
 layout: post
 date: 2024-09-25 09:00:00-0400
 inline: true

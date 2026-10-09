@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_acta_pol_Jobbik_LMP/
 layout: post
 date: 2024-05-14 09:00:00-0400
 inline: true

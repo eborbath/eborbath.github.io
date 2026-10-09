@@ -3,11 +3,22 @@
   {{ site.first_name }}
   {{ site.middle_name }}
   {{ site.last_name }}. {{ site.footer_text }}
+  {% assign footer_lang = site.active_lang | default: site.default_lang %}
   {% if site.impressum_path %}
-    <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+    <a href="{{ site.impressum_path | relative_url }}">{% if footer_lang == 'de' %}Impressum{% else %}Legal notice{% endif %}</a>
+    &middot;
+  {% endif %}
+  {% if site.privacy_path %}
+    <a href="{{ site.privacy_path | relative_url }}">{% if footer_lang == 'de' %}Datenschutz{% else %}Privacy{% endif %}</a>
+  {% endif %}
+  {% if site.enable_cookie_consent %}
+    &middot;
+    <button type="button" class="cc-settings-link" data-cc="show-preferencesModal">
+      {%- if footer_lang == 'de' -%}Cookie-Einstellungen{%- else -%}Cookie settings{%- endif -%}
+    </button>
   {% endif %}
   {% if site.last_updated %}
-    Last updated: {{ 'now' | date: '%B %d, %Y' }}.
+    {% if footer_lang == 'de' %}Zuletzt aktualisiert: {% else %}Last updated: {% endif %}{{ 'now' | localized_date: 'long' }}.
   {% endif %}
 {% endcapture %}
 

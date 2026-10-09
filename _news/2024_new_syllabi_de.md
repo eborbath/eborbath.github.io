@@ -1,4 +1,5 @@
 ---
+permalink: /news/2024_new_syllabi/
 layout: post
 date: 2024-04-09 09:00:00-0400
 inline: true

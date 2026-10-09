@@ -1,0 +1,20 @@
+# Dependabot opens a pull request once a month when the Ruby gems (Gemfile.lock)
+# or the GitHub Actions used by the workflows have updates. The "Deploy site"
+# workflow builds every pull request, so you can see that an update works
+# before merging it. Merging the PR deploys the updated site.
+version: 2
+updates:
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      ruby-gems:
+        patterns: ["*"]
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    groups:
+      actions:
+        patterns: ["*"]

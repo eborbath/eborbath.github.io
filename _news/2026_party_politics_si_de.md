@@ -1,4 +1,5 @@
 ---
+permalink: /news/2026_party_politics_si/
 layout: post
 date: 2026-01-16 13:05:00-0400
 lang: de

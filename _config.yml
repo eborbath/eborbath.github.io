@@ -8,23 +8,24 @@ middle_name:
 last_name: Borbáth
 email: endre.borbath@ipw.uni-heidelberg.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to my personal page!
+  Endre Borbáth, Junior Professor at Heidelberg University, researches political participation, protest, party competition and the climate divide in Europe.
 footer_text: Based on the <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: comparative political sociology, party competition, social movements, political participation, crisis politics, cleavages, Eastern Europe, research methods # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 languages: ["en", "de"] # list all languages you want to generate
 default_lang: en # language used when no prefix is present
+fallback_canonical_to_default_lang: true # untranslated /de/ pages point search engines to the English original
 exclude_from_localization:
   - assets/
   - node_modules/
   - _site/
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://eborbath.github.io # the base hostname & protocol for your site
+url: https://endre-borbath.eu # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: /impressum/ # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
@@ -68,9 +69,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: https://endre-borbath.eu/assets/img/DSC_9754.jpeg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -129,9 +130,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav barblog
-blog_description: a simple whitespace theme for academics
+blog_description:
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -159,7 +160,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -248,6 +249,9 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - requirements.txt
+  - node_modules/
+  - .jekyll-cache/
 keep_files:
   - CNAME
   - .nojekyll
@@ -293,7 +297,7 @@ sass:
 
 jekyll-minifier:
   compress_javascript: false # set to false since we are using terser as the js minifier
-  exclude: ["robots.txt", "assets/js/search/*.js"]
+  exclude: ["robots.txt", "assets/js/search/*.js", "assets/libs/**/*"] # downloaded libraries must stay byte-identical for their integrity hashes
 
 # -----------------------------------------------------------------------------
 # Terser
@@ -317,8 +321,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: [] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -437,7 +441,9 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: true # enables google analytics
+enable_google_analytics: true # enables google analytics (only loaded after visitor consent, see enable_cookie_consent)
+enable_cookie_consent: true # opt-in consent banner (vanilla-cookieconsent); analytics scripts load only after the visitor accepts
+privacy_path: /privacy/ # privacy policy page linked in the footer
 enable_panelbear_analytics: false # enables panelbear analytics
 enable_navbar_social:
   true # enables displaying social links in the
@@ -464,7 +470,7 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 # The integrity hash is used to ensure that the library is not tampered with.
 # Integrity hashes not provided by the libraries were generated using https://www.srihash.org/
 third_party_libraries:
-  download: false # if true, download the versions of the libraries specified below and use the downloaded files
+  download: true # if true, download the versions of the libraries specified below and use the downloaded files
   bootstrap-table:
     integrity:
       css: "sha256-uRX+PiRTR4ysKFRCykT8HLuRCub26LgXJZym3Yeom1c="
@@ -652,6 +658,14 @@ third_party_libraries:
     url:
       js: "https://cdn.jsdelivr.net/npm/swiper@11.1.0/swiper-element-bundle.min.js.map"
     version: "11.0.5"
+  vanilla-cookieconsent:
+    integrity:
+      css: "sha256-ygRrixsQlBByBZiOcJamh7JByO9fP+/l5UPtKNJmRsE="
+      js: "sha256-vG4vLmOB/AJbJ6awr7Wg4fxonG+fxAp4cIrbIFTvRXU="
+    url:
+      css: "https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@{{version}}/dist/cookieconsent.css"
+      js: "https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@{{version}}/dist/cookieconsent.umd.js"
+    version: "3.1.0"
   vega:
     integrity:
       js: "sha256-Yot/cfgMMMpFwkp/5azR20Tfkt24PFqQ6IQS+80HIZs="
