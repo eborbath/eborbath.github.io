@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://eborbath.github.io/sitemap.xml
+Sitemap: https://endre-borbath.eu/sitemap.xml
+Sitemap: https://endre-borbath.eu/de/sitemap.xml
