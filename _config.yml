@@ -11,6 +11,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Endre Borbáth, Junior Professor at Heidelberg University, researches political participation, protest, party competition and the climate divide in Europe.
 footer_text: Based on the <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: comparative political sociology, party competition, social movements, political participation, crisis politics, cleavages, Eastern Europe, research methods # add your own keywords or leave empty
+description_de: Endre Borbáth, Juniorprofessor an der Ruprecht-Karls-Universität Heidelberg, erforscht politische Partizipation, Protest, Parteienwettbewerb und die neue klimapolitische Spaltung in Europa. # used on the German pages instead of "description"
+keywords_de: vergleichende politische Soziologie, Parteienwettbewerb, soziale Bewegungen, politische Partizipation, Krisenpolitik, Cleavages, Osteuropa, Forschungsmethoden # used on the German pages instead of "keywords"
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 languages: ["en", "de"] # list all languages you want to generate

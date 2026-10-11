@@ -12,4 +12,5 @@ Wir besetzen zwei Promotionsstellen im Projekt Die neue klimapolitische Spaltung
 1. [Wissenschaftliche\*r Mitarbeiter\*in Politik des Klimawandels (w/m/d) — Schwerpunkt: Umfrageforschung und politische Partizipation (Arbeitspaket 2)](https://climatedivide.eu/uploads/ClimateDivide_WP2_PhD_Call_DE.pdf){:target="\_blank"}
 2. [Wissenschaftliche\*r Mitarbeiter\*in Politik des Klimawandels (w/m/d) — Schwerpunkt: Qualitative Forschung und Gruppenbildung (Arbeitspaket 3)](https://climatedivide.eu/uploads/ClimateDivide_WP3_PhD_Call_DE.pdf){:target="\_blank"}
 
-Bewerbungsschluss: 21. Juni 2026. Bevorzugter Beginn: 21. September 2026.
+Bewerbungsschluss: 21. Juni 2026. Bevorzugter Beginn: 21. September 2026.<br>
+<b>Update (1. September 2026):</b> Die Bewerbungsfrist ist abgelaufen.
