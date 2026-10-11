@@ -2,13 +2,24 @@
 
 // Toggle through light, dark, and system theme settings.
 let toggleThemeSetting = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting == "system") {
-    setThemeSetting("light");
-  } else if (themeSetting == "light") {
-    setThemeSetting("dark");
+  let switchTheme = () => {
+    let themeSetting = determineThemeSetting();
+    if (themeSetting == "system") {
+      setThemeSetting("light");
+    } else if (themeSetting == "light") {
+      setThemeSetting("dark");
+    } else {
+      setThemeSetting("system");
+    }
+  };
+  // Cross-fade the whole page as one image where the browser supports view
+  // transitions, so text, headings and backgrounds change together. Other
+  // browsers (and visitors who prefer reduced motion) switch instantly.
+  let reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (document.startViewTransition && !reduceMotion) {
+    document.startViewTransition(switchTheme);
   } else {
-    setThemeSetting("system");
+    switchTheme();
   }
 };
 
@@ -244,12 +255,9 @@ let setSearchTheme = (theme) => {
   }
 };
 
-let transTheme = () => {
-  document.documentElement.classList.add("transition");
-  window.setTimeout(() => {
-    document.documentElement.classList.remove("transition");
-  }, 500);
-};
+// Theme changes are animated by the view transition in toggleThemeSetting
+// (or not at all), so no per-element CSS transitions are needed any more.
+let transTheme = () => {};
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
 // "system". Default is "system".

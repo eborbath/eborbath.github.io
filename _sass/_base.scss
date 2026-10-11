@@ -80,6 +80,7 @@ blockquote {
       color: var(--global-tip-block-text);
     }
 
+    a,
     h1,
     h2,
     h3,
@@ -101,6 +102,7 @@ blockquote {
       color: var(--global-warning-block-text);
     }
 
+    a,
     h1,
     h2,
     h3,
@@ -122,6 +124,7 @@ blockquote {
       color: var(--global-danger-block-text);
     }
 
+    a,
     h1,
     h2,
     h3,
@@ -428,7 +431,8 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-@media (max-width: 575.98px) {
+// collapsed (hamburger) menu: must match navbar-expand-lg in header.liquid
+@media (max-width: 991.98px) {
   #navbarNav {
     background-color: var(--global-bg-color);
     padding: 0.75rem 1rem;
@@ -633,6 +637,9 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  // long unbroken titles (e.g. news pages titled after their file name) must not overflow on phones
+  overflow-wrap: anywhere;
+
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
@@ -950,6 +957,7 @@ pre {
     border-radius: 0;
     margin-bottom: 0;
     padding: 0;
+    white-space: inherit;
   }
 }
 
@@ -961,12 +969,11 @@ code {
 }
 
 // Transitioning Themes
-html.transition,
-html.transition *,
-html.transition *:before,
-html.transition *:after {
-  transition: all 750ms !important;
-  transition-delay: 0 !important;
+// theme.js cross-fades the page with a view transition when the theme changes.
+// (The old per-element "html.transition" rules made headings lag behind body text.)
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 300ms;
 }
 
 // Extra Markdown style (post Customization)

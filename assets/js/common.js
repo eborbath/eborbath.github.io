@@ -30,6 +30,7 @@ $(document).ready(function () {
     Toc.init($myNav);
     $("body").scrollspy({
       target: navSelector,
+      offset: 100, // account for the fixed navbar, so the highlighted entry matches the visible section
     });
   }
 

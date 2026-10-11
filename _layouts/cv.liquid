@@ -27,8 +27,13 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
+            {% if lang_is_de %}
+              aria-label="Lebenslauf als PDF herunterladen" title="Lebenslauf als PDF herunterladen"
+            {% else %}
+              aria-label="Download CV as PDF" title="Download CV as PDF"
+            {% endif %}
           >
-            <i class="fa-solid fa-file-pdf"></i>
+            <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
           </a>
         {% endif %}
       </h1>
@@ -78,8 +83,13 @@ layout: default
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
+            {% if lang_is_de %}
+              aria-label="Lebenslauf als PDF herunterladen" title="Lebenslauf als PDF herunterladen"
+            {% else %}
+              aria-label="Download CV as PDF" title="Download CV as PDF"
+            {% endif %}
           >
-            <i class="fa-solid fa-file-pdf"></i>
+            <i class="fa-solid fa-file-pdf" aria-hidden="true"></i>
           </a>
         {% endif %}
       </h1>

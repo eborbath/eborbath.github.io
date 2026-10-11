@@ -1,0 +1,36 @@
+---
+layout: null
+permalink: /sitemap.xml
+sitemap: false
+---
+{%- comment -%}
+  Bilingual sitemap. Replaces the one jekyll-sitemap would generate, which only knew the
+  English addresses. Every page exists in English (/...) and German (/de/...),
+  so both are listed and linked to each other with hreflang annotations.
+{%- endcomment -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- assign entries = site.pages -%}
+{%- assign base = site.url | append: site.baseurl -%}
+{%- assign seen = '' -%}
+{%- for entry in entries -%}
+  {%- assign last_char = entry.url | slice: -1 -%}
+  {%- if entry.sitemap == false or last_char != '/' or entry.url contains '/assets/' -%}{%- continue -%}{%- endif -%}
+  {%- capture key -%}|{{ entry.url }}|{%- endcapture -%}
+  {%- if seen contains key -%}{%- continue -%}{%- endif -%}
+  {%- assign seen = seen | append: key -%}
+  {%- assign en_url = base | append: entry.url -%}
+  {%- assign de_url = base | append: '/de' | append: entry.url -%}
+  {%- for loc in (1..2) -%}
+  <url>
+    <loc>{% if loc == 1 %}{{ en_url }}{% else %}{{ de_url }}{% endif %}</loc>
+    {%- if entry.date %}
+    <lastmod>{{ entry.date | date_to_xmlschema }}</lastmod>
+    {%- endif %}
+    <xhtml:link rel="alternate" hreflang="en" href="{{ en_url }}"/>
+    <xhtml:link rel="alternate" hreflang="de" href="{{ de_url }}"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ en_url }}"/>
+  </url>
+  {%- endfor -%}
+{%- endfor %}
+</urlset>

@@ -19,7 +19,7 @@ body {
 
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
-  padding-top: 56px;
+  padding-top: 57px;
 }
 
 body.sticky-bottom-footer {
@@ -58,11 +58,19 @@ body.sticky-bottom-footer {
   gap: 0.4rem;
   z-index: 1030; // below the navbar toggler (1050) but above content
 
-  @media (max-width: 575.98px) {
-    top: 60px; // drop below the hamburger/nav bar on mobile
+  // Below 1200px the menu reaches the right edge of the window, where the switcher
+  // would cover the search and theme buttons, so drop it below the nav bar.
+  @media (max-width: 1199.98px) {
+    top: 60px;
     right: 12px;
     bottom: auto;
   }
+}
+
+// hide it while the collapsed (hamburger) menu is open, so it does not cover the menu items
+body:has(#navbarNav.show) .lang-switcher,
+body:has(#navbarNav.collapsing) .lang-switcher {
+  display: none;
 }
 
 .lang-btn {

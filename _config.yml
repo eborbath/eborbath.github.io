@@ -15,6 +15,7 @@ keywords: comparative political sociology, party competition, social movements, 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 languages: ["en", "de"] # list all languages you want to generate
 default_lang: en # language used when no prefix is present
+parallel_localization: false # build languages one after another; parallel builds race on creating cache/output folders and can fail on a fresh checkout (as in GitHub Actions)
 fallback_canonical_to_default_lang: true # untranslated /de/ pages point search engines to the English original
 exclude_from_localization:
   - assets/
@@ -138,7 +139,7 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false # no blog on this site
 
 related_blog_posts:
   enabled: true
@@ -193,7 +194,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false # news items are shown in full on the homepage and in the archive; no separate page per item
   projects:
     output: true
     permalink: /projects/:path/
@@ -427,7 +428,7 @@ imagemagick:
     - ".tiff"
     - ".gif"
   output_formats:
-    webp: "-quality 85"
+    webp: "-auto-orient -quality 85"
 
 # Lazy loading images
 #   If you enable lazy loading, all images will add the loading="lazy" attribute.
@@ -454,7 +455,7 @@ enable_openpanel_analytics: false # enables Openpanel analytics (https://openpan
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
-enable_math: true # enables math typesetting (uses MathJax)
+enable_math: false # enables math typesetting (uses MathJax); off because no page uses formulas
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
 enable_project_categories: true # enables categorization of projects into multiple categories
