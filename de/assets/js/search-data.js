@@ -238,6 +238,9 @@ ninja.data = [{
           section: "News",},{id: "news-ich-habe-die-syllabi-für-die-zwei-seminare-vorbereitet-die-ich-im-wintersemester-2026-27-an-der-ruprecht-karls-universität-heidelberg-unterrichten-werde-klimawandel-und-politischer-konflikt-ma-englisch-politischer-konflikt-und-bürgerbeteiligung-in-osteuropa-ba-deutsch",
           title: 'Ich habe die Syllabi für die zwei Seminare vorbereitet, die ich im Wintersemester...',
           description: "",
+          section: "News",},{id: "news-neuer-artikel-zu-changing-the-terms-of-conflict-electoral-revolution-in-the-2026-hungarian-parliamentary-election-gemeinsam-mit-miklós-sebők-und-andrea-szabó-jetzt-online-in-west-european-politics-veröffentlicht-den-artikel-finden-sie-hier",
+          title: 'Neuer Artikel zu “Changing the terms of conflict: electoral revolution in the 2026...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

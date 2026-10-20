@@ -238,6 +238,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-ve-prepared-the-syllabi-for-the-two-seminars-i-will-teach-in-the-2026-2027-winter-semester-at-heidelberg-university-climate-change-and-political-conflict-ma-english-political-conflict-and-citizen-participation-in-eastern-europe-ba-german",
           title: 'I’ve prepared the syllabi for the two seminars I will teach in the...',
           description: "",
+          section: "News",},{id: "news-new-paper-on-changing-the-terms-of-conflict-electoral-revolution-in-the-2026-hungarian-parliamentary-election-co-authored-with-miklós-sebők-and-andrea-szabó-now-published-online-in-west-european-politics-you-can-find-the-paper-here",
+          title: 'New paper on “Changing the terms of conflict: electoral revolution in the 2026...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
