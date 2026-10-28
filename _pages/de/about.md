@@ -8,7 +8,7 @@ subtitle: >
   <b>Leiter der Emmy-Noether-Nachwuchsgruppe: Die neue klimapolitische Spaltung</b>
 profile:
   align: left
-  image: Borbath_new_hs.jpg
+  image: Arndt-Team-Borbath-PW-2026-web-10.jpg
   image_alt: Porträt von Endre Borbáth
   image_cicular: false
 selected_papers: true
