@@ -63,7 +63,7 @@ GEM
       base64
       ssrf_filter (~> 1.5)
     cssminify2 (2.1.0)
-    csv (3.3.6)
+    csv (3.3.7)
     date (3.6.0)
     deep_merge (1.2.2)
     drb (2.2.3)
