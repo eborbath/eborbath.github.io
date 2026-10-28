@@ -241,6 +241,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-on-changing-the-terms-of-conflict-electoral-revolution-in-the-2026-hungarian-parliamentary-election-co-authored-with-miklós-sebők-and-andrea-szabó-now-published-online-in-west-european-politics-you-can-find-the-paper-here",
           title: 'New paper on “Changing the terms of conflict: electoral revolution in the 2026...',
           description: "",
+          section: "News",},{id: "news-i-am-delighted-to-welcome-miriam-runde-and-angelika-juhász-as-doctoral-researchers-in-my-emmy-noether-project-the-new-climate-divide-at-heidelberg-university-miriam-examines-how-climate-change-issues-shape-citizens-political-participation-in-europe-while-angelika-investigates-how-opposing-political-group-identities-form-around-climate-change-read-more-on-the-project-website",
+          title: 'I am delighted to welcome Miriam Runde and Angelika Juhász as doctoral researchers...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
