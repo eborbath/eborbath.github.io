@@ -24,7 +24,8 @@ Heidelberg University
 Faculty of Economics and Social Sciences  
 Institute of Political Science  
 Bergheimer Str. 58, Room 03.033  
-69115 Heidelberg, Germany  
+69115 Heidelberg,  
+Baden-Württemberg, Germany  
 Phone: +49 6221 54-2871
 
 ---
@@ -34,7 +35,8 @@ Phone: +49 6221 54-2871
 WZB Berlin Social Science Center  
 Center for Civil Society Research  
 Reichpietschufer 50, Room B213  
-10785 Berlin, Germany  
+10785 Berlin,  
+Berlin, Germany  
 Phone: +49 30 25491-245
 
 ---
